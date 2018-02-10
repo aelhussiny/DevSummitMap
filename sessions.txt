@@ -1,0 +1,3102 @@
+2:00 pm - 7:00 pm Monday, March 05
+GIS Solutions Expo and Esri Showcase
+Conference Services/Activities
+Primrose Lobby
+___________________________________________________________________________
+3:00 pm - 4:00 pm Monday, March 05
+Lightning Talks
+
+Mesquite B-C
+___________________________________________________________________________
+7:30 am - 5:30 pm Tuesday, March 06
+Esri Store
+
+Primrose Lobby
+___________________________________________________________________________
+8:30 am - 12:00 pm Tuesday, March 06
+Developer Summit Plenary Session
+
+Oasis 3-4
+___________________________________________________________________________
+12:00 pm - 1:00 pm Tuesday, March 06
+Commercial SIG
+
+Esplanade
+___________________________________________________________________________
+12:00 pm - 1:00 pm Tuesday, March 06
+Hosted Lunch
+
+Esplanade
+___________________________________________________________________________
+1:00 pm - 1:30 pm Tuesday, March 06
+Using the File Geodatabase API
+Demo Theater Presentation, Geodatabase
+Demo Theater 3 - Oasis 1 - Lance Shipman, David Sousa
+DESCRIPTION
+This is a review and demo of the File Geodatabase API, a free C++ API for the
+File Geodatabase available for Linux, Mac, and Windows developers. We will
+highlight the latest enhancements and bug fixes.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+Customizing Hub and Open Data Sites
+
+Pasadena-Sierra-Ventura - Sam Hunter, Courtney Claessens
+DESCRIPTION
+ArcGIS includes easy to use Site and Page editing for sharing your private
+information within organization and open data with the public. Learn about
+ArcGIS Hub and how to make an engaging, informative, and beautiful sites.
+You'll hear about designing your own visual experience and building the right
+data visuals to best communicate your information and tell your story. We'll also
+touch on different ways to customize your data and downloads. We will show you
+all the tips and tricks of making ArcGIS Hub your own.
+This session is oriented at analyst/developers who are using ArcGIS Hub, and
+people that are seeking to learn more about data-driven Sites for their
+organization.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+Introduction to Explorer for ArcGIS
+Esri Technical Session, Apps
+Mesquite G-H - Scott Ball, Brent Pierce
+DESCRIPTION
+Interested in how Explorer if changing? Want to see demos of the exciting new
+feature coming in the next release of this field app. This workshop will walk
+through the key features that will be part of the next release of Explorer for
+ArcGIS.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+Inside Scoop: Navigating Your Way Through the ArcGIS API for JavaScript Sessions
+Esri Technical Session, Web
+Oasis 4 - Randy Jones, Kelly Hutchins, Jeremy Bartley, Yann Cabon, Rene Rubalcava, Kristian Ekenes, Bjorn Svensson, Javier Gutierrez, Juan Carlos Franco
+DESCRIPTION
+This session is designed to help you plan out your week. ArcGIS API for
+JavaScript presenters will be given 5 minutes to give you a sneak peek at what
+they will be covering in their sessions. We will also discuss possible pathways
+through the wide variety of web-focused sessions based on developer skillsets
+and interests. Come to this session to get the most out of the DevSummit.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+Introducing UX to Your GIS Org
+UX/UI, Esri Technical Session
+Mesquite B - Matt Palmer, Karl Frantz
+DESCRIPTION
+Come learn from Esri designers how best to introduce user experience design to
+your organization. You will get crash courses in communicating the value of UX,
+visualizing ideas using popular UX techniques like wireframes, and more.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+ArcGIS Runtime: An Introduction to the API and Architecture
+Esri Technical Session, Runtime
+Primrose A - Euan Cameron, David Cardella
+DESCRIPTION
+The ArcGIS Runtime API is a powerful, modern, scalable, and forward-looking API
+that is designed to make it easy to build great applications that fully leverage
+ArcGIS and the device your app is running on. This session will present an
+introduction to the Runtime SDKs, advantages of using them, and an overview of
+the API. This session is ideal for developers new to the runtime and managers or
+program managers evaluating the technology.
+___________________________________________________________________________
+1:00 pm - 1:30 pm Tuesday, March 06
+Working with Rasters and Imagery Using Python
+Demo Theater Presentation, Imagery/Raster
+Demo Theater 2 - Oasis 1 - Zoey Zou, Jamie Drisdelle
+DESCRIPTION
+In this session, we will introduce ArcPy APIs specifically designed for working
+with imagery and rasters. You will learn how to access these datasets, run
+geoprocessing tasks, and do basic image processing using ArcPy. We will
+introduce the structure of ArcPy and walk through code to learn how to take
+advantage of ArcPy and imagery. This session will also touch on how to make
+requests to ArcGIS image services using Python.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+Developing Cross-Platform Native Apps with AppStudio for ArcGIS: The Basics
+Esri Technical Session, Apps
+Mesquite C - Tina Jin, Nakul Manocha, Chris Lesueur, Erwin Soekianto
+DESCRIPTION
+Join this session to learn how to build cross-platform native apps with AppStudio
+for ArcGIS. You will learn the basics for programming with the Qt Creator IDE
+and QML as well as a complete suite of developer productivity tools for ArcGIS
+developers. This session targets Javascript and Python developers of all levels
+who want to learn how to build native mapping applications.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+ArcGIS API for Python: Introduction to Scripting Your Web GIS
+Esri Technical Session, Online
+Primrose B - Ben Ramseth, John Yaist
+DESCRIPTION
+ArcGIS API for Python lets ArcGIS users, developers, and anyone with an ArcGIS
+Online subscription or a ArcGIS Enterprise, leverage the Python ecosystem to
+automate their workflows and perform repetitive tasks by writing Python scripts.
+In this session you will learn how the ArcGIS Python API can help in scripting and
+automating your Web GIS. It will start with an introduction of the API, who it's for
+and what it can do. The session will walk through the process of getting the API
+through Conda and writing scripts using Jupyter Notebook. A brief tour of the
+API will be followed by a show and tell of some of the powerful capabilities of the
+API, including using the Map widget to visualize GIS content as well as calling
+GeoAnalytics and Raster Analysis tools using the API.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+ArcGIS Pro SDK for .NET: An Overview of the Geodatabase API
+Esri Technical Session, Geodatabase
+Mojave Learning Center - Ling Zhang, Colin Zwicker, Nghiep Quang
+DESCRIPTION
+This session will provide an overview of the geodatabase .NET API
+(ArcGIS.Core.Data) for working with data in ArcGIS Pro, including working with
+datasets, fields, queries, selections, joins and relates.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+ArcGIS Online: Core Concepts for Developers
+Esri Technical Session, Online
+Smoketree A-E - Kelly Gerrow-Wilcox, Paul Ross
+DESCRIPTION
+ArcGIS connects maps, apps, data, and people to make smarter and faster
+decisions. It gives everyone the ability to discover, use, make, and share maps
+from any device, anywhere, anytime. You can quickly add geo to your apps using
+Esri's cloud services, develop in the API of your choice, and deploy on any
+device. In this session, you will get an overview of what's included in the platform
+including ready-to-use maps and apps, analytics, sharing model, access to
+Marketplace, licensing, and tools for developers.
+___________________________________________________________________________
+1:00 pm - 1:30 pm Tuesday, March 06
+ArcGIS Pro SDK for .NET: Getting Started
+Demo Theater Presentation, Pro
+Demo Theater 1 - Oasis 1 - Christopher Zent
+DESCRIPTION
+Looking for a walk-through on how to get up and running with the ArcGIS Pro
+SDK? Join us for quick tips and demos on installing the Pro SDK and the SDK
+community samples and building your first Pro add-in. We'll show you how you
+can get up and running quickly with the samples, and introduce you to the many
+online resources.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Tuesday, March 06
+Accessing Your Enterprise Geodatabase Using SQL
+Esri Technical Session, Geodatabase
+Primrose C-D - Shannon Shields, Amit Kesarwani, Said Parirokh
+DESCRIPTION
+There are many ways to access an enterprise geodatabase using the ArcGIS
+system. We'll focus on effective patterns that developers who are familiar with
+SQL should utilize to work with the contents of their geodatabase.
+___________________________________________________________________________
+1:30 pm - 2:00 pm Tuesday, March 06
+Best Practices for Building Web Maps
+Demo Theater Presentation, Online
+Demo Theater 1 - Oasis 1 - Ian Wittenmyer, Jim Herries
+DESCRIPTION
+Web Maps are important building blocks of the ArcGIS online ecosystem,
+powering the functionality of many apps. Building web maps with specific layer
+types, filters, and symbology enable your apps to go to the next level.
+___________________________________________________________________________
+1:30 pm - 2:00 pm Tuesday, March 06
+Navigator for ArcGIS: Tips and Tricks
+Demo Theater Presentation, Apps
+Demo Theater 3 - Oasis 1 - Heather McCracken, Nick Patel
+DESCRIPTION
+Come see the ins and outs of Navigator for ArcGIS capabilities. Get stops into
+Navigator quickly, from your existing system and app. Then optimize those stops
+into the best order, and have complete control over your route's stop list. Learn
+how any existing field workflow can be improved with fewer miles driven, by
+integrating Navigator into your field work.
+___________________________________________________________________________
+1:30 pm - 2:00 pm Tuesday, March 06
+Writing Image Processing Algorithms Using the Python Raster Function
+Demo Theater Presentation, Imagery/Raster
+Demo Theater 2 - Oasis 1 - Jamie Drisdelle
+DESCRIPTION
+Join us to unleash your inner Pythonista and to learn how your algorithms can
+integrate with the raster processing and visualization pipelines in ArcGIS. We'll
+demonstrate the concept and discuss the API by diving deep into a few
+interesting examples with a special focus on multidimensional scientific rasters.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+Using the ArcGIS REST JS Libraries and the ArcGIS REST APIs
+Dev 2 Dev, Esri Technical Session
+Mojave Learning Center - John Gravois, Andrew Turner, David Bouwman, Tom Wayson
+DESCRIPTION
+ArcGIS exposes many powerful tools as REST APIs that can be accessed from any
+platform via HTTP, these APIs can be used to create powerful custom
+applications and abstractions on top of the ArcGIS Platform. Learn some tricks
+and tips for using these APIs both in their regular HTTP form and using the new
+ArcGIS REST JS library for higher level abstractions.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+ArcGIS Pro SDK for .NET: Beginning Pro Customization and Extensibility
+Esri Technical Session, Pro
+Primrose A - Wolf Kaiser, Uma Harano
+DESCRIPTION
+Learn how to customize and extend ArcGIS Pro with its .NET SDK. We'll show you
+how you can get up and running quickly with the Add-in and Configuration
+customization patterns, declarative programming with DAML, and asynchronous
+programming with ArcGIS Pro's QueuedTask.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+Introduction to GeoAnalytics Server
+Esri Technical Session, Enterprise
+Smoketree A-E - Sarah Ambrose, Noah Slocum
+DESCRIPTION
+GeoAnalytics Server performs scalable and distributed batch analysis on feature
+and tabular data that has both spatial (location) and temporal (time) components.
+With over a dozen analytical tools, GeoAnalytics provides the framework you
+need to summarize, visualize and analyze patterns within large volumes of data.
+At this session, we will discuss the available analytical tools, how these analytics
+take advantage of the processing power of multiple machines in ArcGIS
+Enterprise, and the supported data formats for analysis. We will present real
+world examples and discuss integrated technology such as the underlying
+storage and framework.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+ArcGIS Runtime: Working with Your Portal
+Esri Technical Session, Runtime
+Mesquite G-H - Divesh Goyal, Nathan Castle, Vijay Gandhi
+DESCRIPTION
+The portal is a fundamental component of the Web GIS; it holds and organizes
+your Maps, layers, users, groups and other data. This session will cover what you
+need to know to build great apps that work effectively with your web GIS.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+Improving Your Web App Through UI/UX Best Practices
+Dev 2 Dev, Esri Technical Session
+Mesquite B - Mike Gaigg, Allan Laframboise
+DESCRIPTION
+With so many great GIS tools around, why isn't map app design a slam dunk?
+This session teaches you that great UX is more than the sum of its parts and
+explains how to design more compelling UI's. We'll cover fundamental building
+blocks of successful applications and introduce ways to improve the total
+experience.
+___________________________________________________________________________
+2:30 pm - 3:00 pm Tuesday, March 06
+Living Atlas in ArcGIS Enterprise
+Demo Theater Presentation, Enterprise
+Demo Theater 1 - Oasis 1 - Julia Yunzhu Shi
+DESCRIPTION
+Living Atlas of the World content is available for ArcGIS Enterprise customers
+starting with the 10.5 release. This session will show how to take advantage of
+Living Atlas content to create maps and apps and run analyses in ArcGIS
+Enterprise. We will also show how to configure Esri boundary layers within a
+disconnected environment.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+GeoEvent Server: An Introduction
+Esri Technical Session, Real-Time GIS
+Primrose B - Josh Joyner, RJ Sunderman Jr
+DESCRIPTION
+GeoEvent Server expands the capabilities of ArcGIS Enterprise enabling
+organizations to connect with virtually any type of streaming data and
+automatically alert personnel when specified conditions occur, all in real time.
+This session will introduce how you can incorporate real-time information streams
+with your existing GIS data and IT infrastructure, perform continuous processing
+and analysis against streaming data, and produce new streams of data that work
+seamlessly with the rest of the ArcGIS products including ArcGIS Online, Portal
+for ArcGIS, ArcGIS applications, and Runtime SDKs.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+Getting Started with Web Development and the ArcGIS API for JavaScript
+Esri Technical Session, Web
+Oasis 4 - Heather Gonzago, Noah Sager
+DESCRIPTION
+Join us for an overview on developing with the ArcGIS API for JavaScript. This
+session will cover the basics of setting up your development environment,
+fundamental debugging techniques, and tips for using the online SDK. Learn
+about patterns and practices for integration with ArcGIS Online, ArcGIS Server,
+working with data and widgets.
+___________________________________________________________________________
+2:30 pm - 3:00 pm Tuesday, March 06
+ArcGIS Data Reviewer: Integrating Data Quality Control into Web Applications
+Professional Services, Demo Theater Presentation
+Demo Theater 2 - Oasis 1 - Shankar Chandrasekaran
+DESCRIPTION
+Learn how to deploy data quality control capabilities and apps on the Web.
+Understand how ArcGIS Data Reviewer services can be used to implement
+quality-focused applications and workflows. You will also learn about starter
+applications and samples that support multiple deployment scenarios.
+___________________________________________________________________________
+2:30 pm - 3:00 pm Tuesday, March 06
+ArcGIS Online: Taking Data Offline
+Demo Theater Presentation, Online
+Demo Theater 3 - Oasis 1 - Paul Barker, Chris Whitmore
+DESCRIPTION
+Working with your data in a connected environment isn't always an option,
+sometimes you need to view and edit maps in areas no network coverage to do
+that you need to take your data offline. Discover how to prepare your data for
+offline use , so that you can keep working even when the network isn't. Come
+learn best practices , what layer are supported and other tips and tricks when
+working in disconnected environments.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+Building Geoprocessing Tools with Python: Getting Started
+Esri Technical Session, Geoprocessing
+Primrose C-D - David Wynne, Andrew Ortego
+DESCRIPTION
+Join us as we step through the process of creating geoprocessing tools using
+Python. Using both script tools and Python toolboxes as examples, this workshop
+will highlight the important decisions in making fully functional geoprocessing
+tools.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+Web AppBuilder for ArcGIS: Dive Into Mobile Development
+Esri Technical Session, Web
+Pasadena-Sierra-Ventura - Kevin Gao, Yiwei Ma
+DESCRIPTION
+This session will walk through multiple steps to develop custom web apps for
+mobile on Web AppBuilder. The topics include but not limited to: custom mobile
+layout, Responsive CSS, custom navigation for mobile. This session will cover
+different levels of Web AppBuilder customizations for people with different web
+development backgrounds.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Tuesday, March 06
+Developing Cross-Platform Native Apps with AppStudio for ArcGIS: Advanced
+Esri Technical Session, Apps
+Mesquite C - Siddesh Pillai, Liwei Gao, Erwin Soekianto
+DESCRIPTION
+In this session we will discuss advanced developer techniques with AppStudio for
+ArcGIS. In particular, we will cover some of the latest enhancements added to
+AppStudio such as support for high accuracy GNSS receivers, biometric logins,
+improved data access utilities and more.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Tuesday, March 06
+ArcGIS Workflow Manager: Getting Started With Web APIs
+Professional Services, Demo Theater Presentation
+Demo Theater 2 - Oasis 1 - Lalaine Lam
+DESCRIPTION
+Learn how to unlock the power of Workflow Manager within JavaScript
+applications and widgets. We will examine how to customize the out-of-the-box
+Workflow Manager web application and Create Jobs widget, and how to
+integrate Workflow Manager functionality within your existing applications.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Tuesday, March 06
+How to (& how not to) build Microservices
+
+Demo Theater 3 - Oasis 1 - Pranav Kulkarni, Alex Harris
+DESCRIPTION
+Modern web applications integrate multiple distributed services to provide an
+integrated and complete product experience. The ArcGIS platform is designed as
+a constellation of microservices for data management, geocoding,
+authentication, spatial analysis, visualization, and more.
+Learn how you can build and manage large-scale microservice architecture from
+the ArcGIS Hub team. We'll cover the current trends in development, testing,
+deployment and monitoring of applications using cloud server providers. You'll
+hear about how you can use technologies like Kubernetes, Docker, AWS Lambda
+and more.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Tuesday, March 06
+ArcGIS Online: Sharing Preplanned Routes with Navigator
+Demo Theater Presentation, Geoprocessing
+Demo Theater 1 - Oasis 1 - Frank Kish, Nick Patel, Joel Whitney
+DESCRIPTION
+ArcGIS provides many tools for solving single and multi-vehicle routing
+problems. Once routes have been generated in the office using ArcGIS Pro or
+ArcGIS Online, then what? Share them in ArcGIS Online so your field crew can
+use them with Navigator for ArcGIS to follow the optimized stop list generated in
+the back office.
+___________________________________________________________________________
+3:00 pm - 5:00 pm Tuesday, March 06
+Speedgeeking
+
+Santa Rosa - San Jacinto - 
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+Web AppBuilder for ArcGIS: JavaScript Apps Made Easy
+Esri Technical Session, Web
+Primrose C-D - Jianxia Song, David Martinez
+DESCRIPTION
+Web AppBuilder for ArcGIS is a pure HTML5/JavaScript-based application that
+allows you to create your own intuitive, fast, and beautiful web apps without
+writing a single line of code. The app uses new ArcGIS platform features and
+modern browser technology to provide both flexible and powerful capabilities
+such as 3D visualization of data. Come to this session to learn how you can
+configure workflow-driven GIS apps that run seamlessly across all devices, create
+both ready-to-use apps and ArcGIS web app templates for ArcGIS Online or
+Portal for ArcGIS.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+DIY Usability Testing
+UX/UI, Esri Technical Session
+Mesquite C - Richard Caballero, Erich Rainville, Andy Eveland, Kyle Jones
+DESCRIPTION
+Stop guessing and start learning. Join Esri designers and user-researchers for a
+workshop that introduces the basics of usability testing and how to do it yourself.
+___________________________________________________________________________
+4:00 pm - 4:30 pm Tuesday, March 06
+Tracking User Engagement for Feedback and Quality with Telemtry.js
+
+Demo Theater 3 - Oasis 1 - Daniel Fenton, Markham Shofner
+DESCRIPTION
+Building engaging and high-quality applications requires continuous feedback.
+Usage tracking and anlytics are effective for real-time sytem monitoring and
+product quality improvements.
+We'll demonstrate how you can quickly add usage tracking to your GIS
+applications with Telemetry.js and analytics tools such as Google Analytics and
+Amazon Pinpoint.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+Leveraging 3D Across the ArcGIS Platform
+Esri Technical Session, 3D
+Primrose A - Nathan Shephard, Chris Andrews
+DESCRIPTION
+Esri now provides a full suite of 3D capabilities including customizable and
+tailored solutions for a wide variety of partners and users. Esri's offerings include
+3D desktop applications for creating, maintaining and analyzing 3D content;
+native 3D Runtime capabilities for interacting with 3D views on mobile devices;
+open standard hosted 3D streaming services; and online 3D scene authoring and
+consumption capabilities using the scene viewer and ArcGIS API for JavaScript.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+ArcGIS Mobile Apps: The Road Ahead
+Esri Technical Session, Apps
+Primrose B - Jeff Shaner, Ismael Chivite, Jeff Jackson
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+ArcGIS API for JavaScript: What's New
+Esri Technical Session, Web
+Pasadena-Sierra-Ventura - Bjorn Svensson, Lloyd Heberlie
+DESCRIPTION
+Learn about the latest advances in the ArcGIS API for JavaScript. This session is
+an overview of several important updates in the API as well as some of the
+smaller capabilities that you may not have noticed.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+ArcGIS Online: Managing Data
+Esri Technical Session, Online
+Smoketree A-E - Paul Barker, Jeremy Bartley, Chris Whitmore
+DESCRIPTION
+ArcGIS Online for Organizations is a powerful platform that you can use to
+manage your maps and layers in the cloud. In this session, you will learn how to
+store your data online and, once stored, how to manage and organize it
+effectively.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+ArcGIS Monitor: An Introduction
+Professional Services, Esri Technical Session
+Mojave Learning Center - Andrew Sakowicz
+DESCRIPTION
+ArcGIS administrators require effective monitoring solutions to meet the growing
+demand for feature-rich, highly available and performing ArcGIS solutions. In this
+session, you will learn to configure and customize using python, PowerShell
+and .net to help diagnose the root causes of typical cases, e.g. performance,
+uptime and infrastructure problems. We will be using the newly released ArcGIS
+Monitor product to show you how.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+Python: Working with Raster Data
+Esri Technical Session, Geoprocessing
+Mesquite B - Elizabeth Graham, Nawajish Noman
+DESCRIPTION
+The integration of map algebra with Python opens a new dimension for raster
+analysis and the automation of geoprocessing workflows. Using a real world
+example, this session will include an introduction to the Spatial Analyst ArcPy
+module, best practices for using the raster object and classes to expand your
+modeling capability, using raster functions to optimize performance, and using
+NumPy arrays to extend your analysis.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+ArcGIS Runtime SDK for Java: Building Applications
+Esri Technical Session, Runtime
+Mesquite G-H - Tyler Schiewe, Mark Baird
+DESCRIPTION
+The ArcGIS Runtime SDK for Java allows you to quickly and easily build
+interactive mapping applications for Windows, Linux and Mac Desktops. This
+session introduces the SDK then covers common developer workflows and
+capabilities you'll use to build your own applications. You'll learn about patterns
+and practices for building great GIS apps with Java and JavaFX, and the
+resources that are available for your success.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Tuesday, March 06
+ArcGIS Pro: The Road Ahead
+Esri Technical Session, Pro
+Oasis 4 - Stefan Balbo, Rob Elkins Jr, Nathan Shephard, Charlie Macleod, Jim McKinney, Craig Williams, Drew Flater, David Watkins
+DESCRIPTION
+ArcGIS Pro is the premier desktop GIS for 2D and 3D mapping, analysis and
+editing. Come and hear from senior members of the ArcGIS Pro team as they
+discuss ArcGIS Pro's latest capabilities and what's planned for the future.
+___________________________________________________________________________
+4:00 pm - 4:30 pm Tuesday, March 06
+ArcGIS Pro SDK for .NET: Custom States and Conditions
+Esri Technical Session, Pro
+Demo Theater 2 - Oasis 1 - Mohini Todkari
+DESCRIPTION
+Learn how to take advantage of contextual behavior in ArcGIS Pro using states
+and conditions. This demo will focus on DAML elements in ArcGIS Pro add-ins,
+and how to manipulate the Pro UI and content based on what's selected in the
+application.
+___________________________________________________________________________
+4:00 pm - 4:30 pm Tuesday, March 06
+The Fantastic Four: A Cross Platform Maps App With .NET
+Demo Theater Presentation, Runtime
+Demo Theater 1 - Oasis 1 - Mara Stoica
+DESCRIPTION
+The Maps App example app built with the .NET Runtime SDK is 4 apps in one.
+We have used Xamarin Forms to build a native UI for iOS, Android and Universal
+Windows Platform, and added a WPF UI for our Windows 7 users. Come see how
+we've created this in one Visual Studio solution with maximized shared code.
+___________________________________________________________________________
+4:30 pm - 5:00 pm Tuesday, March 06
+Develop with Confidence: CT/CI/CD
+
+Demo Theater 3 - Oasis 1 - Idi Eradiri, Brooks Robertson, Jeremy Schneider
+DESCRIPTION
+We all aspire to develop with confidence, knowing that our additions and
+changes 'work'. Continuous testing helps achieve confidence by validating
+changes with immediate test feedback at various levels: unit tests, component
+tests, and end-to-end integration tests.
+In this demo, we will share our experiences and some best practice
+recommendations on your journeys towards Continuous Integration and
+Continuous Deployment of modern applications. Learn about browser testing
+with webdriver.io, Jenkins build pipelines, and integration with Slack and other
+collaboration channels.
+___________________________________________________________________________
+4:30 pm - 5:00 pm Tuesday, March 06
+ArcGIS Runtime: Building Augmented and Virtual Reality Experiences
+Demo Theater Presentation, Runtime
+Demo Theater 1 - Oasis 1 - Adrien Meriaux, Rex Hansen
+DESCRIPTION
+Come learn about how AR/VR apps can be developed with ArcGIS Runtime to
+use hosted 3D content and integrate with device capabilities to build custom AR/
+VR experiences.
+___________________________________________________________________________
+4:30 pm - 5:00 pm Tuesday, March 06
+Using Sync with ArcGIS Pro 2.1
+Demo Theater Presentation, Geodatabase
+Demo Theater 2 - Oasis 1 - Ty Fitzpatrick, Gary MacDougall
+DESCRIPTION
+Learn how to set up your data for synchronization in ArcGIS Pro 2.1. This will
+include the features that were introduced with ArcGIS Pro 2.1 for publishing and
+sharing data and keeping the changes made in field to sync back later.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+GitHub for Geographers
+Dev 2 Dev, Esri Technical Session
+Mesquite B - Patrick Arlt, John Gravois
+DESCRIPTION
+Everyone is talking about GitHub, but what is it exactly? In this session we'll
+explain what makes GitHub such a great collaboration tool and cover the basics
+of version control (git) using examples that don't require any coding experience.
+We'll also talk about how Esri uses GitHub and how you can get involved.
+___________________________________________________________________________
+5:30 pm - 6:00 pm Tuesday, March 06
+Web AppBuilder for ArcGIS: What's New
+Demo Theater Presentation, Web
+Demo Theater 1 - Oasis 1 - Jianxia Song, Lemao Wu
+DESCRIPTION
+Come to this session to learn about the latest features in Web AppBuilder for
+ArcGIS. This session will be an overview of the important updates.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+ArcGIS API for Python: Administering Your Web GIS
+Esri Technical Session, Online
+Pasadena-Sierra-Ventura - Bill Major II, Andrew Chapkowski
+DESCRIPTION
+This technical session will teach Web GIS administrators how to use the ArcGIS
+Python API to automate most of their repetitive tasks and use scripts instead of
+using the UI and clicking their way through. It will demonstrate scripting of
+common administrative tasks such as setting up a Portal and populating it with
+users, groups and content, migrating GIS resources from staging to production,
+checking credit consumption and usage statistics of GIS resources and content
+validation workflows. It will also cover strategies for scheduling these scripts to
+run at periodic intervals.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+Virtual Reality (VR) and Augmented Reality (AR) with ArcGIS
+Esri Technical Session, 3D
+Primrose B - Pascal Mueller, Adrien Meriaux, Eric Wittner, Rex Hansen
+DESCRIPTION
+Get an overview of the state of the art in VR/AR and learn how to create VR/AR
+experiences with Esri technology. First, we will present the ArcGIS 360 VR app, a
+mobile solution to quickly review design scenarios and 3D layers. Next, we will
+go through the process of bringing 3D GIS data via CityEngine into Unity, the
+industry standard to create immersive experiences for HTC Vive, Oculus Rift or
+Microsoft Hololens. Finally, we will present how AR/VR apps can be developed
+with the ArcGIS Runtime, allowing for example the streaming of hosted 3D
+content directly into the AR/VR experiences.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+Design and Launch Hub Initiatives
+
+Smoketree A-E - Graham Hudgins, Courtney Claessens
+DESCRIPTION
+ArcGIS Hub organizes government around data-driven initiatives to accomplish
+meaningful goals to improve their communities. Hub Initiatives share the best
+practices of configurable apps, standards-based data indicators, and municipal
+policies that engage with their communities. These initiatives can be adopted
+within an organization to ensure common workflows are followed and shared
+across organizations to share best practices.
+In this session, we'll introduce you to the concept and capabilities of Hub
+Initiatives and dive into how you can design your own initiatives.
+___________________________________________________________________________
+5:30 pm - 6:00 pm Tuesday, March 06
+ArcGIS API for Python: ArcGIS in a Notebook
+Demo Theater Presentation, Online
+Demo Theater 3 - Oasis 1 - Rohit Singh
+DESCRIPTION
+Chances are by now you must have heard about Jupyter notebooks and might
+have been wondering what they are, if so read on. Jupyter notebooks are a web
+based IDE to execute your Python code. However, unlike any other traditional
+IDEs which include numerous buttons and functionality, Jupyter notebooks
+provide a very simple and easy to use interface that is easy to learn and is
+oriented toward encouraging the process of REPL (read evaluate print loop)
+which is centric to how one learns to code in Python. Come, attend this fun talk if
+you are looking to pick up a new programming language and a whole new
+paradigm of working with your GIS data.
+___________________________________________________________________________
+5:30 pm - 6:00 pm Tuesday, March 06
+Mobile Data Collection with the Runtime SDK
+Demo Theater Presentation, Runtime
+Demo Theater 2 - Oasis 1 - Sandie Peters
+DESCRIPTION
+In this session, we'll demo a mobile data collection app on Android and iOS that
+works in connected and disconnected environments. Learn how we built this app
+using offline tasks, services, and web maps with the latest Runtime release.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+GeoEvent Server: Applying Real-Time Analytics
+Esri Technical Session, Real-Time GIS
+Primrose A - Ken Gorton, RJ Sunderman Jr
+DESCRIPTION
+GeoEvent Server enables ArcGIS to connect with and analyze virtually any type of
+streaming data. GeoEvent Server can push spatial data to web applications, data
+stores, or automatically alert personnel when specific conditions occur, all in realtime.
+Learn how to configure geoevent services to detect patterns of interest
+from continuous streams of events. Real-time analytics covered will include
+filtering, geofencing, geotagging, calculating field values, enriching events by
+joining fields from external data sources, mapping between event schemas, and
+detecting incidents and gaps.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+Introduction to and Building Your First ArcGIS Enterprise Deployment
+Esri Technical Session, Enterprise
+Primrose C-D - Jonathan Quinn, Thomas Edghill
+DESCRIPTION
+ArcGIS Enterprise provides you with GIS functionality to map, analyze and
+manage geospatial content and location-enabled data through a Web GIS
+deployed on your infrastructure. If you are just starting out with the product, or
+interested in learning more, this session is for you. Topics will range from an
+overview of the base deployment, to advanced analytical capabilities and
+product functionality.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+ArcGIS API 4.x for JavaScript: Programming Patterns and API Fundamentals
+Web
+Oasis 4 - Rene Rubalcava, Matt Driscoll
+DESCRIPTION
+In this session, you'll learn the basics of the ArcGIS API 4.x for JavaScript,
+including the fundamentals of watching for property changes, autocasting,
+working with Collections, and lazy-loading data in your applications! You'll learn
+more details about maps, webmaps, layers, 2D and 3D views, UI, and widgets!
+This is a key session for developers new to the 4.x version of the API.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+Building Great Information Products with ArcGIS Online
+Esri Technical Session, Online
+Mesquite C - Bern Szukalski, Derek Law, Ian Wittenmyer
+DESCRIPTION
+Web maps are important building blocks of the ArcGIS online ecosystem. Web
+maps can be leveraged via application templates to transform them into more
+than just a maps ' into information products that can reach a wide variety of users
+and serve a variety of tasks and workflows. Application templates, including Story
+Map templates, provide an easy and powerful way to create custom-configured
+applications to reach your audience, with no programming required. Most have a
+responsive design, enabling you to author once and use effortlessly across a
+variety of devices. Various templates provide ways to incorporate text,
+multimedia, 3D, and more into the context of a useful app. In addition, maps and
+apps can be embedded into websites to be used in even more ways.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+ArcGIS Pro SDK for .NET: Beginning Editing and Editing UI Patterns
+Esri Technical Session, Pro
+Mojave Learning Center - Thomas Emge, Narelle Chedzey
+DESCRIPTION
+Learn how to create editing tools in Pro. We introduce construction tools and
+editing tools and how to integrate your custom editing functionality into the Pro
+UI. We introduce the Inspector class for creating and updating features as well as
+attribute editing. We show customizing the galleries, integration into modify
+dockpane, and how to modify the sketch.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Tuesday, March 06
+ArcGIS Runtime SDK for Qt: Building Apps
+Esri Technical Session, Runtime
+Mesquite G-H - Thomas Dunn, Koushik Hajra
+DESCRIPTION
+The ArcGIS Runtime SDK for Qt allows you to quickly and easily build interactive
+mapping applications for Windows, Linux and Mac Desktops, along with iOS and
+Android phones and tablets. This session introduces the SDK then covers
+common developer workflows and capabilities you'll use to build your own
+applications. You'll learn about patterns and practices for building great GIS Qt
+apps, and the resources that are available for your success.
+___________________________________________________________________________
+6:00 pm - 6:30 pm Tuesday, March 06
+The Offline Mapbook: A Data Authoring Story
+Demo Theater Presentation, Runtime
+Demo Theater 2 - Oasis 1 - Mike Wilburn
+DESCRIPTION
+ArcGIS Pro is a powerful tool for getting the data you want into the package you
+need. Learn about the considerations that were made to style and publish a
+mobile map package from ArcGIS Pro and consume it within the multi-platform
+Offline Mapbook Example App.
+___________________________________________________________________________
+6:00 pm - 6:30 pm Tuesday, March 06
+ArcGIS API for Python: An End-To-End Data Science Workflow
+Demo Theater Presentation, Online
+Demo Theater 3 - Oasis 1 - Rohit Singh
+DESCRIPTION
+Real-world data is messy, voluminous and can be acquired from a variety of
+sources. Analyzing and mining this data to reveal insights is a hard and an
+iterative problem. Come to this session to see our data scientists take you
+through the various stages of solving a data science problem using ArcGIS
+___________________________________________________________________________
+6:00 pm - 6:30 pm Tuesday, March 06
+Building a Web App for Data Exploration with Smart Mapping
+Demo Theater Presentation, Web
+Demo Theater 1 - Oasis 1 - Kristian Ekenes
+DESCRIPTION
+The ArcGIS JavaScript API provides the building blocks that allow you to build
+interactive data exploration applications. These building blocks are the Smart
+Mapping modules, which contain functions that allow you to generate renderers
+with smart default values for size, color, and opacity based on the distribution of
+the data and the basemap of your application. When used together with the
+slider widgets, smart mapping can help you create a simple app for exploring
+data from any feature layer with just a few lines of code. In this session we will
+walk through an application that uses the Smart Mapping modules and presents
+a simple application that users can use to gain more insight into the data.
+___________________________________________________________________________
+8:00 am - 5:30 pm Wednesday, March 07
+Esri Store
+
+Primrose Lobby
+___________________________________________________________________________
+8:30 am - 10:00 am Wednesday, March 07
+Developer Summit Keynote Session
+
+Oasis 3-4
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+Real-Time and Big Data GIS: Best Practices
+Esri Technical Session, Real-Time GIS
+Primrose B - Adam Mollenkopf, Josh Joyner
+DESCRIPTION
+This session will walk through intermediate and advanced topics of deploying a
+real-time GIS using ArcGIS GeoEvent Server and the spatiotemporal big data
+store including: reliability, scalability, how to optimize real-time analytics, and
+how to avoid common 'gotchas'.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+ArcGIS Runtime SDK for iOS and macOS: Building Apps
+Esri Technical Session, Runtime
+Santa Rosa - Divesh Goyal, Nicholas Furness, Mark Dostal
+DESCRIPTION
+The ArcGIS Runtime SDK for iOS and macOS allows you to quickly and easily
+build interactive mapping applications for Apple platforms. This session
+introduces the SDK then covers common developer workflows and capabilities
+you'll use to build your own applications. You'll learn about patterns and
+practices for building great GIS iOS and macOS apps, and the resources that are
+available for your success.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+ArcGIS Runtime SDK for Android: Building Apps
+Esri Technical Session, Runtime
+San Jacinto - Rama Chintapalli, Xueming Wu
+DESCRIPTION
+The ArcGIS Runtime SDK for Android allows you to quickly and easily build
+interactive smartphone and tablet mapping applications. This session introduces
+the SDK then covers common developer workflows and capabilities you'll use to
+build your own applications. You'll learn about patterns and practices for
+building great GIS android apps, and the resources that are available for your
+success.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+ArcGIS Pro SDK for .NET: Mapping and Layout
+Esri Technical Session, Pro
+Pasadena-Sierra-Ventura - Wolf Kaiser, Uma Harano
+DESCRIPTION
+Learn how to create map tools for selection and identify, and custom pop-ups.
+We will examine the new Pro Layout API to create Layouts on-the-fly as well as
+integrate it with Layout Map Series. We will cover MVVM and integration of WPF
+to write compelling UIs in Pro including multi-threading considerations.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+A Practical Guide to ArcGIS Online Security
+Esri Technical Session, Online
+Mesquite C - Jeff Smith, Andrea Rosso
+DESCRIPTION
+This session will highlight the portal information model used in ArcGIS Online
+and how security is integrated with this model. The different authentication
+options will be covered along with an in-depth review of how to configure ArcGIS
+Online to use a SAML identity provider. This session will also review the security
+options available for an organization.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+Latest Innovations from Esri's Prototype Lab
+Esri Technical Session, APL
+Smoketree A-E - Mark Deaton, Hugh Keegan, Dave Johnson, Richie Carmichael, Bob Gerlt, John Grayson, Carol Sousa, Thomas Emge, Albert Pascual, Mark Smith, Witold Fraczek
+DESCRIPTION
+The Prototype Lab is a group of engineers based in Redlands tasked with
+creating forward-looking and inventive apps. We invite you to take a peek at
+some of their latest work. The session will feature an entertaining assortment of
+web apps, desktop apps, mobile apps and hardware experimentation. Don't miss
+this rare opportunity to see cutting edge and thought-provoking uses of GIS.
+___________________________________________________________________________
+10:30 am - 11:00 am Wednesday, March 07
+ArcGIS API for Python: Administering Your Web GIS - Hands-On Demo
+Demo Theater Presentation, Online
+Demo Theater 3 - Oasis 1 - Andrew Chapkowski, David Vitale
+DESCRIPTION
+The GIS and server modules of the Python API pack a lot of functionality that
+allow GIS Admins to inspect and automate their GIS infrastructure. This session
+walks you through those modules and with some example use cases shows you
+how you can access your servers ' be it stand-alone or federated to your portal,
+inspect server properties, services, folders, and also query logs and usage
+reports.
+___________________________________________________________________________
+10:30 am - 11:00 am Wednesday, March 07
+Getting Started with Imagery and the ArcGIS REST API
+Demo Theater Presentation, Imagery/Raster
+Demo Theater 1 - Oasis 1 - Kevin J Butler
+DESCRIPTION
+Image services provide access to imagery and raster data through web services.
+Rich visualization and analysis applications, which access these web services, can
+be developed using the ArcGIS API for JavaScript. This demo theater session is
+for developers who wish to dig deeper into accessing and working with these
+web services using the ArcGIS REST API. In this session we'll cover how to
+visualize and analyze imagery in a web application using the ArcGIS REST API.
+This session will also delve into the tradeoffs between using dynamic image
+services and static tiled image services in your web applications.
+___________________________________________________________________________
+10:30 am - 11:00 am Wednesday, March 07
+Collector for ArcGIS: High Accuracy Data Collection
+Demo Theater Presentation, Apps
+Demo Theater 2 - Oasis 1 - Kevin Burke
+DESCRIPTION
+When collecting asset data, there is a required spatial accuracy that is higher than
+what your smartphone or tablet can acquire. Join this session to learn how you
+can connect directly to a GPS receiver using the concept of a location provider,
+how to capture data using GPS that is streamed to your device from a correction
+source with cm level accuracy using a location profile, and gain a better
+understanding of the collection methods and transformations applied when
+capturing high accuracy spatial data.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+Sharing 3D Content with Scene Layers
+Esri Technical Session, 3D
+Mesquite G-H - Tamrat Belayneh, Chris Andrews
+DESCRIPTION
+Scene Layers are containers for arbitrarily large amounts of geographic data. The
+delivery format and persistence model for Scene Layers is referred to as Indexed
+3d Scene Layer (I3S) and has been shared as an open specification publicly for
+use by data and technology creators to produce and consume content that will
+work across ArcGIS. The I3S format is declarative and extendable and can be
+used to represent different types of 3D data. In this session, the presenters will
+discuss the structure and variations in I3S to help attendees understand how they
+can create and visualize content including 3D objects, 3D points, point clouds,
+and large integrated mesh data sets, such as data from Drone2Map.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+Web GIS: A Crash Course
+Esri Technical Session, Enterprise
+Catalina-Madera - Kelly Gerrow-Wilcox, Shannon Kalisky
+DESCRIPTION
+The future of geospatial technology is built upon Web GIS. Covering both ArcGIS
+Enterprise and ArcGIS Online, this session will be a crash course in Web GIS
+concepts, technology and implementation options. Whether you are a desktop
+analyst or a geodeveloper, knowing the basics of Web GIS will help you futureproof
+your organization's GIS investment and development plans.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+2D Visualization with the ArcGIS API for JavaScript
+Esri Technical Session, Web
+Primrose C-D - Jeremy Bartley, Kristian Ekenes
+DESCRIPTION
+The ArcGIS API for JavaScript lets you build powerful interactive mapping
+applications. Learn how you can turn your raw data into information that tells a
+story with simple 2D data-driven visualizations. This session will provide an
+overview to the various visualization techniques available in the API specific to
+2D vector data.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+Angular and the ArcGIS API for JavaScript
+Dev 2 Dev, Esri Technical Session
+Mesquite B - Sean Olson, Andy Gup, Jacob Wasilkowski
+DESCRIPTION
+This presentation will demonstrate how to combine the capabilities of the ArcGIS
+API 4.x for JavaScript with the Angular CLI (Command Line Interface), to quickly
+stand up sophisticated GIS web apps. We will walk through setting up the
+development environment, review best practices for integrating these two
+technologies, and see how to quickly build reusable mapping components that
+communicate effectively with your audience.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+Story Maps: Configuring and Customizing Web Apps
+Esri Technical Session, Online
+Mojave Learning Center - Steven Kitterman, Alison Sizer
+DESCRIPTION
+Esri has created a series of Story Map apps that combine web maps, multimedia
+content, and engaging user experiences to tell stories about the world. Learn
+how you can leverage and customize these apps. We will walk you over examples
+of look and feel customization using CSS and show how you can add new
+features using the ArcGIS API for JavaScript.
+___________________________________________________________________________
+10:30 am - 11:30 am Wednesday, March 07
+Web AppBuilder for ArcGIS: Customizing and Extending
+Esri Technical Session, Web
+Primrose A - Moxie Zhang, Gavin Rehkemper
+DESCRIPTION
+Esri's Web AppBuilder is a HTML5/JavaScript-based application that is built with
+the ArcGIS API for JavaScript. It allows users to create intuitive, fast and beautiful
+web apps without writing a single line of code. As a developer, you can create
+your own focused workflows by building custom widgets which your users can
+then configure into their applications. In addition, you can completely customize
+the look and feel of the app by developing your own styles and layouts. Come to
+this session to learn all about customizing and extending the Web AppBuilder.
+___________________________________________________________________________
+11:00 am - 11:30 am Wednesday, March 07
+ArcGIS API for Python: Cloning Your GIS
+Demo Theater Presentation, Online
+Demo Theater 3 - Oasis 1 - Bill Major II
+DESCRIPTION
+Your division's Portal for ArcGIS gets a lot of attention for its high standards and
+engagement, other departments want to replicate it. Your in-house portal has
+gained its maturity, you feel now is the time to expose it to the outside world.
+Your portal is on aging hardware, you feel now is the time to migrate it to newer
+infrastructure. In all these cases, you are dealing a requirement of cloning an
+existing portal to create a new one. We are constantly expanding the capabilities
+of the ArcGIS API for Python to suit such requirements. In this session, we will
+show how you can perform a shallow cloning where you replicate the users,
+groups and their items from an existing portal to a new one.
+___________________________________________________________________________
+11:00 am - 11:30 am Wednesday, March 07
+ArcGIS Workflows for Optimizing Image Management and Services in the Cloud
+Demo Theater Presentation, Imagery/Raster
+Demo Theater 1 - Oasis 1 - Cody Benkelman
+DESCRIPTION
+This demo theater session will provide an introduction to the Image Management
+Workflows, a collection of documentation and sample Python scripts designed to
+automate the process of creating, populating, and configuring mosaic datasets.
+These methods and samples have been applied to build and maintain large
+image collections, such as the LandsatLook catalog of all Landsat scenes (more
+than 2 million records), and the Landsat 8 image services which are updated with
+up to 300 GB of new imagery, in a fully automated process, every 24 hours.
+___________________________________________________________________________
+11:00 am - 11:30 am Wednesday, March 07
+Add Visually Engaging and Interactive Infographics to Your Apps
+Demo Theater Presentation, Apps
+Demo Theater 2 - Oasis 1 - Maxim Sattarov, Garry Burgess, Steven Boyd
+DESCRIPTION
+In this session, you will learn how to use beautiful infographics in your apps and
+show information about people, places, and businesses for a location using Esri's
+Data Enrichment service.
+___________________________________________________________________________
+11:30 am - 1:00 pm Wednesday, March 07
+Hosted Lunch
+
+Esplanade
+___________________________________________________________________________
+1:00 pm - 1:30 pm Wednesday, March 07
+Everything You Need to Know About Feature Layers in the ArcGIS API 4.x for JavaScript
+Demo Theater Presentation, Web
+Demo Theater 3 - Oasis 1 - Yann Cabon, Noah Sager
+DESCRIPTION
+Learn how to harness the capabilities of feature layers using the ArcGIS API 4.x
+for JavaScript. This session will provide an overview of the FeatureLayer class,
+and explore its best features through code examples and demonstrations.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+Enabling High-Quality Printing in Web Applications
+Esri Technical Session, Web
+San Jacinto - Tanu Hoque, Craig Williams
+DESCRIPTION
+In this session, techniques will be described and demonstrated for exporting high
+quality maps from web applications. We will cover creating printed PDF
+documents, printing to scale, leveraging ArcGIS Pro layouts, displaying all
+content on the map, modifying the map content during the export process, and
+working with print devices with high DPI resolution. In the session, you will also
+learn about printing secured services and limitations, and advanced arcpy based
+printing service.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+Web AppBuilder for ArcGIS: Creating New Themes
+Esri Technical Session, Web
+Primrose A - Kevin Gao, Yiwei Ma
+DESCRIPTION
+This session will provide a step by step tutorial on how to create a new Web
+AppBuilder theme by customizing or creating layouts, controller widgets, and
+styles. The topics that will be covered are: brandings (colors, fonts, logo, etc.),
+layout for desktop and mobile, controller widget that drives the UI components,
+and custom panel widget.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+What's New in Collector for ArcGIS
+Esri Technical Session, Apps
+Mojave Learning Center - Jeff Shaner, Doug Morgenthaler
+DESCRIPTION
+Collector for ArcGIS provides an intuitive field data collection experience that
+makes it easy to capture and update accurate data from the field. Join our
+workshop to learn what's new in recent releases of Collector and also to get a
+glimpse of major new development coming later this year.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+ArcGIS Pro SDK for .NET: Advanced Pro Customization and Extensibility
+Esri Technical Session, Pro
+Santa Rosa - Charlie Macleod, Steve Van Esch
+DESCRIPTION
+In this session we cover advanced customization patterns including custom
+project and application properties, command filtering, UI customization across
+multiple add-in solutions, plug and play UI extensibility with embeddable
+controls and DAML categories.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+ArcGIS Enterprise: Architecting Your Deployment
+Esri Technical Session, Enterprise
+Catalina-Madera - Philip Heede
+DESCRIPTION
+Architecting your ArcGIS Enterprise deployment doesn't have to be difficult. This
+session will cover the fundamentals of architecting the base ArcGIS Enterprise
+deployment and will lead you through more complex deployment scenarios that
+include the new capability based ArcGIS Server roles. Full of best practices and
+helpful tips, this session aims to set you up for success in planning and deploying
+ArcGIS Enterprise whether you're starting from scratch or upgrading an existing
+server or Web GIS deployment.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+Getting Started with 3D in the ArcGIS API for JavaScript
+Esri Technical Session, Web
+Primrose C-D - Javier Gutierrez, Jesse van den Kieboom
+DESCRIPTION
+Discover the 3D capabilities of the ArcGIS API 4.x for JavaScript. Learn how you
+can leverage the WebGL capabilities of your browser with the JavaScript API to
+build stunning 3D web applications. This session will focus on the fundamental
+3D building blocks of the API: SceneView, 2D and 3D layers, terrain, and
+symbology.
+___________________________________________________________________________
+1:00 pm - 1:30 pm Wednesday, March 07
+Accelerate Java and Android Development with Kotlin
+Demo Theater Presentation, Runtime
+Demo Theater 1 - Oasis 1 - Vijay Gandhi
+DESCRIPTION
+Kotlin is the new rising star in the world of JVM languages. Designed with focus
+on developer productivity and interoperability with Java, it is now officially
+supported by Google on Android. This demo theatre will provide a quick tour on
+some of the key features that makes Kotlin popular.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+ArcGIS Online: What's New with ArcGIS Online World Geocoding
+Esri Technical Session, Online
+Mesquite G-H - Brad Niemand, Jeff Rogers
+DESCRIPTION
+This session will review the most recent enhancements to ArcGIS Online World
+Geocoding, including improvements to the developer API and workflow driven
+capabilities supporting applications.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+JavaScript for Geographers
+Dev 2 Dev, Esri Technical Session
+Primrose B - Patrick Arlt, John Gravois
+DESCRIPTION
+You already know about projections, datums, and when not to choropleth, come
+see how the other nerd-half live and learn the basics of the building web
+applications with JavaScript. We will cover essential JavaScript concepts you will
+need to know when working with the ArcGIS API for JavaScript. We will also talk
+about the best way to learn JavaScript moving forward, how to keep your skills
+up to date, when (and how) to integrate new tools and frameworks into your
+projects, and how to navigate the exploding JavaScript ecosystem.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+ArcGIS Runtime SDK for .NET: Building Windows Apps
+Esri Technical Session, Runtime
+Pasadena-Sierra-Ventura - Morten Nielsen, Mike Branscomb
+DESCRIPTION
+The ArcGIS Runtime SDK for .Net allows you to quickly and easily build
+interactive mapping applications for Windows Desktops, Universal Windows
+Platform devices along with iOS and Android phones and tablets. This session
+introduces the SDK then covers common developer workflows and capabilities
+you'll use to build your own applications. You'll learn about patterns and
+practices for building great GIS .Net apps, and the resources that are available
+for your success.
+___________________________________________________________________________
+1:00 pm - 1:30 pm Wednesday, March 07
+Better UX with the ArcGIS API for JavaScript Popup
+Demo Theater Presentation, Web
+Demo Theater 2 - Oasis 1 - Kelly Hutchins
+___________________________________________________________________________
+1:00 pm - 2:00 pm Wednesday, March 07
+Latest Innovations from Esri's Prototype Lab
+Esri Technical Session, APL
+Smoketree A-E - Mark Deaton, Hugh Keegan, Dave Johnson, Richie Carmichael, Bob Gerlt, John Grayson, Carol Sousa, Thomas Emge, Albert Pascual, Mark Smith, Witold Fraczek
+DESCRIPTION
+The Prototype Lab is a group of engineers based in Redlands tasked with
+creating forward-looking and inventive apps. We invite you to take a peek at
+some of their latest work. The session will feature an entertaining assortment of
+web apps, desktop apps, mobile apps and hardware experimentation. Don't miss
+this rare opportunity to see cutting edge and thought-provoking uses of GIS.
+___________________________________________________________________________
+1:30 pm - 2:00 pm Wednesday, March 07
+Making Pop-Ups Pop
+Demo Theater Presentation, Online
+Demo Theater 2 - Oasis 1 - Kelly Hutchins, Heather Gonzago
+DESCRIPTION
+In this session you'll learn how to modify the popup's appearance and behavior.
+With a little CSS and JavaScript you can quickly modify the appearance and
+behavior of the popup. We'll cover how to modify the color scheme of the popup
+to match your web site, how to add a custom link to the popup and finally how to
+customize the popup behavior.
+___________________________________________________________________________
+1:30 pm - 2:00 pm Wednesday, March 07
+This Just In! New and Noteworthy Features in Java and Android Runtime SDKs
+Demo Theater Presentation, Runtime
+Demo Theater 1 - Oasis 1 - Tyler Schiewe
+DESCRIPTION
+Come to this session to hear about the latest happenings with the ArcGIS
+Runtime SDKs for Java and Android products. New features and other updates to
+the products will be covered that will be of interest to Java and Android
+developers!
+___________________________________________________________________________
+1:30 pm - 2:00 pm Wednesday, March 07
+Everything You Need to Know About OGC Layers in the ArcGIS API 4.x for JavaScript
+Demo Theater Presentation, Web
+Demo Theater 3 - Oasis 1 - Yann Cabon, Noah Sager
+DESCRIPTION
+The ArcGIS API for JavaScript 4 is one great client API to consume OGC standard
+compliant services, like WMS, WMTS, KML and I3S. This session will provide an
+overview of the different layers from the API as well as their best features.
+Julie Proposal:
+The ArcGIS API 4.x for JavaScript is a great client API for consuming OGC
+services such as WMS, WMTS, KML and I3S. This session will provide an overview
+of the API's OGC layer types and highlight some of their best features.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+ArcGIS and the Internet of Things (IoT)
+Esri Technical Session, Real-Time GIS
+Primrose B - Adam Mollenkopf, Josh Joyner
+DESCRIPTION
+The world is becoming more instrumented every day with the Internet of Things
+(IoT). This session will give an overview of IoT, decompose the elements of an IoT
+solution, discuss IoT deployment patterns including showing how ArcGIS can be
+used as an IoT platform, and show how ArcGIS can complement another IoT
+platform.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+Using TypeScript with ArcGIS API for JavaScript
+Esri Technical Session, Web
+Primrose A - Nick Senger, Jesse van den Kieboom
+DESCRIPTION
+In this session we will learn some of the basics of TypeScript and how it can help
+you as a developer using the ArcGIS API for JavaScript. We will also look at how
+to set up a development environment and use the provided TypeScript definition
+files.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+R for Raster, (B)ridge for Big Data: What's New in R-ArcGIS Bridge?
+Esri Technical Session, Geoprocessing
+Smoketree A-E - Marjean Pobuda, Orhun Aydin
+DESCRIPTION
+Solving the complex problems we face in the world today requires bringing
+together the best available tools and often that means, integrating functionality
+between platforms. The R-ArcGIS bridge establishes a seamless fuse between the
+spatial analysis powers of ArcGIS and the thousands of cutting-edge libraries for
+statistical analysis in the language R. The bridge is more versatile and powerful
+than ever with the addition of raster/imagery support that broadens the realm of
+possibilities and extending a connection to Microsoft R Open that provides a
+robust framework to handle big data analytics. Come see this functionality in
+action and learn how you can incorporate the most powerful R-ArcGIS bridge to
+date in your workflows!
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+ArcGIS Enterprise and SSL Considerations
+Esri Technical Session, Enterprise
+Santa Rosa - Bill Major II, Craig Cleveland
+DESCRIPTION
+As web security continues to become more strict and ArcGIS Enterprise
+implementations more distributed, understanding SSL principles and touchpoints
+within the Esri technology stack is growing area. ArcGIS Enterprise provides the
+tools and capabilities to establish a secure, trusted environment. This session will
+cover a quick introduction to SSL, touchpoints within ArcGIS Enterprise, updating
+SSL certificates and establishing trust, as well as troubleshooting.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+ArcGIS Runtime SDK for .NET: Building Xamarin Apps
+Esri Technical Session, Runtime
+Pasadena-Sierra-Ventura - Richard Zwaap, Thaddeus Tilton
+DESCRIPTION
+The ArcGIS Runtime SDK for .NET contains APIs for UWP, Xamarin.Android,
+Xamarin.iOS, and Xamarin.Forms that enable you to build native mapping apps
+and share source code across Windows, Android, and iOS devices. This session
+introduces the SDK then covers common developer workflows and capabilities
+you'll use to build your own applications. You'll learn about patterns and
+practices for building great GIS .NET apps using Xamarin and the resources that
+are available for your success.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+ArcGIS Pro SDK for .NET: Pro Application Architecture Overview and API Patterns
+Esri Technical Session, Pro
+Mesquite G-H - Russell Louks
+DESCRIPTION
+This lecture covers the Pro application architecture framework and its primary
+patterns to include context in the UI, DAML, extensibility and the module subsystem,
+and threading - concurrency, best practices, and cancellation. This
+lecture is appropriate for Pro application developers who want to learn more
+about the Pro internals and how to leverage that knowledge in their add-in and
+configuration designs.
+___________________________________________________________________________
+2:30 pm - 3:00 pm Wednesday, March 07
+Extending ArcGIS Pro with .NET and Python: Interactive Analytics
+Demo Theater Presentation, Geoprocessing
+Demo Theater 2 - Oasis 1 - Carlos Osorio-Murillo, Mark Janikas
+DESCRIPTION
+ArcGIS Pro is highly customizable. From an application perspective, .NET can be
+used to construct buttons, ribbons and tool specific user interfaces. Through the
+use of Python and Geoprocessing, your desired functionality can run both in
+demand and interactively with the .NET extension you created. This session
+introduces the key concepts necessary to get started with extending your ArcGIS
+Pro Application and provides a clear case study of interactive analytics to show
+you the power of the strategies outlined.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+ArcGIS API for Python: Advanced Scripting
+Esri Technical Session, Online
+Catalina-Madera - Atma Mani, Rohit Singh
+DESCRIPTION
+The Python ecosystem is rich with a set of libraries that allow you to dissect and
+explore your data. Couple that with an interactive environment such as Jupyter
+notebooks and ArcGIS API for Python, you get yourself a versatile environment to
+perform exploratory GIS analysis that you can create and drive by little snippets
+of Python code. Stop by for an interesting talk on how you can use powerful
+visualization, statistics and ArcGIS to better understand your data.
+___________________________________________________________________________
+2:30 pm - 3:00 pm Wednesday, March 07
+Sonar: Natural language interfaces to GIS
+
+Demo Theater 3 - Oasis 1 - Andrew Turner
+DESCRIPTION
+Web GIS has become a ubiquitous and powerful platform for data sharing and
+information access. Over the past decades, technology has shifted from
+desktops, to servers, to web, then mobile, and now is time for another paradigm
+shift: voice. Geographic information can now be integrated with emerging
+devices for voice and chat interfaces that provide quick and easy access by
+anyone, anywhere. Additionally, 70% of U.S. adults use social media regularly
+and 77% own a smartphone. So, we need to consider new experiences for
+accessing our GIS.
+In this demo theater, we'll show how you can start building your own chatbots
+and voice interfaces that integrate directly with ArcGIS. Using Sonar, an opensource
+library developed by Esri, you can explore how to make your information
+accessible through these new, ubiquitous technologies.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+Building Your Own Widget with ArcGIS API for JavaScript
+Esri Technical Session, Web
+Primrose C-D - Matt Driscoll, Juan Carlos Franco
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+ArcGIS Runtime: Network Analysis
+Esri Technical Session, Runtime
+San Jacinto - Frank Kish, Doug Sterling II
+DESCRIPTION
+This session will discuss the Route, Closest Facility, and Service Area tasks in
+online and offline environments using the ArcGIS Runtime API. Basic topics
+covered will include use patterns for tasks and functionality of the Closest Facility,
+Service Area, and Route tasks.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Wednesday, March 07
+What's New in Survey123 for ArcGIS
+Esri Technical Session, Apps
+Mojave Learning Center - Calvin Jung, Jayson Ward, James Tedrick
+DESCRIPTION
+Join this session to learn what is new in Survey123 for ArcGIS: Support for
+editing, custom reports, integration with external GNSS receivers and sensors
+such as Spike and much more.
+___________________________________________________________________________
+2:30 pm - 3:00 pm Wednesday, March 07
+ArcGIS Runtime: Styling Maps
+Demo Theater Presentation, Runtime
+Demo Theater 1 - Oasis 1 - Mike Wilburn, Lucas Danzinger
+DESCRIPTION
+The map in most situations plays a central role within your applications. This
+session will cover the many options available to you to create, style, and share
+maps within the ArcGIS Platform for use in Runtime.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Wednesday, March 07
+Creating Geoprocessing Services with Python Script Tools
+Demo Theater Presentation, Geoprocessing
+Demo Theater 2 - Oasis 1 - Andrew Ortego
+DESCRIPTION
+This session will focus on creating and publishing python script tools for
+geoprocessing services and web tools with emphasis on data access on the
+server and organizing dependent modules. ArcMap and ArcGIS Pro will be
+demonstrated.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Wednesday, March 07
+Story Maps: How to Tell Your Story Using Storytelling Apps
+Demo Theater Presentation, Online
+Demo Theater 1 - Oasis 1 - Owen Evans, Cooper Thomas
+DESCRIPTION
+Esri has created a series of Story Map apps that combine web maps, multimedia
+content, and engaging user experiences. This session will give you an
+introduction to what makes a great story map and will demonstrate how to create
+your own story maps with our most popular apps including Story Map Tour, Map
+Journal and Map Series.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Wednesday, March 07
+Building Urban Analytics for Hub
+
+Demo Theater 3 - Oasis 1 - Manushi Majumdar, Courtney Claessens
+DESCRIPTION
+Addressing complex urban and community problems requires a holistic
+approach to spatial analysis, planning and policy. ArcGIS Hub organizes these
+goals into Initiatives that drive data sharing and configurable apps that inform
+and engage constituents to work together. Transit accessibility, public safety,
+personal health, and community resilience are just a few of the themes that can
+be improved with urban analytics.
+This session will discuss how we can use ArcGIS Hub as a starting point for urban
+analytics; how open data published from local governments can be applied and
+analysed to explore the phenomena that surrounds us every day. Using the
+ArcGIS API for Python and several python libraries, we'll ingest and aggregate
+data from ArcGIS Hub, perform exploratory and statistical analyses, and use
+predictive modeling to answer our questions. Finally, we'll show how this kind of
+work can be shared back with the governing body and give your efforts a voice.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+Real-Time and Big Data GIS: Leveraging the Spatiotemporal Big Data Store
+Esri Technical Session, Geodatabase
+Primrose A - Suzanne Foss, Ricardo Trujillo
+DESCRIPTION
+ArcGIS GeoEvent Server and ArcGIS GeoAnalytics Server work with real-time and
+big data through the spatiotemporal big data store available in ArcGIS Data
+Store. Real-time observational data can come from moving objects, changing
+attributes of stationary sensors, or both. Learn how the spatiotemporal big data
+store enables the archival of observation data, sustains high-velocity write
+throughput, and runs across multiple nodes to enable high-volume storage.
+Discover how to use GeoAnalytics Server with the spatiotemporal big data store,
+both as a data source and to store the results of big data analytics. Take an indepth
+look at how to configure Data Store, write high-velocity data to it, visualize
+and query high-volume data via map and feature services, and use it for the input
+or results of distributed analytics.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+Extending Survey123 for ArcGIS
+Esri Technical Session, Apps
+Mojave Learning Center - Jayson Ward, Erwin Soekianto
+DESCRIPTION
+Join this session to learn how you can download the source code of Survey123
+for ArcGIS and extend it with your own functionality, or change its look and feel.
+We will use AppStudio for ArcGIS and QML to show you how things are done!
+___________________________________________________________________________
+4:00 pm - 4:30 pm Wednesday, March 07
+Use Demographic, Business, and Consumer Information in Your Maps and Apps
+Demo Theater Presentation, Apps
+Demo Theater 2 - Oasis 1 - Maxim Sattarov, Steven Boyd
+DESCRIPTION
+In this session, you will learn how to access thousands of data variables
+describing demographics, households, consumer behaviors, and businesses
+using Esri's Data Enrichment service for 130+ countries and add demographic
+context to your data as easy-to-understand infographics and tabular reports.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+ArcGIS API for JavaScript: Tips and Tricks for Developing and Debugging Apps
+Esri Technical Session, Web
+Pasadena-Sierra-Ventura - Kelly Hutchins, Heather Gonzago
+DESCRIPTION
+Learn how to quickly and easily find and fix problems in your web mapping
+applications. You will learn how to setup your dev environment to use plug-ins
+like linters and beautifiers to write cleaner code. We'll show you how to use the
+power of browser-based debugging tools to debug, style and optimize your
+apps. We will also cover how to resolve common issues you may run into when
+working with the JSAPI.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+ArcGIS Runtime: Analysis
+Esri Technical Session, Runtime
+San Jacinto - Lucas Danzinger, Mark Baird, Mike Branscomb
+DESCRIPTION
+This session will cover all aspects of analysis in ArcGIS Runtime including
+geometry operations, geoprocessing, network solvers, raster functions and
+renderers, and interactive visual analysis tools such as viewshed and line of sight.
+In addition, analysis capabilities and tools available to ArcGIS Runtime Local
+Server will be presented and discussed.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+Authoring Content for a Modern GIS
+Esri Technical Session, Enterprise
+Smoketree A-E - Melanie Summers, Shannon Kalisky, Ty Fitzpatrick
+DESCRIPTION
+Making the transition from ArcMap to ArcGIS Pro also includes transitioning your
+workflow for authoring content. This session will cover how to move from
+publishing GIS services from ArcMap to sharing content as layers from ArcGIS
+Pro. We will take a deep dive into the archtiecture that supports sharing and
+cover key concepts that differentiate authoring content in a modern GIS. While
+this session will focus sharing from Pro to ArcGIS Enterprise, concepts will also be
+applicable if sharing to ArcGIS Online.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+ArcGIS API for JavaScript: Creating Custom Layers and Layer Views
+Esri Technical Session, Web
+Primrose C-D - Matthew George, Sarah Bell, Yann Cabon, Thomas Other, Jacob Wasilkowski
+DESCRIPTION
+Learn how you can extend the API with custom layers and display them in 2D's
+MapView and 3D's SceneView.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+ArcGIS Indoors: An Introduction
+Esri Technical Session, Apps
+Primrose B - Nitin Bajaj, Jeff Archer, Patrick Wallis, Craig McCabe
+DESCRIPTION
+ArcGIS Indoors is Esri's latest product offering and is a complete system that
+brings The Science of Where to indoor spaces. Join the ArcGIS Indoors team for
+an overview of how you can take the geographic approach to problem solving
+inside your buildings. We'll cover how to assemble indoor data, add business
+value, and share it with web and mobile clients to support a wide range of
+workflows. This will be followed by a brief discussion on indoor positioning,
+complete with context of where it can and should add value.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+CSS for Geographers
+Dev 2 Dev, Esri Technical Session
+Catalina-Madera - Patrick Arlt, John Gravois
+DESCRIPTION
+CSS Frameworks like Bootstrap are great but knowing some basic modern CSS
+techniques can you be successful in debugging and customizing your
+applications. Learn the basics of floats, positions, media queries and more to
+really take control of your applications.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+Python: Working with Multidimensional Scientific Data
+Esri Technical Session, Geoprocessing
+Mesquite G-H - Nawajish Noman, Deng Ding
+DESCRIPTION
+The availability and scale of scientific data is increasing exponentially.
+Fortunately, ArcGIS provides functionality for reading, managing, analyzing and
+visualizing scientific data stored in three formats widely used in the scientific
+community ' netCDF, HDF and GRIB. Using satellite and model derived earth
+science data, this session will present examples of data management, and global
+scale spatial and temporal analyses in ArcGIS. Finally, the session will discuss and
+demonstrate how to extend the data management and analytical capabilities of
+multidimensional data in ArcGIS using python packages.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Wednesday, March 07
+ArcGIS Pro SDK for .NET: Advanced Editing and Edit Operations
+Esri Technical Session, Pro
+Santa Rosa - Charlie Macleod, Sean Jones
+DESCRIPTION
+This session focuses on use of Edit Operation and Edit events. We will cover key
+edit operation capabilities and edit operation usage to include: versioned edits;
+combine operations to span across multiple datasets; chaining edit operations.
+We will investigate edit events and row-level events as well as edit Undo/Redo.
+___________________________________________________________________________
+4:00 pm - 4:30 pm Wednesday, March 07
+Administration of ArcGIS Enterprise
+Demo Theater Presentation, Enterprise
+Demo Theater 3 - Oasis 1 - Thomas Edghill, Marley Geddes
+DESCRIPTION
+In this session you will see how to utilize the ArcGIS Enterprise web-based
+administration interface to manage aspects like permissions, users, groups, and
+organization-wide security features. See how to write scripts that interface with
+the REST API to complete tasks such as adding users in batch mode or
+monitoring subscription usage. Attend this session to learn how to administer
+your portal through the online interface and see demonstrations of scripting
+administrative tasks. Demonstrations of new features and functionality will be
+included.
+___________________________________________________________________________
+4:00 pm - 4:30 pm Wednesday, March 07
+Introduction to Workforce for ArcGIS
+Demo Theater Presentation, Apps
+Demo Theater 1 - Oasis 1 - Neel Chowdhury
+DESCRIPTION
+Maximizing the efficiency of your field workforce is key to a successful mobile
+strategy and with Workforce for ArcGIS now you can plan, monitor and
+streamline field to office workflows using the ArcGIS platform. Join this demo
+theatre to learn the basics and how to get started.
+___________________________________________________________________________
+4:30 pm - 5:00 pm Wednesday, March 07
+Distributed Collaboration: Interconnecting Systems
+Enterprise
+Demo Theater 3 - Oasis 1 - Hilary Curtis
+DESCRIPTION
+Connect and share your ArcGIS Enterprise content across organizations using the
+power of distributed collaboration. In this demo theater, we will cover different
+patterns for collaboration, including specific organizational scenarios that benefit
+from this feature. In addition, we will take you step by step through
+administrating and using your collaborations: setting up the collaboration &
+workspace, inviting your participants, sharing your items to groups and
+monitoring synchronization statuses.
+___________________________________________________________________________
+4:30 pm - 5:00 pm Wednesday, March 07
+Operations Dashboard Tip and Tricks
+Demo Theater Presentation, Apps
+Demo Theater 1 - Oasis 1 - Aaron Pulver, Dave Nyenhuis
+DESCRIPTION
+Join this demo theatre and learn how to build stunning, effective Dashboards
+that help your users make decisions at a glance. We will demonstrate some of the
+many ways that you can configure visualizations and interactivity to make the
+most of the information products you create.
+___________________________________________________________________________
+4:30 pm - 5:00 pm Wednesday, March 07
+Harnessing the Power of Python in ArcGIS Using Conda Distribution
+Demo Theater Presentation, Geoprocessing
+Demo Theater 2 - Oasis 1 - Clinton Dow, Shaun Walbridge
+DESCRIPTION
+Python has a rich ecosystem of packages you can use in your own code, but
+installation used
+to be complex. Conda is part of ArcGIS Pro, and allows you to easily install
+libraries into your Python environment, manage environments, and distribute that
+code to others. Join us and learn to bend Python to your will.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+ArcGIS Indoors: The Developer Story
+Esri Technical Session, Apps
+Santa Rosa - Nitin Bajaj, Jeff Archer, Patrick Wallis, Craig McCabe
+DESCRIPTION
+ArcGIS Indoors is Esri's latest product offering and is a complete system that
+brings The Science of Where to indoor spaces. This session will focus on how the
+developer community can build new capabilities around Esri's new product
+offering. We will provide a working overview of the ArcGIS Indoors system, and
+how widgets communicate with each and how connectors can extend the system.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+ArcGIS Runtime: Migrating from ArcGIS Engine
+Esri Technical Session, Runtime
+Mesquite G-H - Rex Hansen, Mike Branscomb
+DESCRIPTION
+Many developers are looking to migrate their current apps built on ArcGIS
+Engine to ArcGIS Runtime so that they can take advantage of the new capabilities
+and faster performance. Attend this session to learn about tips and techniques
+you'll need to migrate your .Net, Java and C++ applications. This session also
+covers some of the user workflow changes required when moving your apps to
+the runtime.
+___________________________________________________________________________
+5:30 pm - 6:00 pm Wednesday, March 07
+ArcGIS Pro SDK for .NET: New UI Controls for the SDK
+Demo Theater Presentation, Pro
+Demo Theater 2 - Oasis 1 - Narelle Chedzey
+DESCRIPTION
+We cover the new user controls available in the ArcGIS Pro SDK for .NET
+including Query Builder control, Locator control, and Coordinate Systems picker
+control. Learn how to integrate these controls into your custom Pro UIs.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+ArcGIS Runtime: Building 3D Applications
+Esri Technical Session, Runtime
+San Jacinto - Adrien Meriaux, Rex Hansen
+DESCRIPTION
+This session will go into depth and provide you with not only the details but some
+inspiration as to what can be achieved when you think 3D first as you design and
+build your runtime apps.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+Insights for ArcGIS
+Esri Technical Session, Business Intelligence
+Primrose B - Art Haddad, Linda Beale
+DESCRIPTION
+Insights for ArcGIS extends the capability for spatial analysis for the ArcGIS
+Platform. It is designed to simply and quickly ask your data questions; get
+answers, and visualize that data in a highly interactive workspace. Insights is a
+fusion of geographic visualization and data analysis that creates a new workflow
+for doing iterative spatial analysis and knowledge discovery. The ability to share
+these findings easily with the world, and reuse modeling workflows, further helps
+a wide range of users take advantage of the ArcGIS platform. This session will
+show you how Insights unlocks the power of GIS with a modernized user
+experience. Insights will be demonstrated, working through several workflows,
+and its functionality. The Insights Extensibility roadmap will be discussed and
+your feedback will help us with prioritization.
+___________________________________________________________________________
+5:30 pm - 6:00 pm Wednesday, March 07
+Jump Start Your iOS App with the Toolkit
+Demo Theater Presentation, Runtime
+Demo Theater 1 - Oasis 1 - Mark Dostal
+DESCRIPTION
+The Runtime SDK provides an open source toolkit containing high-level
+components and utilities that simply development of common workflows. Come
+learn about the toolkit and how you can take advantage of it in your apps.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+ArcGIS API for JavaScript: Building Mobile Web Apps
+Esri Technical Session, Web
+Primrose A - Thomas Other, Lloyd Heberlie, Andy Gup
+DESCRIPTION
+This fast paced session explores building 2D and 3D mapping apps using a
+Mobile First approach with the ArcGIS API for JavaScript. Learn about important
+design and implementation considerations for building successful mobile
+JavaScript apps. Even though modern smartphones and tablets are powerful,
+they still aren't as powerful as a laptop. By applying Mobile First development
+patterns you'll learn how to build highly adaptable and responsive mapping
+applications that perform seamlessly and fast on a variety of device types and
+screen sizes.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+ArcGIS Enterprise: Architecting Your Deployment
+Esri Technical Session, Enterprise
+Catalina-Madera - Philip Heede
+DESCRIPTION
+Architecting your ArcGIS Enterprise deployment doesn't have to be difficult. This
+session will cover the fundamentals of architecting the base ArcGIS Enterprise
+deployment and will lead you through more complex deployment scenarios that
+include the new capability based ArcGIS Server roles. Full of best practices and
+helpful tips, this session aims to set you up for success in planning and deploying
+ArcGIS Enterprise whether you're starting from scratch or upgrading an existing
+server or Web GIS deployment.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+Quick Start ArcGIS Enterprise with Automation
+Esri Technical Session, Enterprise
+Mojave Learning Center - Nikhil Shampur, Mark Carlson, Shannon Kalisky, Cherry Lin
+DESCRIPTION
+Automation is essential in deploying ArcGIS Enterprise because of its efficiency,
+availability, and repeatability. Come learn how you can automate the deployment
+and upgrade of your ArcGIS Enterprise using Esri's ArcGIS Cookbook. This
+approach is based on setting properties rather than writing scripts or code.
+Knowledge of Chef is not required. We'll provide live demos and share our
+experiences on how to configure and install ArcGIS Enterprise deployments.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+Building Web Apps That Integrate with Your Portal
+Esri Technical Session, Web
+Primrose C-D - Kelly Hutchins, Heather Gonzago
+DESCRIPTION
+Learn how to build great web apps with the ArcGIS API for JavaScript that work
+effectively with your web GIS. We will cover how to read and discover web maps
+and scenes, integrate ArcGIS Online content, and work with secured ArcGIS
+Online items in a JavaScript application.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+Administering Your Enterprise Geodatabase Using Python
+Esri Technical Session, Geodatabase
+Smoketree A-E - Jillian Penney, Annie Sasidar
+DESCRIPTION
+The ArcGIS Platform provides many tools that allow you to administer your
+enterprise geodatabase. We'll focus on effective patterns that developers who
+are familiar with Python should utilize to administer the geodatabase effectively.
+Topics discussed include: the types of administrators and their role in
+maintaining the geodatabase; making connections to the geodatabase; creating
+enterprise geodatabases; creating users and roles; managing user privileges on
+data; reconcile-post-compress; updating statistics and indexes; and managing
+user connections.
+___________________________________________________________________________
+5:30 pm - 6:00 pm Wednesday, March 07
+Survey123 for ArcGIS: Tips and Tricks
+Demo Theater Presentation, Apps
+Demo Theater 3 - Oasis 1 - James Tedrick, Brandon Armstrong
+DESCRIPTION
+Learn how to bring in some of the latest features of Survey123 into your forms!
+___________________________________________________________________________
+5:30 pm - 6:30 pm Wednesday, March 07
+App Design and CSS Styling with the ArcGIS API for JavaScript v4
+Dev 2 Dev, Esri Technical Session
+Pasadena-Sierra-Ventura - Allan Laframboise, Juan Carlos Franco
+DESCRIPTION
+This session will illustrate how to leverage the new ArcGIS API for JavaScript API
+to build effective web map apps. This includes taking an inside look at the View
+and UI framework, the CSS, and the SASS library. Come join us to learn more
+about how the framework works, how to style widgets, or if you just want to learn
+a few tips and tricks on how to get things looking just the way you want them to!
+___________________________________________________________________________
+6:00 pm - 6:30 pm Wednesday, March 07
+Authentication for iOS Apps Made Easy
+Demo Theater Presentation, Runtime
+Demo Theater 1 - Oasis 1 - Suganya Baskaran
+___________________________________________________________________________
+6:00 pm - 6:30 pm Wednesday, March 07
+ArcGIS Pro SDK for .NET: Raster API and Manipulating Pixel Blocks
+Demo Theater Presentation, Pro
+Demo Theater 2 - Oasis 1 - Thomas Emge
+DESCRIPTION
+We cover use of the Raster API to select and iterate through raster data. The
+demo will include creating a raster cursor to iterate through raster data and
+reading and writing pixels from and to a raster dataset using pixel blocks.
+___________________________________________________________________________
+6:00 pm - 6:30 pm Wednesday, March 07
+Using the Survey123 Reporting API to Print Survey Records
+Demo Theater Presentation, Apps
+Demo Theater 3 - Oasis 1 - Yue Zhao, James Tedrick
+DESCRIPTION
+Survey123 for ArcGIS has an API to enable the printing of records in customized
+layouts. Learn how to author your templates and use the API with other
+applications.
+___________________________________________________________________________
+7:30 am - 8:30 am Thursday, March 08
+IBM Sponsored SIG
+
+Primrose A
+DESCRIPTION
+Esriand IBM have teamed up to deliver ArcGIS on IBM Cloud. Build and deploy
+your geospatial applications using Watson Data Platform on IBM Cloud. Watson
+Data Platform enables data scientists and data engineers to discover, refine,
+analyze and visualize their data, all in one place, without worrying about the
+infrastructure. IBM has integrated popular open-source tools and libraries such as
+Python and Jupyter notebook into the platform.
+___________________________________________________________________________
+8:00 am - 5:00 pm Thursday, March 08
+Esri Store
+
+Primrose Lobby
+___________________________________________________________________________
+9:00 am - 3:30 pm Thursday, March 08
+Getting Started with the ArcGIS Pro SDK. for .NET
+Esri Technical Session, Pro
+Mojave Learning Center - Rob Burke
+DESCRIPTION
+This new hands-on training workshop will introduce you to ArcGIS Pro SDK
+concepts, helpful tips and practical steps to help you get started developing addins
+to extend ArcGIS Pro. Participants will walk through topics with the workshop
+instructor and then work through exercises using their own device with the Pro
+SDK and the Microsoft Visual Studio development environment. Topics will
+include:
+' Pro SDK overview, online resources and community samples
+' Starting with DAML and UI customization
+' Basic solution configuration development
+' Working with common SDK patterns
+Prerequisites: This course assumes that participants have basic experience
+developing Windows applications using Microsoft Visual Studio 2015 or 2017
+and .NET, as well as a few months of experience working with ArcGIS Pro.
+Workshop participants must bring their own device, pre-installed with ArcGIS Pro
+2.1 and Microsoft Visual Studio 2015 or 2017.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+ArcGIS Runtime: An Introduction to the API and Architecture
+Esri Technical Session, Runtime
+Catalina-Madera - Euan Cameron, David Cardella
+DESCRIPTION
+The ArcGIS Runtime API is a powerful, modern, scalable, and forward-looking API
+that is designed to make it easy to build great applications that fully leverage
+ArcGIS and the device your app is running on. This session will present an
+introduction to the Runtime SDKs, advantages of using them, and an overview of
+the API. This session is ideal for developers new to the runtime and managers or
+program managers evaluating the technology.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+Introducing Coordinate Systems and Transformations
+Geoprocessing
+Mesquite G-H - Bojan Savric, Robert Juergens
+DESCRIPTION
+What are coordinate systems? What should I know about vertical coordinate
+systems? Why should I care about geographic (datum) and vertical
+transformations? The software just handles them automatically, doesn't it?
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+Web AppBuilder for ArcGIS: A Deep Dive into Enterprise Deployment
+Esri Technical Session, Web
+Primrose C-D - Nick Brueggemann, Mark Torrey
+DESCRIPTION
+Discover common implementation patterns for deploying Web AppBuilder
+applications into complex enterprise environments. Find out what considerations
+developers should keep in mind as they plan for enterprise logins, forward and
+reverse proxies, SSL certificates, and other enterprise integration points.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+Practical Guide for Building a 3D Web App from 2D Data
+Esri Technical Session, Web
+Smoketree A-E - Raluca Nicola, Kristian Ekenes
+DESCRIPTION
+Have you hesititated to learn how to build 3D apps because it looks complicated
+or you lack the necessary data? In this session, learn how to build a 3D app using
+your 2D data and the resources provided out of the box by Esri and the ArcGIS
+API for JavaScript. Even if your data doesn't contain Z-values, you can build
+sophisticated 3D apps that leverage modern browser technology to render your
+2D features with 3D symbology.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+Effective Geodatabase Programming
+Esri Technical Session, Geodatabase
+Pasadena-Sierra-Ventura - Erik Hoel, Colin Zwicker
+DESCRIPTION
+ArcGIS developers build applications that can access and interact with a
+geodatabase. Learn about key programming techniques and APIs that must be
+employed when developing high-performance geodatabase applications. This
+session will focus on issues that will allow developers to be more efficient, write
+less code, and save time. Explore the correct and effective programming patterns
+that should be employed when using the geodatabase API.
+___________________________________________________________________________
+9:00 am - 9:30 am Thursday, March 08
+Bring Out Your Qt Side: ExeQting Best App Development Patterns
+Esri Technical Session, Apps
+Demo Theater 2 - Oasis 1 - Michael Tims
+___________________________________________________________________________
+9:00 am - 9:30 am Thursday, March 08
+Custom Elements and Shadow DOM
+Demo Theater Presentation, Dev 2 Dev
+Demo Theater 3 - Oasis 1 - Patrick Arlt
+DESCRIPTION
+As browser vendors add support for the Custom Elements and Shadow DOM
+specification come learn how to build components for your applications that
+seamlessly integrated across Angular, Ember, and React or used on their own.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+Python: Working with Feature Data
+Esri Technical Session, Geoprocessing
+Primrose A - Jibin Liu, Ghislain Prince
+DESCRIPTION
+Join us as we discuss working with feature data in ArcGIS using ArcPy and the
+data access module (arcpy.da). Highlights and demonstrations will include
+getting the best performance out of cursors, editing data, working with NumPy
+arrays and 3rd party libraries to extend analysis, and managing geodata.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+ArcGIS API for JavaScript: Tips and Tricks for Developing and Debugging Apps
+Esri Technical Session, Web
+Mesquite C - Kelly Hutchins, Heather Gonzago
+DESCRIPTION
+Learn how to quickly and easily find and fix problems in your web mapping
+applications. You will learn how to setup your dev environment to use plug-ins
+like linters and beautifiers to write cleaner code. We'll show you how to use the
+power of browser-based debugging tools to debug, style and optimize your
+apps. We will also cover how to resolve common issues you may run into when
+working with the JSAPI.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+Integrating ArcGIS with 3rd Party Services with Koop
+
+Santa Rosa - Haoliang Yu, Daniel Fenton
+DESCRIPTION
+ArcGIS is a complete platform for data management, visualization and analysis.
+However, sometimes you need to use data from other platforms, but still want to
+combine it with spatial data and ArcGIS capabilities.
+Koop is an open-source Javascript engine that is easily extendable to connect
+ArcGIS with any API. You can use Insights with data from Microstrategy, or spatial
+analysis with dynamic data from Salesforce. Using Koop, other platforms become
+an integrated layer with ArcGIS to build StoryMaps, configure a dashboard,
+perform analysis or mapping, and share privately or as Open Data.
+In this session we'll walk through building a new adapter with as little as 30 lines
+of JavaScript and introduce you to the community of developers building other
+adapters that you can easily re-use.
+___________________________________________________________________________
+9:00 am - 9:30 am Thursday, March 08
+Developing Real-Time Web Apps with the ArcGIS API for JavaScript
+Professional Services, Demo Theater Presentation
+Demo Theater 1 - Oasis 1 - Ken Gorton, Morakot Pilouk
+DESCRIPTION
+The Stream Service capability of GeoEvent Server enables real-time mapping
+visualizations for web applications. Explore configuring real-time web apps
+without any application development using Portal for ArcGIS, web application
+templates, and Web AppBuilder for ArcGIS. Learn about the differences and
+advantages of using stream services for real-time data, how to publish and
+configure them, and how to incorporate them in application templates or custom
+JavaScript applications.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+DIY Accessibility
+UX/UI, Esri Technical Session
+Mesquite B - Kelly Hutchins, Tao Zhang
+DESCRIPTION
+Build apps for everyone. Learn how to evaluate, test, and design products that
+are accessible for those with disabilities, and how to strategize getting started.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+Raster Analysis and Image Processing in ArcGIS Enterprise
+Esri Technical Session, Enterprise
+San Jacinto - Vinay Viswambharan, Jie Zhang
+DESCRIPTION
+This session will introduce you to the distributed analytical capabilities of the
+ArcGIS Enterprise Image Server. We will discuss the value of distributed analytics,
+walk through the capabilities, describe the system architecture and concepts,
+explain deployment options, and articulate how this exciting technology will
+evolve with future versions of Image Server. In addition, we will cover examples
+of how this technology can save users significant time when processing large
+rasters, large images, massive mosaics, and massive collections of imagery.
+___________________________________________________________________________
+9:00 am - 10:00 am Thursday, March 08
+ArcGIS API for Python: Introduction to Scripting Your Web GIS
+Esri Technical Session, Online
+Primrose B - Ben Ramseth, John Yaist
+DESCRIPTION
+ArcGIS API for Python lets ArcGIS users, developers, and anyone with an ArcGIS
+Online subscription or a ArcGIS Enterprise, leverage the Python ecosystem to
+automate their workflows and perform repetitive tasks by writing Python scripts.
+In this session you will learn how the ArcGIS Python API can help in scripting and
+automating your Web GIS. It will start with an introduction of the API, who it's for
+and what it can do. The session will walk through the process of getting the API
+through Conda and writing scripts using Jupyter Notebook. A brief tour of the
+API will be followed by a show and tell of some of the powerful capabilities of the
+API, including using the Map widget to visualize GIS content as well as calling
+GeoAnalytics and Raster Analysis tools using the API.
+___________________________________________________________________________
+9:30 am - 10:00 am Thursday, March 08
+Tools for the Modern Web Developer
+Demo Theater Presentation, Dev 2 Dev
+Demo Theater 3 - Oasis 1 - Gavin Rehkemper, Joshua Peterson
+DESCRIPTION
+The world of web development is constantly changing, and staying abreast of the
+latest tools like code editors, terminals, linters, and apps is vitally important.
+Come hear about our favorite tools and how they can help you become a better,
+more efficient developer.
+___________________________________________________________________________
+9:30 am - 10:00 am Thursday, March 08
+ArcGIS Maps for Adobe Creative Cloud: An Introduction
+Professional Services, Demo Theater Presentation
+Demo Theater 1 - Oasis 1 - Clint Loveman
+DESCRIPTION
+An introduction to the ArcGIS plugin for Adobe's design applications. Learn how
+to add maps and layers directly into Illustrator and Photoshop as vector artwork
+or high-resolution rasters. As well as see how to share map assets between
+designers and GIS analysts using ArcGIS Online.
+___________________________________________________________________________
+9:30 am - 10:00 am Thursday, March 08
+Real-Time with the Dynamic Situational Awareness App
+Demo Theater Presentation, Runtime
+Demo Theater 2 - Oasis 1 - Michael Tims, Kerry Robinson
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Getting Started with the ArcGIS Pro SDK. for .NET
+Esri Technical Session, Pro
+Mojave Learning Center - Rob Burke
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Developing Cross-Platform Native Apps with AppStudio for ArcGIS: The Basics
+Esri Technical Session, Apps
+Catalina-Madera - Tina Jin, Nakul Manocha, Chris Lesueur, Erwin Soekianto
+DESCRIPTION
+Join this session to learn how to build cross-platform native apps with AppStudio
+for ArcGIS. You will learn the basics for programming with the Qt Creator IDE
+and QML as well as a complete suite of developer productivity tools for ArcGIS
+developers. This session targets Javascript and Python developers of all levels
+who want to learn how to build native mapping applications.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Python: Map Automation in ArcGIS Pro
+Esri Technical Session, Geoprocessing
+Pasadena-Sierra-Ventura - Jeff Barrette, Jeff Moulds
+DESCRIPTION
+This session is for those who are familiar with the arcpy.mapping module used
+with ArcMap and want to explore this API in ArcGIS Pro. We will identify changes
+made to the API and discuss what is needed to migrate scripts to ArcGIS Pro. This
+presentation will also focus on updating data sources, the new symbology API
+and updates made available with the 2.1 release.
+___________________________________________________________________________
+10:30 am - 11:00 am Thursday, March 08
+AppStudio for ArcGIS: Quick Guide for JavaScript Developers
+Demo Theater Presentation, Apps
+Demo Theater 3 - Oasis 1 - Loayeh Jumbam, Erwin Soekianto
+DESCRIPTION
+Are you a web developer that would like to build native apps? This session will
+show you how your HTML5/CSS/JavaScript skills will help you build native apps
+that run on smartphones, tablets, and desktops.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Charts and Custom Visualizations Beyond the Map
+
+Primrose C-D - Flora Vale, Tom Wayson
+DESCRIPTION
+Visualizing data requires thinking beyond the common types of chart such as bar/
+line/pie. Fortunately, numerous developer libraries such as amCharts and D3
+make it easy to create interactive, dynamic, and informative graphics for web
+applications. It's necessary to consider the appropriate methods for data charts in
+order to make a compelling, and accurate, visualization for people to
+understand.
+In this session, we'll cover the principles of data visualization and some useful
+techniques and methods you can apply to your own work. Also, learn how to use
+developer libraries like Cedar and D3 with ArcGIS APIs to craft custom data
+visualizations in your mapping applications and share them with other
+developers.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Smart 3D City Web Apps with the ArcGIS API for JavaScript
+Esri Technical Session, 3D
+Mesquite G-H - Pascal Mueller, Michael Van den Bergh
+DESCRIPTION
+In this session we will demonstrate how the ArcGIS API for JavaScript can help
+you build a web app to visualize, interact with and analyze a 3D city from an
+urban planning point of view. The focus is on learning how you can use Scene
+Layers, Feature Layers, symbology and other tools to create compelling user
+experiences with your city features and attributes.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+ArcGIS Online: Using the Python API for Transportation Network Analysis
+Esri Technical Session, Geoprocessing
+Santa Rosa - Deelesh Mandloi, Dmitry Kudinov
+DESCRIPTION
+This session will discuss the usage of Python API + Jupyter Notebooks with
+complex transportation analysis powered by ArcGIS Online or your own Portal
+routing services. We will be using Location-Allocation, Service Area, Vehicle
+Routing Problem, and Route services to demonstrate how you can efficiently
+come up with useful informational products, or quickly prototype the flow of a
+web application.
+___________________________________________________________________________
+10:30 am - 11:00 am Thursday, March 08
+Preparing ArcGIS Online Content for Sharing with the Public
+Demo Theater Presentation, Online
+Demo Theater 1 - Oasis 1 - Kelly Gerrow-Wilcox, Ian Wittenmyer
+DESCRIPTION
+ArcGIS Online enables users to create valuable information products that can be
+easily shared with the public. When creating web maps and apps for public
+distribution, it is essential to ensure that layers are configured to allow the
+appropriate access and are optimized for high demand. This session covers best
+practices for layer configuration, using living atlas content and embedding
+ArcGIS Online content in websites.
+___________________________________________________________________________
+10:30 am - 11:00 am Thursday, March 08
+Esri Production Mapping: Generating High Quality Product-On-Demand Maps Over the Web
+Professional Services, Demo Theater Presentation
+Demo Theater 2 - Oasis 1 - Jeremiah Moore
+DESCRIPTION
+Traditionally, creating high-quality, high-volume cartographic products is a handson,
+time-intensive process. Learn how Production Mapping for Server can help
+generate Product on Demand (POD), that is, on-the-fly map and chart generation
+over the Web.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+3D Visualization with the ArcGIS API for JavaScript
+Esri Technical Session, Web
+Smoketree A-E - Raluca Nicola, Kristian Ekenes
+DESCRIPTION
+The ArcGIS API 4.x for JavaScript provides a set of APIs allowing you to build
+powerful interactive 3D mapping applications. In this session, we'll focus on the
+visualization capabilties specific to 3D views. We'll dive into the various symbol
+types and visual variables and demonstrate how they interact with renderers.
+You'll learn catographic techniques unique to 3D and see several demos showing
+how to thematically visualize 2D features with 3D symbols. We'll also provide an
+overview of how to visualize data in layers specific to 3D views.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Optimizing Your JavaScript App for Performance
+Esri Technical Session, Web
+Primrose A - Rene Rubalcava, Lloyd Heberlie
+DESCRIPTION
+Learn how to structure your application to create optimized builds using the Web
+Optimizer or custom local builds using the Bower release of the ArcGIS API for
+JavaScript. Other common JavaScript and web application optimization
+techniques will be discussed.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Threat Mitigation and Prevention in ArcGIS Enterprise
+Esri Technical Session, Enterprise
+San Jacinto - Randall Williams, Jeff Smith
+DESCRIPTION
+This session will cover critical security knowledge as it pertains to threat
+mitigation and prevention within ArcGIS Enterprise. Learn how to protect
+yourself from common threats and attacks and how to harden your environment
+using multiple layers of security. This session will cover aspects of the
+environment including the operating system, accounts, database, the network,
+and firewalls. Join us to learn about security options in ArcGIS Enterprise that
+help protect your site from attack.
+___________________________________________________________________________
+10:30 am - 11:30 am Thursday, March 08
+Getting Started with Web Development and the ArcGIS API for JavaScript
+Esri Technical Session, Web
+Primrose B - Heather Gonzago, Noah Sager
+DESCRIPTION
+Join us for an overview on developing with the ArcGIS API for JavaScript. This
+session will cover the basics of setting up your development environment,
+fundamental debugging techniques, and tips for using the online SDK. Learn
+about patterns and practices for integration with ArcGIS Online, ArcGIS Server,
+working with data and widgets.
+___________________________________________________________________________
+11:00 am - 11:30 am Thursday, March 08
+Collaboration and Content Sharing with ArcGIS Online
+Demo Theater Presentation, Online
+Demo Theater 1 - Oasis 1 - Paul Barker, Chris Whitmore
+DESCRIPTION
+ArcGIS Online has a powerful sharing model that enables you to share with the
+public, specific users and users within your organization. Collaboration and
+sharing private content between organizations makes the sharing experience
+richer. Come see some practical examples about sharing and collaborating with
+GIS Content using ArcGIS Online tools
+___________________________________________________________________________
+11:00 am - 11:30 am Thursday, March 08
+Remotely Invoking ArcGIS Apps
+Demo Theater Presentation, Apps
+Demo Theater 3 - Oasis 1 - James Tedrick, Joel Whitney
+DESCRIPTION
+Esri Apps like Collector, Survey123, Explorer, Workforce and Navigator all have
+the ability to communicate with one another via a technology called the app link.
+This powerful technology addresses many different workflows which involve
+multiple apps working together in complex real world workflows. 3rd party apps
+can also make use of this technology to create a whole host of native and web
+applications that can invoke Esri Native apps within the scope of a larger
+workflow. This session will focus on explaining this technology and give many
+examples of how you can augment your apps to call into Esri's native apps like
+Workforce, Navigator, Collector and Survey123.
+___________________________________________________________________________
+11:00 am - 11:30 am Thursday, March 08
+OpenStreetMap and ArcGIS: Mapping the Future
+Professional Services, Demo Theater Presentation
+Demo Theater 2 - Oasis 1 - Steve Moore
+DESCRIPTION
+Whether you are new to OpenStreetMap or a seasoned user, we want to meet
+and collaborate with you. This session will be an interactive dialog on OSM and
+ArcGIS. We'll provide an overview of the current tools and facilitate a discussion
+about your current workflows and usage, and brainstorm how you'd like to use it
+in the future.
+___________________________________________________________________________
+11:30 am - 12:30 pm Thursday, March 08
+IBM Sponsored SIG
+
+Primrose A
+DESCRIPTION
+Esriand IBM have teamed up to deliver ArcGIS on IBM Cloud. Build and deploy
+your geospatial applications using Watson Data Platform on IBM Cloud. Watson
+Data Platform enables data scientists and data engineers to discover, refine,
+analyze and visualize their data, all in one place, without worrying about the
+infrastructure. IBM has integrated popular open-source tools and libraries such as
+Python and Jupyter notebook into the platform.
+___________________________________________________________________________
+11:30 am - 1:00 pm Thursday, March 08
+Hosted Lunch
+
+Esplanade
+___________________________________________________________________________
+1:00 pm - 1:30 pm Thursday, March 08
+Working with Dynamic Map Services in the ArcGIS API 4.x for JavaScript
+Demo Theater Presentation, Web
+Demo Theater 1 - Oasis 1 - Yann Cabon, Noah Sager
+DESCRIPTION
+Learn how to harness the capabilities of ArcGIS Enterprise dynamic map services
+using the ArcGIS API 4.x for JavaScript. This session will provide an overview of
+the MapImageLayer class (ArcGISDynamicMapServiceLayer in 3.x), and explore
+its best features through code examples and demonstrations.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+What's New in Workforce for ArcGIS
+Esri Technical Session, Apps
+San Jacinto - Craig Gillgrass, Jeff Shaner
+DESCRIPTION
+Maximizing the efficiency of your field workforce is key to a successful mobile
+strategy and with Workforce for ArcGIS now you can plan, monitor and
+streamline field to office workflows using the ArcGIS platform. Join this workshop
+to learn about Workforce, see how it integrates and remotely controls other Esri
+field apps, and discover what's new and where we are headed in 2018.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+Javascript Applications for the Enterprise: Test More, Work Less
+Esri Technical Session, Web
+Pasadena-Sierra-Ventura - Randy Jones, George Bochenek
+DESCRIPTION
+Learn about the fundamentals of unit testing for enterprise scale ArcGIS API for
+JavaScript applications. This session will teach you the value of unit testing, basic
+techniques and best practices, as well as how to integrate testing workflows into
+planning, continuous integration, and source control using modern testing
+frameworks and tools.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+GitHub for Geographers
+Dev 2 Dev, Esri Technical Session
+Mesquite G-H - Patrick Arlt, John Gravois
+DESCRIPTION
+Everyone is talking about GitHub, but what is it exactly? In this session we'll
+explain what makes GitHub such a great collaboration tool and cover the basics
+of version control (git) using examples that don't require any coding experience.
+We'll also talk about how Esri uses GitHub and how you can get involved.
+___________________________________________________________________________
+1:00 pm - 1:30 pm Thursday, March 08
+Take Your App Offline with StreetMap Premium for ArcGIS Runtime
+Demo Theater Presentation, Runtime
+Demo Theater 2 - Oasis 1 - Rex Hansen, Frank Kish
+DESCRIPTION
+ArcGIS Runtime provides core tools to display a map, geocode locations, and
+calculate routes. But what if you need to take your app offline, and need a locally
+stored map supporting these core capabilities? StreetMap Premium for ArcGIS
+Runtime provides a global library of ready-to-use offline maps. See how easy it is
+to deploy with your Runtime app today, and enable your app to geocode, route,
+and map all while disconnected.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+ArcGIS API for JavaScript: Using Arcade with Your Apps
+Esri Technical Session, Web
+Primrose A - Kristian Ekenes, Dave Bayer
+DESCRIPTION
+Arcade is a scripting language that may be used to create custom visualizations,
+popup content, and labeling expressions for apps built on the ArcGIS platform.
+Sometimes simple calculations can provide more insight instead of field values
+when creating data-driven visualizations. Arcade allows you to drive
+visualizations, popup content, and labels by a value returned from an expression
+rather than a field value. This session will provide an overview of how to navigate
+the Arcade documenation while highlighting some of the key functions available
+in Arcade and the ArcGIS API for JavaScript. View examples of how powerful
+Arcade can be when creating visualizations and labels for a FeatureLayer. Also,
+observe how the live Arcade editor in ArcGIS Online can be a powerful tool in
+helping you write, edit, debug, and execute custom expressions.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+Developing Cross-Platform Native Apps with AppStudio for ArcGIS: Advanced
+Esri Technical Session, Apps
+Catalina-Madera - Siddesh Pillai, Liwei Gao, Erwin Soekianto
+DESCRIPTION
+In this session we will discuss advanced developer techniques with AppStudio for
+ArcGIS. In particular, we will cover some of the latest enhancements added to
+AppStudio such as support for high accuracy GNSS receivers, biometric logins,
+improved data access utilities and more.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+What's New in ArcGIS Enterprise
+Esri Technical Session, Enterprise
+Primrose B - Hilary Curtis, Philip Heede
+DESCRIPTION
+ArcGIS Enterprise is ever-evolving and advancing. Join us at this session for
+details on what's new in the product, including recent developments and
+enhancements to ArcGIS Enterprise performance and administration, ArcGIS
+Enterprise portal, GeoAnalytics server and others. Learn how you can harness
+new capabilties to advance and expand your GIS.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+Scientific Programming with the SciPy Stack
+Esri Technical Session, Geoprocessing
+Santa Rosa - Shaun Walbridge, Kevin Butler
+DESCRIPTION
+ArcGIS developers build rich tools and applications that help solve a wide variety
+of real-world problems. In this session, learn how to expand your domain of
+expertise into the world of scientific data analysis. Explore how to ingest, analyze
+and integrate scientific data into your applications. SciPy is a rich set of Python
+modules for scientific and technical computing. This session will focus on how
+you can leverage SciPy to be more efficient, solve challenging scientific problems
+from within ArcGIS, and build hybrid applications that capitalize on both the
+strengths of ArcGIS and the Python ecosystem. Using real-world case studies
+explore best practices and programming patterns for leveraging SciPy.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+ArcGIS Runtime: Building Great User Experiences
+Esri Technical Session, Runtime
+Smoketree A-E - Dawit Elias, Nick Black
+DESCRIPTION
+Attend this session to learn about the important concepts that will allow you to
+build great ArcGIS Runtime apps for the devices that it supports. Get an insight
+into the cross-platform design process at esri and the techniques we used to
+redesign the new version of Collector for ArcGIS aka Aurora.
+___________________________________________________________________________
+1:00 pm - 1:30 pm Thursday, March 08
+Make Your iOS Apps Come Alive With Map Animations
+Demo Theater Presentation, Runtime
+Demo Theater 3 - Oasis 1 - Nicholas Furness
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+Getting Started with the ArcGIS Pro SDK. for .NET
+Esri Technical Session, Pro
+Mojave Learning Center - Rob Burke
+___________________________________________________________________________
+1:00 pm - 2:00 pm Thursday, March 08
+Vector and Raster Multiprocessing with ArcPy
+Esri Technical Session, Geoprocessing
+Primrose C-D - Clinton Dow, Neeraj Rajasekar
+DESCRIPTION
+As GIS Developers we often work with huge datasets which are many times
+larger than available system memory in even the highest-end desktop
+computers. When crunching that much data, including multiprocessing and
+parallelization strategies in your tools can have a huge impact on their efficiency
+and thus the bottom line. Several strategies will be demonstrated to utilize
+multiprocessing and async/await patterns with both raster and vector data in your
+ArcPy scripts.
+___________________________________________________________________________
+1:30 pm - 2:00 pm Thursday, March 08
+Preparing Your Data for Offline Use with ArcGIS Runtime
+Demo Theater Presentation, Runtime
+Demo Theater 2 - Oasis 1 - Justin Colville, Antti Kajanus
+___________________________________________________________________________
+1:30 pm - 2:00 pm Thursday, March 08
+ArcGIS Runtime SDKs: Key Benefits in Coding Patterns and Workflows in Version 100.x
+
+Demo Theater 3 - Oasis 1 - Kwasi Asante
+DESCRIPTION
+With the release of the next generation of the runtime SDK (codename Quartz),
+GIS developers will be looking for ways in which they stand to benefit from this
+release. Among the key areas most developers will be concerned with will be
+bugs fixes, improvement in functionalities or gaps in functionality, support for
+new and emerging technologies, new or recommended workflows and most
+importantly any changes in coding paradigm. The first three are typically areas
+where documentation can be provided to help guide users; however
+recommended workflows and coding paradigms are areas where it might be
+prudent to give a demonstration to users in regards to the new release.
+___________________________________________________________________________
+1:30 pm - 2:00 pm Thursday, March 08
+Sketching with the ArcGIS API for JavaScript
+Demo Theater Presentation, Web
+Demo Theater 1 - Oasis 1 - Bjorn Svensson, Jonathan Uihlein
+DESCRIPTION
+The new sketch tools in the ArcGIS API 4.x for JavaScript provides the building
+blocks for enabling advanced drawing capabilities. Developers can have
+complete control to create and modify geometries. These powerful tools are
+highly customizable, with a focus on a clean user experience across multiple
+platforms and input devices. This session will highlight some of the best features
+through code examples and demos. We'll also explore what to expect in future
+releases of the sketch tools.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+Integrating Imagery into ArcGIS Runtime SDK Applications
+Imagery/Raster, Esri Technical Session
+Santa Rosa - Zhiguang Han, Jie Zhang
+DESCRIPTION
+This session will get you oriented on how to take advantage of the imagery
+capabilities offered in the ArcGIS Runtime SDK. We'll cover general topics such
+as working with local imagery and rasters with various formats and projections,
+accessing ArcGIS Image Services, and working with raster functions for both
+visualization and analysis. We'll also delve into some new features in the ArcGIS
+Runtime SDK latest releases.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+Design: Collaborative Brainstorming
+UX/UI, Esri Technical Session
+Mesquite G-H - Mitchel Cox, Alexander Smailes
+DESCRIPTION
+Learn how to organize many minds around a common design goal while
+remaining as efficient as possible. Come learn from Esri designers on the best
+collaborative brainstorming techniques and approaches in our arsenal.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+Web AppBuilder for ArcGIS: Advanced Development Tools and Techniques
+Esri Technical Session, Web
+Primrose C-D - Gavin Rehkemper, George Bochenek
+DESCRIPTION
+This session picks up where the Customizing and Extending Web AppBuilder
+session leaves off. Learn advanced tools and techniques using modern JavaScript
+tooling and streamline your Web AppBuilder custom widget and theme
+development. It includes: ' How to incorporate builds into your development
+process ' Using the TypeScript transpiler during widget development ' Using the
+yeoman generator to speed up development pace ' Extending OOTB widgets
+cleanly ' SASS CSS compiling within WAB development workflows.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+Using Frameworks with the ArcGIS API for JavsScript
+Esri Technical Session, Web
+Primrose A - Rene Rubalcava, Tom Wayson
+DESCRIPTION
+Learn how to integrate your framework of choice with the ArcGIS API for
+JavaScript! We'll cover various frameworks, how to integrate them, challenges
+and best practices for you to build awesome apps!
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+Bringing Your Data to Life in the ArcGIS API for JavaScript: Vector Tiles
+Esri Technical Session, Web
+Smoketree A-E - Jeremy Bartley, Craig Williams
+DESCRIPTION
+There are many benefits of using vector tile layers. Some of these benefits
+include: (1) The ability to display vector data at the native resolution of your
+device; (2) a means for developers to simply manage map styles rather than a full
+tile set; (3) the ability to build interactive apps without compromising
+performance. In this session, we will take a holistic approach for demonstrating
+how you can work with vector tile layers from start to finish. We'll author vector
+tile layers in Pro, publish them to ArcGIS Online and ArcGIS Enterprise, and show
+how you can have fun with them as a developer with the ArcGIS API for
+JavaScript.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+ArcGIS API for Python: Mapping, Visualization and Analysis
+Esri Technical Session, Online
+Catalina-Madera - Andrew Chapkowski, Atma Mani
+DESCRIPTION
+The Python ecosystem is rich with a set of libraries that allow you to dissect and
+explore your data. Couple that with an interactive environment such as Jupyter
+notebooks and ArcGIS API for Python, you get yourself a versatile environment to
+perform exploratory GIS analysis that you can create and drive by little snippets
+of Python code. Stop by for an interesting talk on how you can use powerful
+visualization, statistics and ArcGIS to better understand your data.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+ArcGIS Indoors: An Introduction
+Esri Technical Session, Apps
+Pasadena-Sierra-Ventura - Nitin Bajaj, Jeff Archer, Patrick Wallis, Craig McCabe
+DESCRIPTION
+ArcGIS Indoors is Esri's latest product offering and is a complete system that
+brings The Science of Where to indoor spaces. Join the ArcGIS Indoors team for
+an overview of how you can take the geographic approach to problem solving
+inside your buildings. We'll cover how to assemble indoor data, add business
+value, and share it with web and mobile clients to support a wide range of
+workflows. This will be followed by a brief discussion on indoor positioning,
+complete with context of where it can and should add value.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+What's New in Operations Dashboard for ArcGIS
+Esri Technical Session, Apps
+San Jacinto - Dave Nyenhuis, Tif Pun, Patrick Brennan
+DESCRIPTION
+You can make decisions at a glance with Operations Dashboard for ArcGIS.
+Come to this session and learn how you can build stunning, real-time dashboards
+using the new web experience that is a part of Operations Dashboard.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+ArcGIS Runtime: Road Ahead
+Esri Technical Session, Runtime
+Primrose B - Euan Cameron, David Cardella
+DESCRIPTION
+Come and join the Dev team as they share with you some of the new capabilities
+we will be releasing this year.
+___________________________________________________________________________
+2:30 pm - 3:30 pm Thursday, March 08
+Getting Started with the ArcGIS Pro SDK. for .NET
+Esri Technical Session, Pro
+Mojave Learning Center - Rob Burke
+___________________________________________________________________________
+2:30 pm - 3:00 pm Thursday, March 08
+What You Should Know About Geographic (Datum) and Vertical Transformations
+Demo Theater Presentation, Geoprocessing
+Demo Theater 3 - Oasis 1 - Bojan Savric, Melita Kennedy
+DESCRIPTION
+How do I pick the best transformation? What if there's no available
+transformation? I just upgraded from 10.3 to 10.5.1 and I don't see
+transformations that I used before. What's going on? How are vertical
+transformations connected to geographic (datum) transformations?
+___________________________________________________________________________
+2:30 pm - 3:00 pm Thursday, March 08
+3D with WebGL in ArcGIS
+Demo Theater Presentation, 3D
+Demo Theater 1 - Oasis 1 - Chris Andrews, Javier Gutierrez
+DESCRIPTION
+ArcGIS contains a rich set of experiences for delivering 3D web applications with
+WebGL from the ArcGIS API for JavaScript to the Scene Viewer and Web
+AppBuilder. ArcGIS JavaScript capabilities use WebGL to render 3D in the
+browser with no plug-ins. This session will provide a brief overview of the
+capabilities and relationships of Esri's JavaScript 3D offerings along with demos
+and tips showing what can be done with web-based 3D apps. Presenters will also
+touch on technologies such as Scene Layers, mobile apps, and how they relate to
+JavaScript experiences.
+___________________________________________________________________________
+2:30 pm - 3:00 pm Thursday, March 08
+Turbocharge Feature Display On iOS With Popups
+Demo Theater Presentation, Runtime
+Demo Theater 2 - Oasis 1 - Suganya Baskaran
+___________________________________________________________________________
+3:00 pm - 3:30 pm Thursday, March 08
+Python: Solving Large Network Problems
+Demo Theater Presentation, Geoprocessing
+Demo Theater 3 - Oasis 1 - Deelesh Mandloi, Melinda Morang
+DESCRIPTION
+Solving large network analysis problems can be slow and memory intensive. For
+example, how do you find the three closest clinics for millions of patients or
+calculate a drive-time polygon around every store in your chain without waiting
+forever or running out of memory? This session will discuss methods to solve
+large network analysis problems efficiently, including ways to split the problem
+into smaller chunks and parallelize the analysis.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Thursday, March 08
+Using Geoprocessing for Configuring Advanced Tracing Analytics with the Utility Network
+Demo Theater Presentation, Geodatabase
+Demo Theater 2 - Oasis 1 - Rick Anderson, Tom Brown
+DESCRIPTION
+This session will go into detail on the utility network's tracing framework and its
+many available configurations for performing advanced tracing operations.
+___________________________________________________________________________
+3:00 pm - 3:30 pm Thursday, March 08
+Roadmap for BIM-GIS Interoperability
+Demo Theater Presentation, 3D
+Demo Theater 1 - Oasis 1 - Rafael Fernandes, Don Kuehne
+DESCRIPTION
+As soon as GIS went 3D, uses started experimenting with putting one of the most
+widely created 3D data types in GIS context, Building Information Modeling
+(BIM) data. This session will cover the existing capabilities of the ArcGIS platform
+to consume BIM information. Participants will be given a list of tips for advising
+customers in better BIM standards for GIS integration. Finally, the talk will cover
+the future roadmap for BIM-GIS integration with ArcGIS.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+Real-Time GIS: Road Ahead
+Esri Technical Session, Real-Time GIS
+Pasadena-Sierra-Ventura - Adam Mollenkopf, Suzanne Foss
+DESCRIPTION
+This session will provide an update on the development plans and roadmap for
+Real-Time GIS including ArcGIS GeoEvent Server and the spatiotemporal big
+data store.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+ArcGIS Pro: The Road Ahead
+Esri Technical Session, Pro
+Primrose B - Stefan Balbo, Rob Elkins Jr, Nathan Shephard, Charlie Macleod, Jim McKinney, Craig Williams, Drew Flater, David Watkins
+DESCRIPTION
+ArcGIS Pro is the premier desktop GIS for 2D and 3D mapping, analysis and
+editing. Come and hear from senior members of the ArcGIS Pro team as they
+discuss ArcGIS Pro's latest capabilities and what's planned for the future.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+ArcGIS Runtime: Building Cross-Platform Apps
+Runtime
+Primrose C-D - Morten Nielsen, Rex Hansen, Michael Tims, Mark Baird
+DESCRIPTION
+Building apps that run across devices and on multiple platforms is a common
+requirement in today's world. However, this can be very costly to implement.
+Attend this session to learn how technologies like Qt, .NET and Java can help you
+build apps that run on many platforms.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+ArcGIS API for Python for Analysts and Data Scientists
+Esri Technical Session, Online
+Mesquite G-H - Andrew Chapkowski, Rohit Singh
+DESCRIPTION
+Python has positioned itself as a highly suitable programming / scripting
+language for data exploration and analysis with its rich ecosystem of libraries
+such as NumPy, SciPy, pandas, maptplolib, scikit-learn, etc. and interactive
+visualization environments such as Jupyter notebooks. The ArcGIS Python API
+follows suite in being your library for comprehensive analyses of geospatial data.
+With an intuitive design and easy to use syntax, the API opens up access to rich
+geoprocessing services and big data analysis capabilities of your web GIS.
+Join us at this tech workshop to learn how you can use ArcGIS Python API
+' to tap into the geospatial component of your big data datasets and discern
+meaningful patterns
+' to analyze and visualize spatial patterns in interactive Jupyter notebooks
+' with other data analysis libraries to solve real world problems
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+Building 3D Streets, Parks and Open Spaces with CityEngine
+3D
+San Jacinto - Pascal Mueller, Eric Wittner
+DESCRIPTION
+Learn how to build 3D representations of open spaces, parks and streetscapes
+using Esri's CityEngine technology. First, this session will explore using open data
+sources to rapidly create 3D scenes from neighborhoods to whole cities. By using
+procedural rules, the presenters will then show how to efficiently distribute 3D
+vegetation models, place street furniture, generate street geometries, and
+modify the terrain. Also, web scene publication workflows will be explained.
+Finally, an overview of the new planning features in CityEngine 2018 will be
+given.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+ArcGIS Enterprise: Cloud Operations Using Amazon Web Services
+Esri Technical Session, Enterprise
+Mojave Learning Center - Derrick Burke, Mark Carlson, Cherry Lin
+DESCRIPTION
+This session will cover a broad spectrum of topics as it relates to ArcGIS
+Enterprise operations in the cloud, with a focus on Amazon Web Services (AWS).
+Learn operational best practices, from automation to monitoring, patching and
+upgrades. In addition, topics will cover managing costs, sizing and performance.
+This session is a must for anyone interested in cloud operations.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+Audacious Enterprise GIS Apps with EmberJs
+Dev 2 Dev, Esri Technical Session
+Catalina-Madera - Mike Juniper, David Bouwman
+DESCRIPTION
+Ember is a popular framework for creating "ambitious web applications". This
+session will review how leverage the ArcGIS Platform from within an Ember 2.x
+application. We will cover authentication (OAuth), interacting with the Portal
+Services (Items/Groups/Users) as well as working with the JS API itself. We will
+also cover how you can use the many open-source Ember Addons that Esri has
+created for use in our products.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+Customizing the ArcGIS API for JavaScript Widgets
+Esri Technical Session, Web
+Primrose A - Alan Sangma, Matt Driscoll, Juan Carlos Franco
+DESCRIPTION
+In this session, we'll cover how you can customize widgets in the ArcGIS API 4.x
+for JavaScript. You'll learn about widget view-models and how they make it easy
+to rewrite a widget's UI. We'll also cover using out-of-the-box themes, as well as
+creating custom themes using Sass.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+High Performance Batch Geocoding with ArcGIS
+Esri Technical Session, Geoprocessing
+Santa Rosa - Bruce Harold, Victor Bhattacharyya
+DESCRIPTION
+This session will include tips and tricks about how to get the most performance
+out of your batch geocoding jobs across the ArcGIS platform. We will discuss
+how to optimize locators and job properties to speed up batch geocoding in
+ArcGIS Desktop and ArcGIS Enterprise.
+___________________________________________________________________________
+4:00 pm - 5:00 pm Thursday, March 08
+Building Interactive Web Apps Using the ArcGIS API for JavaScript Geometry Engine
+Web
+Smoketree A-E - Kristian Ekenes, Dave Bayer
+DESCRIPTION
+This session delves into the ArcGIS API for JavaScript GeometryEngine and
+demonstrates a few of the powerful UX capabilities it can bring to web
+applications. We'll review how GeometryEngine can be used to customize
+editing applications, providing instant feedback to the user. It allows you to
+control a user's editing operations before they push final edits to the server. Also,
+come to learn about how the measurement and overlay methods of
+GeometryEngine can be used to enhance your apps. This session will inspire you
+to explore other GeometryEngine methods and create complex apps with
+capabilities that would otherwise not be possible without client-side geometry
+operations.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+ArcGIS Enterprise: Cloud Operations Using Microsoft Azure
+Esri Technical Session, Enterprise
+Mojave Learning Center - Nikhil Shampur
+DESCRIPTION
+This session will cover a broad spectrum of topics as it relates to ArcGIS
+Enterprise operations in the cloud, with a focus on Microsoft Azure. Learn
+operational best practices, from automation to monitoring and patching. In
+addition, topics will cover managing costs, sizing and performance. This session
+is a must for anyone interested in cloud operations.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+ArcGIS API for Python: Administering Your Web GIS
+Esri Technical Session, Online
+Primrose C-D - Bill Major II, Andrew Chapkowski
+DESCRIPTION
+This technical session will teach Web GIS administrators how to use the ArcGIS
+Python API to automate most of their repetitive tasks and use scripts instead of
+using the UI and clicking their way through. It will demonstrate scripting of
+common administrative tasks such as setting up a Portal and populating it with
+users, groups and content, migrating GIS resources from staging to production,
+checking credit consumption and usage statistics of GIS resources and content
+validation workflows. It will also cover strategies for scheduling these scripts to
+run at periodic intervals.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+JavaScript for Geographers
+Dev 2 Dev, Esri Technical Session
+Primrose A - Patrick Arlt, John Gravois
+DESCRIPTION
+You already know about projections, datums, and when not to choropleth, come
+see how the other nerd-half live and learn the basics of the building web
+applications with JavaScript. We will cover essential JavaScript concepts you will
+need to know when working with the ArcGIS API for JavaScript. We will also talk
+about the best way to learn JavaScript moving forward, how to keep your skills
+up to date, when (and how) to integrate new tools and frameworks into your
+projects, and how to navigate the exploding JavaScript ecosystem.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+ArcGIS Runtime: Editing Your Data Online and Offline
+Esri Technical Session, Runtime
+Catalina-Madera - Euan Cameron, Justin Colville, Antti Kajanus
+DESCRIPTION
+Editing data in the field or the office is a common requirement for many
+organizations. This session will present the capabilities and patterns for editing
+data whether you have a network connection or if it is slow or non-existent.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+ArcGIS Mobile Apps: The Road Ahead
+Esri Technical Session, Apps
+Primrose B - Jeff Shaner, Ismael Chivite, Jeff Jackson
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+High-End 3D Visualization with CityEngine, Unity and Unreal
+Esri Technical Session, 3D
+San Jacinto - Stefan Arisona, Pascal Mueller, Eric Wittner
+DESCRIPTION
+Interactive experiences, whether on the screen or in VR/AR, are the next big step
+in 3D GIS. In this session, you will get an introductory guide to Unity and Unreal,
+the leading game engines. You will learn to build 3D experiences that allow you
+to walk through realistically rendered city models or to explore interactive
+storytelling of your 3D project. We will also demonstrate how to import, create
+and prepare 3D data in CityEngine and export it efficiently into the game
+engines. Finally, an overview of the new interoperability features in CityEngine
+2018 will be given.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+Advanced 3D Features in the ArcGIS API for JavaScript
+Esri Technical Session, Web
+Smoketree A-E - Thomas Other, Jesse van den Kieboom
+DESCRIPTION
+Learn how you can leverage the WebGL capabilities of your browser with the
+JavaScript API to build stunning 3D web applications. This session will focus on
+more advanced aspects like: camera operations, atmosphere and lighting and
+performance. Also learn how to extend the API using custom WebGL code to
+create custom visualizations and integrate it with libraries such as Three.js.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+Javascript Applications for the Enterprise: Building for Production
+Esri Technical Session, Web
+Pasadena-Sierra-Ventura - Randy Jones, George Bochenek
+DESCRIPTION
+Learn how to prepare your enterprise-scale ArcGIS API JavaScript applications
+for production. In this session, you'll learn best practices for creating productionready
+applications, focusing on development techniques and automated build
+processes. We'll walk through building a sample applications, as well as applying
+these techniques to the ArcGIS Web AppBuilder.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+ArcGIS Pro SDK for .NET: Working with Rasters and Imagery
+Imagery/Raster, Esri Technical Session
+Santa Rosa - Prashant Mangtani, Ling Tang
+DESCRIPTION
+Learn how to use the ArcGIS Pro SDK with Imagery and Raster data to create
+compelling add-ins. Developers can use the ArcGIS Pro SDK to control how their
+imagery and raster data is displayed, read/write pixels and properties and
+control how data is processed.
+___________________________________________________________________________
+5:30 pm - 6:30 pm Thursday, March 08
+Designing Apps with Calcite Maps
+Dev 2 Dev, Esri Technical Session
+Mesquite G-H - Allan Laframboise
+DESCRIPTION
+Calcite Maps is a new map app development framework built on top of Calcite
+and Bootstrap. Join us to learn what the framework is and how you can leverage
+it to quickly develop custom web and mobile mapping apps. Key map app
+design concepts stemming from the Calcite project, the new Styler app template,
+and the ArcGIS JavaScript 4.x API will also be covered.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+Automating Workforce for ArcGIS with Python
+Esri Technical Session, Apps
+San Jacinto - Aaron Pulver
+DESCRIPTION
+Workforce for ArcGIS helps you visualize you workforce in the field and send
+them assignments of tasks to complete. Attend the session to learn how to use
+Python to automate creating and assigning tasks in Workforce for ArcGIS.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+ArcGIS Pro SDK for .NET: An Overview of the Utility Network Management API
+Esri Technical Session, Geodatabase
+Mesquite G-H - Rich Ruh, David Crawford
+DESCRIPTION
+This session will provide an overview of the utility network .NET API in ArcGIS Pro
+to create custom tools and applications for electric, gas, waster and waste water
+utilities.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+ArcGIS Runtime: Everything (or Anything) You Wanted to Know About the ArcGIS Runtime SDKs but Were Afraid to Ask
+Esri Technical Session, Runtime
+Catalina-Madera - Morten Nielsen, Euan Cameron, Rex Hansen, Justin Colville
+DESCRIPTION
+This is a YOU session. The content comes from you, the audience. The first part of
+this session is spent collecting and recording as many questions as possible, as
+quickly as possible, no answers are given during this time. The rest of the session
+is about answering each question. The questions are handled one-by-one by a
+panel made up of Esri developers from the ArcGIS Runtime team. It's that simple!
+No question is out of bounds, no question is 'dumb', no question is too
+technical, no judgments are made. Just an informative time of interaction
+between you, the developer, and the ArcGIS Runtime development team!
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+ArcGIS Enterprise: The Road Ahead
+Esri Technical Session, Enterprise
+Primrose B - Jay Theodore, Philip Heede
+DESCRIPTION
+ArcGIS Enterprise brings powerful mapping and spatial reasoning to your
+infrastructure. This session will offer a sneak peek at capabilities planned for
+upcoming releases, as well as a view into some of the research and development
+projects currently underway for the product.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+Building Apps with Leaflet and the Esri Leaflet Project
+Dev 2 Dev, Esri Technical Session
+Primrose A - John Gravois
+DESCRIPTION
+Learn how to build lightweight mapping applications with Leaflet and open
+source Esri Leaflet plugins. These tools allow you to access key capabilities of the
+ArcGIS platform like basemaps, feature services, and map services. We'll
+combine these tools with other plugins from the Leaflet community and dig into a
+few sample applications together.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+Developing Imagery Apps Using the ArcGIS API for JavaScript and WebApp Builder
+Imagery/Raster, Esri Technical Session
+Mojave Learning Center - Chayanika Khatua, Naila Khan
+DESCRIPTION
+Learn how to build powerful imagery applications using the out-of-the-box
+features built into the ArcGIS API for JavaScript (3.x and 4.x) and Web
+AppBuilder. This session covers a wide range of development patterns along
+with a full API review of server side dynamic processing, as well as responsive
+client side pixel filtering using JavaScript and WebGL. Publicly accessible
+imagery applications, widgets, and Github repos are also covered.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+ArcGIS Pipeline Referencing: Leveraging the ArcGIS Platform for Linear Referencing within the Enterprise
+Professional Services, Esri Technical Session
+Santa Rosa - Anjali Bhangay
+DESCRIPTION
+Leveraging components of the ArcGIS Platform including ArcGIS Enterprise,
+Portal for ArcGIS, Geoprocesing and Pipeline Referencing to enable linear
+referencing as apps and services across the entire organization. In this
+presentation you will learn to publish linear referenced data as REST services that
+can be consumed by Esri and custom developed apps through Portal for ArcGIS.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+A Holistic Approach to Building 3D Web Apps
+Esri Technical Session, Web
+Primrose C-D - Raluca Nicola, Russell Roberts
+DESCRIPTION
+Learn how to build 3D interactive web applications using the 4 version of the
+ArCGIS API for JavaScript and ArCGIS Online/Portal for ArcGIS webscenes. Using
+webscenes in your applications minimizes the amount of code needed to build
+interactive web applications. The webscene author creates the scene, adds
+layers, configures an attractive popup and styles the scene to bring the data to
+life. Once the webscene is ready the developer can use it to quickly build
+attractive interactive apps.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+Data Exploration with Smart Mapping in Online
+Esri Technical Session, Online
+Mesquite C - Jim Herries, Jennifer Bell
+DESCRIPTION
+Smart Mapping allows experts and novices alike to explore and understand their
+data faster, making better maps with more confidence and less effort.
+Attend this session to see how exploring your data in Online not only improves
+your web maps, but also inspires ideas for custom map styles and custom apps.
+Learn about the exciting new enhancements behind our ongoing Smart Maps
+initiative for ArcGIS Online. See how we've re-envisioned mapping through datadriven
+workflows, intelligent defaults, coordinated styling, automated scale
+ranges, new thematic renderers, and streamlined interfaces.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+Rapid Application Development with ArcGIS API for JavaScript 4.x and Angular CLI
+Esri Technical Session, WebOps
+Pasadena-Sierra-Ventura - Sean Olson
+DESCRIPTION
+The release of the 4.x series of the ArcGIS API for JavaScript not only provided
+developers with a reimagined and improved 2D API, but it also introduced
+powerful 3D visualization capabilities that allow developers to create stunning
+3D experiences. This presentation will demonstrate how to combine the
+capabilities of the ArcGIS 4.x API with the Angular CLI (Command Line Interface),
+to quickly stand up sophisticated GIS web apps. We will walk through setting up
+the development environment, review best practices for integrating these two
+technologies, and see how to quickly build reusable mapping components that
+communicate effectively with your audience.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+Accessible Web Mapping Apps: ARIA, WCAG and 508 Compliance
+Esri Technical Session, Web
+Smoketree A-E - Kelly Hutchins, Tao Zhang
+DESCRIPTION
+Learn the basics of web accessibility and implementation using the ArcGIS API
+for JavaScript from a developer's perspective. We will provide an overview of the
+Web Content Accessibility Guidelines (WCAG). We will then introduce the core
+knowledge and techniques for implementing accessible web components,
+including managing keyboard focus, writing semantic HTML, and applying WAIARIA
+for custom widgets. We will also discuss approaches to map accessibility
+and automated testing.
+___________________________________________________________________________
+8:30 am - 9:30 am Friday, March 09
+GeoEvent Server: Creating Connectors and Processors Using the GeoEvent SDK
+Esri Technical Session, Real-Time GIS
+Mesquite B - Javier Delgadillo, Ming Zhao
+DESCRIPTION
+GeoEvent Server expands the capabilities of ArcGIS Enterprise enabling
+organizations to connect with virtually any type of streaming data and perform
+continuous analytics on data as it is received to alert personnel when specified
+conditions occur, all in real time. This session will introduce how you can not only
+configure additional connectors and processors in GeoEvent but also walk
+through the GeoEvent SDK so that you can develop fully customized
+components. You will learn how to add your own Connector to bring in and send
+new streams of information. You will also learn how to add your own Processor
+that can be used to perform new kinds of continuous analysis on events as they
+are received. The GeoEvent SDK is based on Java so a basic knowledge of Java
+will be helpful for this session.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Building Hub-Ready Apps for Consituent Engagement
+
+Pasadena-Sierra-Ventura - John Gravois, Tom Wayson
+DESCRIPTION
+ArcGIS Hub builds smart communities for close collaboration with governments
+and citizens that are driven by focused initiatives. Developers can discover,
+create, and share data-driven applications that improve collaboration through
+analytics-based decision making. Hub-Ready Apps extend WebGIS so that
+solutions built by the community are deeply integrated with an organization's
+Hub. These capabilities include adopting brand guidelines with shared themes,
+seamless connection to live data through indicator awareness, and meeting the
+organization's requirements such as data citation and accessibility consideration.
+When an app is Hub-Ready it can be easily reused and shared across many
+municipalities by many developers.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Web Development: The Road Ahead
+Esri Technical Session, Web
+Primrose B - Jianxia Song, Andy Gup
+DESCRIPTION
+In this session, product managers and development leads will discuss the road
+map for the future for the ArcGIS API for JavaScript, as well as Web AppBuilder
+for ArcGIS, and configurable web application templates and more.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Extending ArcGIS Maps for Sharepoint
+Esri Technical Session, Apps
+Santa Rosa - Scott Ball, Quan Tang
+DESCRIPTION
+ArcGIS Maps for SharePoint is an integrated application that enables the use of
+Esri's ArcGIS Platform. You can quickly create dynamic, interactive maps of your
+SharePoint data and start exploring your data in a whole new way. You can also
+provide a set of interactive and configurable mapping components for use with
+existing Microsoft SharePoint sites using the ArcGIS for JavaScript API. This
+workshop will demonstrate the value of the product using a number of use case
+scenarios as well as the key new features of the latest releases.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Building Geoprocessing Tools with Python: Beyond the Basics
+Geoprocessing
+Mojave Learning Center - David Wynne
+DESCRIPTION
+This session will focus on creating polished, well-designed and useful
+geoprocessing tools with Python. We'll discuss validation in more depth, cover
+debugging script tools with emphasis on the new experience in ArcGIS Pro. We'll
+also focus on strategies for organizing and distributing your toolbox code, and
+creating tools that behave well as geoprocessing services.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+DIY Usability Testing
+UX/UI, Esri Technical Session
+Smoketree A-E - Richard Caballero, Erich Rainville, Andy Eveland, Kyle Jones
+DESCRIPTION
+Stop guessing and start learning. Join Esri designers and user-researchers for a
+workshop that introduces the basics of usability testing and how to do it yourself.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+ArcGIS Pro SDK for .NET: Beginning Pro Customization and Extensibility
+Esri Technical Session, Pro
+Primrose A - Wolf Kaiser, Uma Harano
+DESCRIPTION
+Learn how to customize and extend ArcGIS Pro with its .NET SDK. We'll show you
+how you can get up and running quickly with the Add-in and Configuration
+customization patterns, declarative programming with DAML, and asynchronous
+programming with ArcGIS Pro's QueuedTask.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Extending ArcGIS Enterprise
+Esri Technical Session, Enterprise
+Catalina-Madera - Shreyas Shinde, Carsten Piepel
+DESCRIPTION
+Learn how to extend ArcGIS Enterprise using its server-side development model.
+We'll cover how you can use Server Object Extensions (SOEs) and Server Object
+Interceptors (SOIs) to provide custom functionality, improved performance, and
+finer-grained control to your web and mobile applications. Note, it is
+recommended for attendees to have experience with ArcObjects development
+in .NET or Java.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+ArcGIS Runtime: Migrating from ArcGIS Engine
+Esri Technical Session, Runtime
+Mesquite G-H - Rex Hansen, Mike Branscomb
+DESCRIPTION
+Many developers are looking to migrate their current apps built on ArcGIS
+Engine to ArcGIS Runtime so that they can take advantage of the new capabilities
+and faster performance. Attend this session to learn about tips and techniques
+you'll need to migrate your .Net, Java and C++ applications. This session also
+covers some of the user workflow changes required when moving your apps to
+the runtime.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Esri's Open Source GeoPortal Server: Building Discovery Solutions
+Professional Services, Esri Technical Session
+Primrose C-D - Marten Hogeweg
+DESCRIPTION
+Esri Geoportal Server is a free, open source product that enables discovery and
+use of geospatial resources including datasets, rasters, and Web services. It helps
+organizations manage and publish metadata for their geospatial resources to let
+users discover and connect to those resources. The Geoportal Server also
+provides extensions to ArcGIS that enable use of ArcGIS in heterogeneous data
+sharing environments.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Distributed Image Analysis Using the ArcGIS API for Python
+Imagery/Raster, Esri Technical Session
+San Jacinto - Elizabeth Graham, Jie Zhang
+DESCRIPTION
+Distributed analysis is a new capability introduced at ArcGIS Enterprise 10.5. This
+session will explain the concept of distributed analysis in ArcGIS as it relates to
+imagery and GIS rasters. The session will also cover how to deploy this capability
+in your Enterprise GIS, the applications and user experiences used to interact
+with his capability, and the APIs you can use to develop your own applications
+that take advantage of distributed analysis.
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+Insight into the ArcGIS Utility Network Management Extension
+Esri Technical Session, Geodatabase
+Mesquite B - Erik Hoel, Rick Anderson, Tom Brown, Larry Young
+DESCRIPTION
+Learn about Esri's new utility network technology designed to provide utility
+customers the ability to model, edit, and analyze complex networks of facility
+infrastructure using all Esri platform clients
+___________________________________________________________________________
+10:00 am - 11:00 am Friday, March 09
+ArcGIS API for Python for Analysts and Data Scientists
+Esri Technical Session, Online
+Mesquite C - Andrew Chapkowski, Rohit Singh
+DESCRIPTION
+Python has positioned itself as a highly suitable programming / scripting
+language for data exploration and analysis with its rich ecosystem of libraries
+such as NumPy, SciPy, pandas, maptplolib, scikit-learn, etc. and interactive
+visualization environments such as Jupyter notebooks. The ArcGIS Python API
+follows suite in being your library for comprehensive analyses of geospatial data.
+With an intuitive design and easy to use syntax, the API opens up access to rich
+geoprocessing services and big data analysis capabilities of your web GIS.
+Join us at this tech workshop to learn how you can use ArcGIS Python API
+' to tap into the geospatial component of your big data datasets and discern
+meaningful patterns
+' to analyze and visualize spatial patterns in interactive Jupyter notebooks
+' with other data analysis libraries to solve real world problems
+___________________________________________________________________________
+11:00 am - 1:00 pm Friday, March 09
+Developer Summit Closing Session and Hosted Lunch
+
+Oasis 3-4
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+Introduction to GeoAnalytics Server
+Esri Technical Session, Enterprise
+Mojave Learning Center - Sarah Ambrose, Noah Slocum
+DESCRIPTION
+GeoAnalytics Server performs scalable and distributed batch analysis on feature
+and tabular data that has both spatial (location) and temporal (time) components.
+With over a dozen analytical tools, GeoAnalytics provides the framework you
+need to summarize, visualize and analyze patterns within large volumes of data.
+At this session, we will discuss the available analytical tools, how these analytics
+take advantage of the processing power of multiple machines in ArcGIS
+Enterprise, and the supported data formats for analysis. We will present real
+world examples and discuss integrated technology such as the underlying
+storage and framework.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+ArcGIS Pro SDK for .NET: Advanced Pro Customization and Extensibility
+Esri Technical Session, Pro
+Mesquite G-H - Charlie Macleod, Steve Van Esch
+DESCRIPTION
+In this session we cover advanced customization patterns including custom
+project and application properties, command filtering, UI customization across
+multiple add-in solutions, plug and play UI extensibility with embeddable
+controls and DAML categories.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+Using TypeScript with ArcGIS API for JavaScript
+Esri Technical Session, Web
+Smoketree A-E - Nick Senger, Jesse van den Kieboom
+DESCRIPTION
+In this session we will learn some of the basics of TypeScript and how it can help
+you as a developer using the ArcGIS API for JavaScript. We will also look at how
+to set up a development environment and use the provided TypeScript definition
+files.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+ArcGIS API for Python: Advanced Scripting
+Esri Technical Session, Online
+Mesquite B - Atma Mani, Rohit Singh
+DESCRIPTION
+The Python ecosystem is rich with a set of libraries that allow you to dissect and
+explore your data. Couple that with an interactive environment such as Jupyter
+notebooks and ArcGIS API for Python, you get yourself a versatile environment to
+perform exploratory GIS analysis that you can create and drive by little snippets
+of Python code. Stop by for an interesting talk on how you can use powerful
+visualization, statistics and ArcGIS to better understand your data.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+ArcGIS Runtime: Working with Maps Online and Offline
+Esri Technical Session, Runtime
+Mesquite C - Euan Cameron, Justin Colville, Antti Kajanus
+DESCRIPTION
+Users want apps that work connected and disconnected from the internet. This
+session will go into the details on what you need to do as a developer to build
+apps that work well no matter the internet connection status.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+Virtual Reality (VR) and Augmented Reality (AR) with ArcGIS
+Esri Technical Session, 3D
+Primrose C-D - Pascal Mueller, Adrien Meriaux, Eric Wittner, Rex Hansen
+DESCRIPTION
+Get an overview of the state of the art in VR/AR and learn how to create VR/AR
+experiences with Esri technology. First, we will present the ArcGIS 360 VR app, a
+mobile solution to quickly review design scenarios and 3D layers. Next, we will
+go through the process of bringing 3D GIS data via CityEngine into Unity, the
+industry standard to create immersive experiences for HTC Vive, Oculus Rift or
+Microsoft Hololens. Finally, we will present how AR/VR apps can be developed
+with the ArcGIS Runtime, allowing for example the streaming of hosted 3D
+content directly into the AR/VR experiences.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+JavaScript for Geographers
+Dev 2 Dev, Esri Technical Session
+Primrose A - Patrick Arlt, John Gravois
+DESCRIPTION
+You already know about projections, datums, and when not to choropleth, come
+see how the other nerd-half live and learn the basics of the building web
+applications with JavaScript. We will cover essential JavaScript concepts you will
+need to know when working with the ArcGIS API for JavaScript. We will also talk
+about the best way to learn JavaScript moving forward, how to keep your skills
+up to date, when (and how) to integrate new tools and frameworks into your
+projects, and how to navigate the exploding JavaScript ecosystem.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+Web GIS: A Crash Course
+Esri Technical Session, Enterprise
+Pasadena-Sierra-Ventura - Kelly Gerrow-Wilcox, Shannon Kalisky
+DESCRIPTION
+The future of geospatial technology is built upon Web GIS. Covering both ArcGIS
+Enterprise and ArcGIS Online, this session will be a crash course in Web GIS
+concepts, technology and implementation options. Whether you are a desktop
+analyst or a geodeveloper, knowing the basics of Web GIS will help you futureproof
+your organization's GIS investment and development plans.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+Real-Time and Big Data GIS: Best Practices
+Esri Technical Session, Real-Time GIS
+Catalina-Madera - Adam Mollenkopf, Josh Joyner
+DESCRIPTION
+This session will walk through intermediate and advanced topics of deploying a
+real-time GIS using ArcGIS GeoEvent Server and the spatiotemporal big data
+store including: reliability, scalability, how to optimize real-time analytics, and
+how to avoid common 'gotchas'.
+___________________________________________________________________________
+1:00 pm - 2:00 pm Friday, March 09
+ArcGIS API 4.x for JavaScript: Programming Patterns and API Fundamentals
+Web
+Primrose B - Rene Rubalcava, Matt Driscoll
+DESCRIPTION
+In this session, you'll learn the basics of the ArcGIS API 4.x for JavaScript,
+including the fundamentals of watching for property changes, autocasting,
+working with Collections, and lazy-loading data in your applications! You'll learn
+more details about maps, webmaps, layers, 2D and 3D views, UI, and widgets!
+This is a key session for developers new to the 4.x version of the API.
+___________________________________________________________________________

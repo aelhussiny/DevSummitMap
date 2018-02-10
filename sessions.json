@@ -1,0 +1,2529 @@
+[{
+    "timeFrom": "2:00 pm",
+    "date": "5",
+    "location": "Primrose Lobby",
+    "title": "GIS Solutions Expo and Esri Showcase",
+    "speakers": [],
+    "keywords": ["Conference Services/Activities"],
+    "timeTo": "7:00 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "5",
+    "description": "",
+    "title": "Lightning Talks",
+    "speakers": [],
+    "location": "Mesquite B-C",
+    "keywords": [""],
+    "timeTo": "4:00 pm"
+}, {
+    "timeFrom": "7:30 am",
+    "date": "6",
+    "description": "",
+    "title": "Esri Store",
+    "speakers": [],
+    "location": "Primrose Lobby",
+    "keywords": [""],
+    "timeTo": "5:30 pm"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "6",
+    "description": "",
+    "title": "Developer Summit Plenary Session",
+    "speakers": [],
+    "location": "Oasis 3-4",
+    "keywords": [""],
+    "timeTo": "12:00 pm"
+}, {
+    "timeFrom": "12:00 pm",
+    "date": "6",
+    "description": "",
+    "title": "Commercial SIG",
+    "speakers": [],
+    "location": "Esplanade",
+    "keywords": [""],
+    "timeTo": "1:00 pm"
+}, {
+    "timeFrom": "12:00 pm",
+    "date": "6",
+    "description": "",
+    "title": "Hosted Lunch",
+    "speakers": [],
+    "location": "Esplanade",
+    "keywords": [""],
+    "timeTo": "1:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "This is a review and demo of the File Geodatabase API, a free C++ API for the File Geodatabase available for Linux, Mac, and Windows developers. We will highlight the latest enhancements and bug fixes. ",
+    "title": "Using the File Geodatabase API",
+    "speakers": ["Lance Shipman", "David Sousa"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geodatabase"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "ArcGIS includes easy to use Site and Page editing for sharing your private information within organization and open data with the public. Learn about ArcGIS Hub and how to make an engaging, informative, and beautiful sites. You'll hear about designing your own visual experience and building the right data visuals to best communicate your information and tell your story. We'll also touch on different ways to customize your data and downloads. We will show you all the tips and tricks of making ArcGIS Hub your own. This session is oriented at analyst/developers who are using ArcGIS Hub, and people that are seeking to learn more about data-driven Sites for their organization. ",
+    "title": "Customizing Hub and Open Data Sites",
+    "speakers": ["Sam Hunter", "Courtney Claessens"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": [""],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "Interested in how Explorer if changing? Want to see demos of the exciting new feature coming in the next release of this field app. This workshop will walk through the key features that will be part of the next release of Explorer for ArcGIS. ",
+    "title": "Introduction to Explorer for ArcGIS",
+    "speakers": ["Scott Ball", "Brent Pierce"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "This session is designed to help you plan out your week. ArcGIS API for JavaScript presenters will be given 5 minutes to give you a sneak peek at what they will be covering in their sessions. We will also discuss possible pathways through the wide variety of web-focused sessions based on developer skillsets and interests. Come to this session to get the most out of the DevSummit. ",
+    "title": "Inside Scoop: Navigating Your Way Through the ArcGIS API for JavaScript Sessions",
+    "speakers": ["Randy Jones", "Kelly Hutchins", "Jeremy Bartley", "Yann Cabon", "Rene Rubalcava", "Kristian Ekenes", "Bjorn Svensson", "Javier Gutierrez", "Juan Carlos Franco"],
+    "location": "Oasis 4",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "Come learn from Esri designers how best to introduce user experience design to your organization. You will get crash courses in communicating the value of UX, visualizing ideas using popular UX techniques like wireframes, and more. ",
+    "title": "Introducing UX to Your GIS Org",
+    "speakers": ["Matt Palmer", "Karl Frantz"],
+    "location": "Mesquite B",
+    "keywords": ["UX/UI", "Esri Technical Session"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "The ArcGIS Runtime API is a powerful, modern, scalable, and forward-looking API that is designed to make it easy to build great applications that fully leverage ArcGIS and the device your app is running on. This session will present an introduction to the Runtime SDKs, advantages of using them, and an overview of the API. This session is ideal for developers new to the runtime and managers or program managers evaluating the technology. ",
+    "title": "ArcGIS Runtime: An Introduction to the API and Architecture",
+    "speakers": ["Euan Cameron", "David Cardella"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "In this session, we will introduce ArcPy APIs specifically designed for working with imagery and rasters. You will learn how to access these datasets, run geoprocessing tasks, and do basic image processing using ArcPy. We will introduce the structure of ArcPy and walk through code to learn how to take advantage of ArcPy and imagery. This session will also touch on how to make requests to ArcGIS image services using Python. ",
+    "title": "Working with Rasters and Imagery Using Python",
+    "speakers": ["Zoey Zou", "Jamie Drisdelle"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Imagery/Raster"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "Join this session to learn how to build cross-platform native apps with AppStudio for ArcGIS. You will learn the basics for programming with the Qt Creator IDE and QML as well as a complete suite of developer productivity tools for ArcGIS developers. This session targets Javascript and Python developers of all levels who want to learn how to build native mapping applications. ",
+    "title": "Developing Cross-Platform Native Apps with AppStudio for ArcGIS: The Basics",
+    "speakers": ["Tina Jin", "Nakul Manocha", "Chris Lesueur", "Erwin Soekianto"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "ArcGIS API for Python lets ArcGIS users, developers, and anyone with an ArcGIS Online subscription or a ArcGIS Enterprise, leverage the Python ecosystem to automate their workflows and perform repetitive tasks by writing Python scripts. In this session you will learn how the ArcGIS Python API can help in scripting and automating your Web GIS. It will start with an introduction of the API, who it's for and what it can do. The session will walk through the process of getting the API through Conda and writing scripts using Jupyter Notebook. A brief tour of the API will be followed by a show and tell of some of the powerful capabilities of the API, including using the Map widget to visualize GIS content as well as calling GeoAnalytics and Raster Analysis tools using the API. ",
+    "title": "ArcGIS API for Python: Introduction to Scripting Your Web GIS",
+    "speakers": ["Ben Ramseth", "John Yaist"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "This session will provide an overview of the geodatabase .NET API (ArcGIS.Core.Data) for working with data in ArcGIS Pro, including working with datasets, fields, queries, selections, joins and relates. ",
+    "title": "ArcGIS Pro SDK for .NET: An Overview of the Geodatabase API",
+    "speakers": ["Ling Zhang", "Colin Zwicker", "Nghiep Quang"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Geodatabase"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "ArcGIS connects maps, apps, data, and people to make smarter and faster decisions. It gives everyone the ability to discover, use, make, and share maps from any device, anywhere, anytime. You can quickly add geo to your apps using Esri's cloud services, develop in the API of your choice, and deploy on any device. In this session, you will get an overview of what's included in the platform including ready-to-use maps and apps, analytics, sharing model, access to Marketplace, licensing, and tools for developers. ",
+    "title": "ArcGIS Online: Core Concepts for Developers",
+    "speakers": ["Kelly Gerrow-Wilcox", "Paul Ross"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "Looking for a walk-through on how to get up and running with the ArcGIS Pro SDK? Join us for quick tips and demos on installing the Pro SDK and the SDK community samples and building your first Pro add-in. We'll show you how you can get up and running quickly with the samples, and introduce you to the many online resources. ",
+    "title": "ArcGIS Pro SDK for .NET: Getting Started",
+    "speakers": ["Christopher Zent"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Pro"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "6",
+    "description": "There are many ways to access an enterprise geodatabase using the ArcGIS system. We'll focus on effective patterns that developers who are familiar with SQL should utilize to work with the contents of their geodatabase. ",
+    "title": "Accessing Your Enterprise Geodatabase Using SQL",
+    "speakers": ["Shannon Shields", "Amit Kesarwani", "Said Parirokh"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Geodatabase"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "6",
+    "description": "Web Maps are important building blocks of the ArcGIS online ecosystem, powering the functionality of many apps. Building web maps with specific layer types, filters, and symbology enable your apps to go to the next level. ",
+    "title": "Best Practices for Building Web Maps",
+    "speakers": ["Ian Wittenmyer", "Jim Herries"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "6",
+    "description": "Come see the ins and outs of Navigator for ArcGIS capabilities. Get stops into Navigator quickly, from your existing system and app. Then optimize those stops into the best order, and have complete control over your route's stop list. Learn how any existing field workflow can be improved with fewer miles driven, by integrating Navigator into your field work. ",
+    "title": "Navigator for ArcGIS: Tips and Tricks",
+    "speakers": ["Heather McCracken", "Nick Patel"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "6",
+    "description": "Join us to unleash your inner Pythonista and to learn how your algorithms can integrate with the raster processing and visualization pipelines in ArcGIS. We'll demonstrate the concept and discuss the API by diving deep into a few interesting examples with a special focus on multidimensional scientific rasters. ",
+    "title": "Writing Image Processing Algorithms Using the Python Raster Function",
+    "speakers": ["Jamie Drisdelle"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Imagery/Raster"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "ArcGIS exposes many powerful tools as REST APIs that can be accessed from any platform via HTTP, these APIs can be used to create powerful custom applications and abstractions on top of the ArcGIS Platform. Learn some tricks and tips for using these APIs both in their regular HTTP form and using the new ArcGIS REST JS library for higher level abstractions. ",
+    "title": "Using the ArcGIS REST JS Libraries and the ArcGIS REST APIs",
+    "speakers": ["John Gravois", "Andrew Turner", "David Bouwman", "Tom Wayson"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "Learn how to customize and extend ArcGIS Pro with its .NET SDK. We'll show you how you can get up and running quickly with the Add-in and Configuration customization patterns, declarative programming with DAML, and asynchronous programming with ArcGIS Pro's QueuedTask. ",
+    "title": "ArcGIS Pro SDK for .NET: Beginning Pro Customization and Extensibility",
+    "speakers": ["Wolf Kaiser", "Uma Harano"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "GeoAnalytics Server performs scalable and distributed batch analysis on feature and tabular data that has both spatial (location) and temporal (time) components. With over a dozen analytical tools, GeoAnalytics provides the framework you need to summarize, visualize and analyze patterns within large volumes of data. At this session, we will discuss the available analytical tools, how these analytics take advantage of the processing power of multiple machines in ArcGIS Enterprise, and the supported data formats for analysis. We will present real world examples and discuss integrated technology such as the underlying storage and framework. ",
+    "title": "Introduction to GeoAnalytics Server",
+    "speakers": ["Sarah Ambrose", "Noah Slocum"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "The portal is a fundamental component of the Web GIS; it holds and organizes your Maps, layers, users, groups and other data. This session will cover what you need to know to build great apps that work effectively with your web GIS. ",
+    "title": "ArcGIS Runtime: Working with Your Portal",
+    "speakers": ["Divesh Goyal", "Nathan Castle", "Vijay Gandhi"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "With so many great GIS tools around, why isn't map app design a slam dunk? This session teaches you that great UX is more than the sum of its parts and explains how to design more compelling UI's. We'll cover fundamental building blocks of successful applications and introduce ways to improve the total experience. ",
+    "title": "Improving Your Web App Through UI/UX Best Practices",
+    "speakers": ["Mike Gaigg", "Allan Laframboise"],
+    "location": "Mesquite B",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "Living Atlas of the World content is available for ArcGIS Enterprise customers starting with the 10.5 release. This session will show how to take advantage of Living Atlas content to create maps and apps and run analyses in ArcGIS Enterprise. We will also show how to configure Esri boundary layers within a disconnected environment. ",
+    "title": "Living Atlas in ArcGIS Enterprise",
+    "speakers": ["Julia Yunzhu Shi"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Enterprise"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "GeoEvent Server expands the capabilities of ArcGIS Enterprise enabling organizations to connect with virtually any type of streaming data and automatically alert personnel when specified conditions occur, all in real time. This session will introduce how you can incorporate real-time information streams with your existing GIS data and IT infrastructure, perform continuous processing and analysis against streaming data, and produce new streams of data that work seamlessly with the rest of the ArcGIS products including ArcGIS Online, Portal for ArcGIS, ArcGIS applications, and Runtime SDKs. ",
+    "title": "GeoEvent Server: An Introduction",
+    "speakers": ["Josh Joyner", "RJ Sunderman Jr"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Real-Time GIS"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "Join us for an overview on developing with the ArcGIS API for JavaScript. This session will cover the basics of setting up your development environment, fundamental debugging techniques, and tips for using the online SDK. Learn about patterns and practices for integration with ArcGIS Online, ArcGIS Server, working with data and widgets. ",
+    "title": "Getting Started with Web Development and the ArcGIS API for JavaScript",
+    "speakers": ["Heather Gonzago", "Noah Sager"],
+    "location": "Oasis 4",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "Learn how to deploy data quality control capabilities and apps on the Web. Understand how ArcGIS Data Reviewer services can be used to implement quality-focused applications and workflows. You will also learn about starter applications and samples that support multiple deployment scenarios. ",
+    "title": "ArcGIS Data Reviewer: Integrating Data Quality Control into Web Applications",
+    "speakers": ["Shankar Chandrasekaran"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Professional Services", "Demo Theater Presentation"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "Working with your data in a connected environment isn't always an option, sometimes you need to view and edit maps in areas no network coverage to do that you need to take your data offline. Discover how to prepare your data for offline use , so that you can keep working even when the network isn't. Come learn best practices , what layer are supported and other tips and tricks when working in disconnected environments. ",
+    "title": "ArcGIS Online: Taking Data Offline",
+    "speakers": ["Paul Barker", "Chris Whitmore"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "Join us as we step through the process of creating geoprocessing tools using Python. Using both script tools and Python toolboxes as examples, this workshop will highlight the important decisions in making fully functional geoprocessing tools. ",
+    "title": "Building Geoprocessing Tools with Python: Getting Started",
+    "speakers": ["David Wynne", "Andrew Ortego"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "This session will walk through multiple steps to develop custom web apps for mobile on Web AppBuilder. The topics include but not limited to: custom mobile layout, Responsive CSS, custom navigation for mobile. This session will cover different levels of Web AppBuilder customizations for people with different web development backgrounds. ",
+    "title": "Web AppBuilder for ArcGIS: Dive Into Mobile Development",
+    "speakers": ["Kevin Gao", "Yiwei Ma"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "6",
+    "description": "In this session we will discuss advanced developer techniques with AppStudio for ArcGIS. In particular, we will cover some of the latest enhancements added to AppStudio such as support for high accuracy GNSS receivers, biometric logins, improved data access utilities and more. ",
+    "title": "Developing Cross-Platform Native Apps with AppStudio for ArcGIS: Advanced",
+    "speakers": ["Siddesh Pillai", "Liwei Gao", "Erwin Soekianto"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "6",
+    "description": "Learn how to unlock the power of Workflow Manager within JavaScript applications and widgets. We will examine how to customize the out-of-the-box Workflow Manager web application and Create Jobs widget, and how to integrate Workflow Manager functionality within your existing applications. ",
+    "title": "ArcGIS Workflow Manager: Getting Started With Web APIs",
+    "speakers": ["Lalaine Lam"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Professional Services", "Demo Theater Presentation"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "6",
+    "description": "Modern web applications integrate multiple distributed services to provide an integrated and complete product experience. The ArcGIS platform is designed as a constellation of microservices for data management, geocoding, authentication, spatial analysis, visualization, and more. Learn how you can build and manage large-scale microservice architecture from the ArcGIS Hub team. We'll cover the current trends in development, testing, deployment and monitoring of applications using cloud server providers. You'll hear about how you can use technologies like Kubernetes, Docker, AWS Lambda and more. ",
+    "title": "How to (& how not to) build Microservices",
+    "speakers": ["Pranav Kulkarni", "Alex Harris"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": [""],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "6",
+    "description": "ArcGIS provides many tools for solving single and multi-vehicle routing problems. Once routes have been generated in the office using ArcGIS Pro or ArcGIS Online, then what? Share them in ArcGIS Online so your field crew can use them with Navigator for ArcGIS to follow the optimized stop list generated in the back office. ",
+    "title": "ArcGIS Online: Sharing Preplanned Routes with Navigator",
+    "speakers": ["Frank Kish", "Nick Patel", "Joel Whitney"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geoprocessing"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "6",
+    "description": "",
+    "title": "Speedgeeking",
+    "speakers": [""],
+    "location": "Santa Rosa-San Jacinto",
+    "keywords": [""],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "Web AppBuilder for ArcGIS is a pure HTML5/JavaScript-based application that allows you to create your own intuitive, fast, and beautiful web apps without writing a single line of code. The app uses new ArcGIS platform features and modern browser technology to provide both flexible and powerful capabilities such as 3D visualization of data. Come to this session to learn how you can configure workflow-driven GIS apps that run seamlessly across all devices, create both ready-to-use apps and ArcGIS web app templates for ArcGIS Online or Portal for ArcGIS. ",
+    "title": "Web AppBuilder for ArcGIS: JavaScript Apps Made Easy",
+    "speakers": ["Jianxia Song", "David Martinez"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "Stop guessing and start learning. Join Esri designers and user-researchers for a workshop that introduces the basics of usability testing and how to do it yourself. ",
+    "title": "DIY Usability Testing",
+    "speakers": ["Richard Caballero", "Erich Rainville", "Andy Eveland", "Kyle Jones"],
+    "location": "Mesquite C",
+    "keywords": ["UX/UI", "Esri Technical Session"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "Building engaging and high-quality applications requires continuous feedback. Usage tracking and anlytics are effective for real-time sytem monitoring and product quality improvements. We'll demonstrate how you can quickly add usage tracking to your GIS applications with Telemetry.js and analytics tools such as Google Analytics and Amazon Pinpoint. ",
+    "title": "Tracking User Engagement for Feedback and Quality with Telemtry.js",
+    "speakers": ["Daniel Fenton", "Markham Shofner"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": [""],
+    "timeTo": "4:30 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "Esri now provides a full suite of 3D capabilities including customizable and tailored solutions for a wide variety of partners and users. Esri's offerings include 3D desktop applications for creating, maintaining and analyzing 3D content; native 3D Runtime capabilities for interacting with 3D views on mobile devices; open standard hosted 3D streaming services; and online 3D scene authoring and consumption capabilities using the scene viewer and ArcGIS API for JavaScript. ",
+    "title": "Leveraging 3D Across the ArcGIS Platform",
+    "speakers": ["Nathan Shephard", "Chris Andrews"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "3D"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "",
+    "title": "ArcGIS Mobile Apps: The Road Ahead",
+    "speakers": ["Jeff Shaner", "Ismael Chivite", "Jeff Jackson"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "Learn about the latest advances in the ArcGIS API for JavaScript. This session is an overview of several important updates in the API as well as some of the smaller capabilities that you may not have noticed. ",
+    "title": "ArcGIS API for JavaScript: What's New",
+    "speakers": ["Bjorn Svensson", "Lloyd Heberlie"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "ArcGIS Online for Organizations is a powerful platform that you can use to manage your maps and layers in the cloud. In this session, you will learn how to store your data online and, once stored, how to manage and organize it effectively. ",
+    "title": "ArcGIS Online: Managing Data",
+    "speakers": ["Paul Barker", "Jeremy Bartley", "Chris Whitmore"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "ArcGIS administrators require effective monitoring solutions to meet the growing demand for feature-rich, highly available and performing ArcGIS solutions. In this session, you will learn to configure and customize using python, PowerShell and .net to help diagnose the root causes of typical cases, e.g. performance, uptime and infrastructure problems. We will be using the newly released ArcGIS Monitor product to show you how. ",
+    "title": "ArcGIS Monitor: An Introduction",
+    "speakers": ["Andrew Sakowicz"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Professional Services", "Esri Technical Session"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "The integration of map algebra with Python opens a new dimension for raster analysis and the automation of geoprocessing workflows. Using a real world example, this session will include an introduction to the Spatial Analyst ArcPy module, best practices for using the raster object and classes to expand your modeling capability, using raster functions to optimize performance, and using NumPy arrays to extend your analysis. ",
+    "title": "Python: Working with Raster Data",
+    "speakers": ["Elizabeth Graham", "Nawajish Noman"],
+    "location": "Mesquite B",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "The ArcGIS Runtime SDK for Java allows you to quickly and easily build interactive mapping applications for Windows, Linux and Mac Desktops. This session introduces the SDK then covers common developer workflows and capabilities you'll use to build your own applications. You'll learn about patterns and practices for building great GIS apps with Java and JavaFX, and the resources that are available for your success. ",
+    "title": "ArcGIS Runtime SDK for Java: Building Applications",
+    "speakers": ["Tyler Schiewe", "Mark Baird"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "ArcGIS Pro is the premier desktop GIS for 2D and 3D mapping, analysis and editing. Come and hear from senior members of the ArcGIS Pro team as they discuss ArcGIS Pro's latest capabilities and what's planned for the future. ",
+    "title": "ArcGIS Pro: The Road Ahead",
+    "speakers": ["Stefan Balbo", "Rob Elkins Jr", "Nathan Shephard", "Charlie Macleod", "Jim McKinney", "Craig Williams", "Drew Flater", "David Watkins"],
+    "location": "Oasis 4",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "Learn how to take advantage of contextual behavior in ArcGIS Pro using states and conditions. This demo will focus on DAML elements in ArcGIS Pro add-ins, and how to manipulate the Pro UI and content based on what's selected in the application. ",
+    "title": "ArcGIS Pro SDK for .NET: Custom States and Conditions",
+    "speakers": ["Mohini Todkari"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "4:30 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "6",
+    "description": "The Maps App example app built with the .NET Runtime SDK is 4 apps in one. We have used Xamarin Forms to build a native UI for iOS, Android and Universal Windows Platform, and added a WPF UI for our Windows 7 users. Come see how we've created this in one Visual Studio solution with maximized shared code. ",
+    "title": "The Fantastic Four: A Cross Platform Maps App With .NET",
+    "speakers": ["Mara Stoica"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "4:30 pm"
+}, {
+    "timeFrom": "4:30 pm",
+    "date": "6",
+    "description": "We all aspire to develop with confidence, knowing that our additions and changes 'work'. Continuous testing helps achieve confidence by validating changes with immediate test feedback at various levels: unit tests, component tests, and end-to-end integration tests. In this demo, we will share our experiences and some best practice recommendations on your journeys towards Continuous Integration and Continuous Deployment of modern applications. Learn about browser testing with webdriver.io, Jenkins build pipelines, and integration with Slack and other collaboration channels. ",
+    "title": "Develop with Confidence: CT/CI/CD",
+    "speakers": ["Idi Eradiri", "Brooks Robertson", "Jeremy Schneider"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": [""],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:30 pm",
+    "date": "6",
+    "description": "Come learn about how AR/VR apps can be developed with ArcGIS Runtime to use hosted 3D content and integrate with device capabilities to build custom AR/ VR experiences. ",
+    "title": "ArcGIS Runtime: Building Augmented and Virtual Reality Experiences",
+    "speakers": ["Adrien Meriaux", "Rex Hansen"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:30 pm",
+    "date": "6",
+    "description": "Learn how to set up your data for synchronization in ArcGIS Pro 2.1. This will include the features that were introduced with ArcGIS Pro 2.1 for publishing and sharing data and keeping the changes made in field to sync back later. ",
+    "title": "Using Sync with ArcGIS Pro 2.1",
+    "speakers": ["Ty Fitzpatrick", "Gary MacDougall"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geodatabase"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "Everyone is talking about GitHub, but what is it exactly? In this session we'll explain what makes GitHub such a great collaboration tool and cover the basics of version control (git) using examples that don't require any coding experience. We'll also talk about how Esri uses GitHub and how you can get involved. ",
+    "title": "GitHub for Geographers",
+    "speakers": ["Patrick Arlt", "John Gravois"],
+    "location": "Mesquite B",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "Come to this session to learn about the latest features in Web AppBuilder for ArcGIS. This session will be an overview of the important updates. ",
+    "title": "Web AppBuilder for ArcGIS: What's New",
+    "speakers": ["Jianxia Song", "Lemao Wu"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Web"],
+    "timeTo": "6:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "This technical session will teach Web GIS administrators how to use the ArcGIS Python API to automate most of their repetitive tasks and use scripts instead of using the UI and clicking their way through. It will demonstrate scripting of common administrative tasks such as setting up a Portal and populating it with users, groups and content, migrating GIS resources from staging to production, checking credit consumption and usage statistics of GIS resources and content validation workflows. It will also cover strategies for scheduling these scripts to run at periodic intervals. ",
+    "title": "ArcGIS API for Python: Administering Your Web GIS",
+    "speakers": ["Bill Major II", "Andrew Chapkowski"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "Get an overview of the state of the art in VR/AR and learn how to create VR/AR experiences with Esri technology. First, we will present the ArcGIS 360 VR app, a mobile solution to quickly review design scenarios and 3D layers. Next, we will go through the process of bringing 3D GIS data via CityEngine into Unity, the industry standard to create immersive experiences for HTC Vive, Oculus Rift or Microsoft Hololens. Finally, we will present how AR/VR apps can be developed with the ArcGIS Runtime, allowing for example the streaming of hosted 3D content directly into the AR/VR experiences. ",
+    "title": "Virtual Reality (VR) and Augmented Reality (AR) with ArcGIS",
+    "speakers": ["Pascal Mueller", "Adrien Meriaux", "Eric Wittner", "Rex Hansen"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "3D"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "ArcGIS Hub organizes government around data-driven initiatives to accomplish meaningful goals to improve their communities. Hub Initiatives share the best practices of configurable apps, standards-based data indicators, and municipal policies that engage with their communities. These initiatives can be adopted within an organization to ensure common workflows are followed and shared across organizations to share best practices. In this session, we'll introduce you to the concept and capabilities of Hub Initiatives and dive into how you can design your own initiatives. ",
+    "title": "Design and Launch Hub Initiatives",
+    "speakers": ["Graham Hudgins", "Courtney Claessens"],
+    "location": "Smoketree A-E",
+    "keywords": [""],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "Chances are by now you must have heard about Jupyter notebooks and might have been wondering what they are, if so read on. Jupyter notebooks are a web based IDE to execute your Python code. However, unlike any other traditional IDEs which include numerous buttons and functionality, Jupyter notebooks provide a very simple and easy to use interface that is easy to learn and is oriented toward encouraging the process of REPL (read evaluate print loop) which is centric to how one learns to code in Python. Come, attend this fun talk if you are looking to pick up a new programming language and a whole new paradigm of working with your GIS data. ",
+    "title": "ArcGIS API for Python: ArcGIS in a Notebook",
+    "speakers": ["Rohit Singh"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "6:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "In this session, we'll demo a mobile data collection app on Android and iOS that works in connected and disconnected environments. Learn how we built this app using offline tasks, services, and web maps with the latest Runtime release. ",
+    "title": "Mobile Data Collection with the Runtime SDK",
+    "speakers": ["Sandie Peters"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "6:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "GeoEvent Server enables ArcGIS to connect with and analyze virtually any type of streaming data. GeoEvent Server can push spatial data to web applications, data stores, or automatically alert personnel when specific conditions occur, all in realtime. Learn how to configure geoevent services to detect patterns of interest from continuous streams of events. Real-time analytics covered will include filtering, geofencing, geotagging, calculating field values, enriching events by joining fields from external data sources, mapping between event schemas, and detecting incidents and gaps. ",
+    "title": "GeoEvent Server: Applying Real-Time Analytics",
+    "speakers": ["Ken Gorton", "RJ Sunderman Jr"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Real-Time GIS"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "ArcGIS Enterprise provides you with GIS functionality to map, analyze and manage geospatial content and location-enabled data through a Web GIS deployed on your infrastructure. If you are just starting out with the product, or interested in learning more, this session is for you. Topics will range from an overview of the base deployment, to advanced analytical capabilities and product functionality. ",
+    "title": "Introduction to and Building Your First ArcGIS Enterprise Deployment",
+    "speakers": ["Jonathan Quinn", "Thomas Edghill"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "In this session, you'll learn the basics of the ArcGIS API 4.x for JavaScript, including the fundamentals of watching for property changes, autocasting, working with Collections, and lazy-loading data in your applications! You'll learn more details about maps, webmaps, layers, 2D and 3D views, UI, and widgets! This is a key session for developers new to the 4.x version of the API. ",
+    "title": "ArcGIS API 4.x for JavaScript: Programming Patterns and API Fundamentals",
+    "speakers": ["Rene Rubalcava", "Matt Driscoll"],
+    "location": "Oasis 4",
+    "keywords": ["Web"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "Web maps are important building blocks of the ArcGIS online ecosystem. Web maps can be leveraged via application templates to transform them into more than just a maps ' into information products that can reach a wide variety of users and serve a variety of tasks and workflows. Application templates, including Story Map templates, provide an easy and powerful way to create custom-configured applications to reach your audience, with no programming required. Most have a responsive design, enabling you to author once and use effortlessly across a variety of devices. Various templates provide ways to incorporate text, multimedia, 3D, and more into the context of a useful app. In addition, maps and apps can be embedded into websites to be used in even more ways. ",
+    "title": "Building Great Information Products with ArcGIS Online",
+    "speakers": ["Bern Szukalski", "Derek Law", "Ian Wittenmyer"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "Learn how to create editing tools in Pro. We introduce construction tools and editing tools and how to integrate your custom editing functionality into the Pro UI. We introduce the Inspector class for creating and updating features as well as attribute editing. We show customizing the galleries, integration into modify dockpane, and how to modify the sketch. ",
+    "title": "ArcGIS Pro SDK for .NET: Beginning Editing and Editing UI Patterns",
+    "speakers": ["Thomas Emge", "Narelle Chedzey"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "6",
+    "description": "The ArcGIS Runtime SDK for Qt allows you to quickly and easily build interactive mapping applications for Windows, Linux and Mac Desktops, along with iOS and Android phones and tablets. This session introduces the SDK then covers common developer workflows and capabilities you'll use to build your own applications. You'll learn about patterns and practices for building great GIS Qt apps, and the resources that are available for your success. ",
+    "title": "ArcGIS Runtime SDK for Qt: Building Apps",
+    "speakers": ["Thomas Dunn", "Koushik Hajra"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "6:00 pm",
+    "date": "6",
+    "description": "ArcGIS Pro is a powerful tool for getting the data you want into the package you need. Learn about the considerations that were made to style and publish a mobile map package from ArcGIS Pro and consume it within the multi-platform Offline Mapbook Example App. ",
+    "title": "The Offline Mapbook: A Data Authoring Story",
+    "speakers": ["Mike Wilburn"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "6:00 pm",
+    "date": "6",
+    "description": "Real-world data is messy, voluminous and can be acquired from a variety of sources. Analyzing and mining this data to reveal insights is a hard and an iterative problem. Come to this session to see our data scientists take you through the various stages of solving a data science problem using ArcGIS ",
+    "title": "ArcGIS API for Python: An End-To-End Data Science Workflow",
+    "speakers": ["Rohit Singh"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "6:00 pm",
+    "date": "6",
+    "description": "The ArcGIS JavaScript API provides the building blocks that allow you to build interactive data exploration applications. These building blocks are the Smart Mapping modules, which contain functions that allow you to generate renderers with smart default values for size, color, and opacity based on the distribution of the data and the basemap of your application. When used together with the slider widgets, smart mapping can help you create a simple app for exploring data from any feature layer with just a few lines of code. In this session we will walk through an application that uses the Smart Mapping modules and presents a simple application that users can use to gain more insight into the data. ",
+    "title": "Building a Web App for Data Exploration with Smart Mapping",
+    "speakers": ["Kristian Ekenes"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Web"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "8:00 am",
+    "date": "7",
+    "description": "",
+    "title": "Esri Store",
+    "speakers": [],
+    "location": "Primrose Lobby",
+    "keywords": [""],
+    "timeTo": "5:30 pm"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "7",
+    "description": "",
+    "title": "Developer Summit Keynote Session",
+    "speakers": [],
+    "location": "Oasis 3-4",
+    "keywords": [""],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "This session will walk through intermediate and advanced topics of deploying a real-time GIS using ArcGIS GeoEvent Server and the spatiotemporal big data store including: reliability, scalability, how to optimize real-time analytics, and how to avoid common 'gotchas'. ",
+    "title": "Real-Time and Big Data GIS: Best Practices",
+    "speakers": ["Adam Mollenkopf", "Josh Joyner"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Real-Time GIS"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "The ArcGIS Runtime SDK for iOS and macOS allows you to quickly and easily build interactive mapping applications for Apple platforms. This session introduces the SDK then covers common developer workflows and capabilities you'll use to build your own applications. You'll learn about patterns and practices for building great GIS iOS and macOS apps, and the resources that are available for your success. ",
+    "title": "ArcGIS Runtime SDK for iOS and macOS: Building Apps",
+    "speakers": ["Divesh Goyal", "Nicholas Furness", "Mark Dostal"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "The ArcGIS Runtime SDK for Android allows you to quickly and easily build interactive smartphone and tablet mapping applications. This session introduces the SDK then covers common developer workflows and capabilities you'll use to build your own applications. You'll learn about patterns and practices for building great GIS android apps, and the resources that are available for your success. ",
+    "title": "ArcGIS Runtime SDK for Android: Building Apps",
+    "speakers": ["Rama Chintapalli", "Xueming Wu"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "Learn how to create map tools for selection and identify, and custom pop-ups. We will examine the new Pro Layout API to create Layouts on-the-fly as well as integrate it with Layout Map Series. We will cover MVVM and integration of WPF to write compelling UIs in Pro including multi-threading considerations. ",
+    "title": "ArcGIS Pro SDK for .NET: Mapping and Layout",
+    "speakers": ["Wolf Kaiser", "Uma Harano"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "This session will highlight the portal information model used in ArcGIS Online and how security is integrated with this model. The different authentication options will be covered along with an in-depth review of how to configure ArcGIS Online to use a SAML identity provider. This session will also review the security options available for an organization. ",
+    "title": "A Practical Guide to ArcGIS Online Security",
+    "speakers": ["Jeff Smith", "Andrea Rosso"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "The Prototype Lab is a group of engineers based in Redlands tasked with creating forward-looking and inventive apps. We invite you to take a peek at some of their latest work. The session will feature an entertaining assortment of web apps, desktop apps, mobile apps and hardware experimentation. Don't miss this rare opportunity to see cutting edge and thought-provoking uses of GIS. ",
+    "title": "Latest Innovations from Esri's Prototype Lab",
+    "speakers": ["Mark Deaton", "Hugh Keegan", "Dave Johnson", "Richie Carmichael", "Bob Gerlt", "John Grayson", "Carol Sousa", "Thomas Emge", "Albert Pascual", "Mark Smith", "Witold Fraczek"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "APL"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "The GIS and server modules of the Python API pack a lot of functionality that allow GIS Admins to inspect and automate their GIS infrastructure. This session walks you through those modules and with some example use cases shows you how you can access your servers ' be it stand-alone or federated to your portal, inspect server properties, services, folders, and also query logs and usage reports. ",
+    "title": "ArcGIS API for Python: Administering Your Web GIS - Hands-On Demo",
+    "speakers": ["Andrew Chapkowski", "David Vitale"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "Image services provide access to imagery and raster data through web services. Rich visualization and analysis applications, which access these web services, can be developed using the ArcGIS API for JavaScript. This demo theater session is for developers who wish to dig deeper into accessing and working with these web services using the ArcGIS REST API. In this session we'll cover how to visualize and analyze imagery in a web application using the ArcGIS REST API. This session will also delve into the tradeoffs between using dynamic image services and static tiled image services in your web applications. ",
+    "title": "Getting Started with Imagery and the ArcGIS REST API",
+    "speakers": ["Kevin J Butler"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Imagery/Raster"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "When collecting asset data, there is a required spatial accuracy that is higher than what your smartphone or tablet can acquire. Join this session to learn how you can connect directly to a GPS receiver using the concept of a location provider, how to capture data using GPS that is streamed to your device from a correction source with cm level accuracy using a location profile, and gain a better understanding of the collection methods and transformations applied when capturing high accuracy spatial data. ",
+    "title": "Collector for ArcGIS: High Accuracy Data Collection",
+    "speakers": ["Kevin Burke"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "Scene Layers are containers for arbitrarily large amounts of geographic data. The delivery format and persistence model for Scene Layers is referred to as Indexed 3d Scene Layer (I3S) and has been shared as an open specification publicly for use by data and technology creators to produce and consume content that will work across ArcGIS. The I3S format is declarative and extendable and can be used to represent different types of 3D data. In this session, the presenters will discuss the structure and variations in I3S to help attendees understand how they can create and visualize content including 3D objects, 3D points, point clouds, and large integrated mesh data sets, such as data from Drone2Map. ",
+    "title": "Sharing 3D Content with Scene Layers",
+    "speakers": ["Tamrat Belayneh", "Chris Andrews"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "3D"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "The future of geospatial technology is built upon Web GIS. Covering both ArcGIS Enterprise and ArcGIS Online, this session will be a crash course in Web GIS concepts, technology and implementation options. Whether you are a desktop analyst or a geodeveloper, knowing the basics of Web GIS will help you futureproof your organization's GIS investment and development plans. ",
+    "title": "Web GIS: A Crash Course",
+    "speakers": ["Kelly Gerrow-Wilcox", "Shannon Kalisky"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "The ArcGIS API for JavaScript lets you build powerful interactive mapping applications. Learn how you can turn your raw data into information that tells a story with simple 2D data-driven visualizations. This session will provide an overview to the various visualization techniques available in the API specific to 2D vector data. ",
+    "title": "2D Visualization with the ArcGIS API for JavaScript",
+    "speakers": ["Jeremy Bartley", "Kristian Ekenes"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "This presentation will demonstrate how to combine the capabilities of the ArcGIS API 4.x for JavaScript with the Angular CLI (Command Line Interface), to quickly stand up sophisticated GIS web apps. We will walk through setting up the development environment, review best practices for integrating these two technologies, and see how to quickly build reusable mapping components that communicate effectively with your audience. ",
+    "title": "Angular and the ArcGIS API for JavaScript",
+    "speakers": ["Sean Olson", "Andy Gup", "Jacob Wasilkowski"],
+    "location": "Mesquite B",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "Esri has created a series of Story Map apps that combine web maps, multimedia content, and engaging user experiences to tell stories about the world. Learn how you can leverage and customize these apps. We will walk you over examples of look and feel customization using CSS and show how you can add new features using the ArcGIS API for JavaScript. ",
+    "title": "Story Maps: Configuring and Customizing Web Apps",
+    "speakers": ["Steven Kitterman", "Alison Sizer"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "7",
+    "description": "Esri's Web AppBuilder is a HTML5/JavaScript-based application that is built with the ArcGIS API for JavaScript. It allows users to create intuitive, fast and beautiful web apps without writing a single line of code. As a developer, you can create your own focused workflows by building custom widgets which your users can then configure into their applications. In addition, you can completely customize the look and feel of the app by developing your own styles and layouts. Come to this session to learn all about customizing and extending the Web AppBuilder. ",
+    "title": "Web AppBuilder for ArcGIS: Customizing and Extending",
+    "speakers": ["Moxie Zhang", "Gavin Rehkemper"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:00 am",
+    "date": "7",
+    "description": "Your division's Portal for ArcGIS gets a lot of attention for its high standards and engagement, other departments want to replicate it. Your in-house portal has gained its maturity, you feel now is the time to expose it to the outside world. Your portal is on aging hardware, you feel now is the time to migrate it to newer infrastructure. In all these cases, you are dealing a requirement of cloning an existing portal to create a new one. We are constantly expanding the capabilities of the ArcGIS API for Python to suit such requirements. In this session, we will show how you can perform a shallow cloning where you replicate the users, groups and their items from an existing portal to a new one. ",
+    "title": "ArcGIS API for Python: Cloning Your GIS",
+    "speakers": ["Bill Major II"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:00 am",
+    "date": "7",
+    "description": "This demo theater session will provide an introduction to the Image Management Workflows, a collection of documentation and sample Python scripts designed to automate the process of creating, populating, and configuring mosaic datasets. These methods and samples have been applied to build and maintain large image collections, such as the LandsatLook catalog of all Landsat scenes (more than 2 million records), and the Landsat 8 image services which are updated with up to 300 GB of new imagery, in a fully automated process, every 24 hours. ",
+    "title": "ArcGIS Workflows for Optimizing Image Management and Services in the Cloud",
+    "speakers": ["Cody Benkelman"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Imagery/Raster"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:00 am",
+    "date": "7",
+    "description": "In this session, you will learn how to use beautiful infographics in your apps and show information about people, places, and businesses for a location using Esri's Data Enrichment service. ",
+    "title": "Add Visually Engaging and Interactive Infographics to Your Apps",
+    "speakers": ["Maxim Sattarov", "Garry Burgess", "Steven Boyd"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:30 am",
+    "date": "7",
+    "description": "",
+    "title": "Hosted Lunch",
+    "speakers": [],
+    "location": "Esplanade",
+    "keywords": [""],
+    "timeTo": "1:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "Learn how to harness the capabilities of feature layers using the ArcGIS API 4.x for JavaScript. This session will provide an overview of the FeatureLayer class, and explore its best features through code examples and demonstrations. ",
+    "title": "Everything You Need to Know About Feature Layers in the ArcGIS API 4.x for JavaScript",
+    "speakers": ["Yann Cabon", "Noah Sager"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Web"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "In this session, techniques will be described and demonstrated for exporting high quality maps from web applications. We will cover creating printed PDF documents, printing to scale, leveraging ArcGIS Pro layouts, displaying all content on the map, modifying the map content during the export process, and working with print devices with high DPI resolution. In the session, you will also learn about printing secured services and limitations, and advanced arcpy based printing service. ",
+    "title": "Enabling High-Quality Printing in Web Applications",
+    "speakers": ["Tanu Hoque", "Craig Williams"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "This session will provide a step by step tutorial on how to create a new Web AppBuilder theme by customizing or creating layouts, controller widgets, and styles. The topics that will be covered are: brandings (colors, fonts, logo, etc.), layout for desktop and mobile, controller widget that drives the UI components, and custom panel widget. ",
+    "title": "Web AppBuilder for ArcGIS: Creating New Themes",
+    "speakers": ["Kevin Gao", "Yiwei Ma"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "Collector for ArcGIS provides an intuitive field data collection experience that makes it easy to capture and update accurate data from the field. Join our workshop to learn what's new in recent releases of Collector and also to get a glimpse of major new development coming later this year. ",
+    "title": "What's New in Collector for ArcGIS",
+    "speakers": ["Jeff Shaner", "Doug Morgenthaler"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "In this session we cover advanced customization patterns including custom project and application properties, command filtering, UI customization across multiple add-in solutions, plug and play UI extensibility with embeddable controls and DAML categories. ",
+    "title": "ArcGIS Pro SDK for .NET: Advanced Pro Customization and Extensibility",
+    "speakers": ["Charlie Macleod", "Steve Van Esch"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "Architecting your ArcGIS Enterprise deployment doesn't have to be difficult. This session will cover the fundamentals of architecting the base ArcGIS Enterprise deployment and will lead you through more complex deployment scenarios that include the new capability based ArcGIS Server roles. Full of best practices and helpful tips, this session aims to set you up for success in planning and deploying ArcGIS Enterprise whether you're starting from scratch or upgrading an existing server or Web GIS deployment. ",
+    "title": "ArcGIS Enterprise: Architecting Your Deployment",
+    "speakers": ["Philip Heede"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "Discover the 3D capabilities of the ArcGIS API 4.x for JavaScript. Learn how you can leverage the WebGL capabilities of your browser with the JavaScript API to build stunning 3D web applications. This session will focus on the fundamental 3D building blocks of the API: SceneView, 2D and 3D layers, terrain, and symbology. ",
+    "title": "Getting Started with 3D in the ArcGIS API for JavaScript",
+    "speakers": ["Javier Gutierrez", "Jesse van den Kieboom"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "Kotlin is the new rising star in the world of JVM languages. Designed with focus on developer productivity and interoperability with Java, it is now officially supported by Google on Android. This demo theatre will provide a quick tour on some of the key features that makes Kotlin popular. ",
+    "title": "Accelerate Java and Android Development with Kotlin",
+    "speakers": ["Vijay Gandhi"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "This session will review the most recent enhancements to ArcGIS Online World Geocoding, including improvements to the developer API and workflow driven capabilities supporting applications. ",
+    "title": "ArcGIS Online: What's New with ArcGIS Online World Geocoding",
+    "speakers": ["Brad Niemand", "Jeff Rogers"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "You already know about projections, datums, and when not to choropleth, come see how the other nerd-half live and learn the basics of the building web applications with JavaScript. We will cover essential JavaScript concepts you will need to know when working with the ArcGIS API for JavaScript. We will also talk about the best way to learn JavaScript moving forward, how to keep your skills up to date, when (and how) to integrate new tools and frameworks into your projects, and how to navigate the exploding JavaScript ecosystem. ",
+    "title": "JavaScript for Geographers",
+    "speakers": ["Patrick Arlt", "John Gravois"],
+    "location": "Primrose B",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "The ArcGIS Runtime SDK for .Net allows you to quickly and easily build interactive mapping applications for Windows Desktops, Universal Windows Platform devices along with iOS and Android phones and tablets. This session introduces the SDK then covers common developer workflows and capabilities you'll use to build your own applications. You'll learn about patterns and practices for building great GIS .Net apps, and the resources that are available for your success. ",
+    "title": "ArcGIS Runtime SDK for .NET: Building Windows Apps",
+    "speakers": ["Morten Nielsen", "Mike Branscomb"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "",
+    "title": "Better UX with the ArcGIS API for JavaScript Popup",
+    "speakers": ["Kelly Hutchins"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Web"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "7",
+    "description": "The Prototype Lab is a group of engineers based in Redlands tasked with creating forward-looking and inventive apps. We invite you to take a peek at some of their latest work. The session will feature an entertaining assortment of web apps, desktop apps, mobile apps and hardware experimentation. Don't miss this rare opportunity to see cutting edge and thought-provoking uses of GIS. ",
+    "title": "Latest Innovations from Esri's Prototype Lab",
+    "speakers": ["Mark Deaton", "Hugh Keegan", "Dave Johnson", "Richie Carmichael", "Bob Gerlt", "John Grayson", "Carol Sousa", "Thomas Emge", "Albert Pascual", "Mark Smith", "Witold Fraczek"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "APL"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "7",
+    "description": "In this session you'll learn how to modify the popup's appearance and behavior. With a little CSS and JavaScript you can quickly modify the appearance and behavior of the popup. We'll cover how to modify the color scheme of the popup to match your web site, how to add a custom link to the popup and finally how to customize the popup behavior. ",
+    "title": "Making Pop-Ups Pop",
+    "speakers": ["Kelly Hutchins", "Heather Gonzago"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "7",
+    "description": "Come to this session to hear about the latest happenings with the ArcGIS Runtime SDKs for Java and Android products. New features and other updates to the products will be covered that will be of interest to Java and Android developers! ",
+    "title": "This Just In! New and Noteworthy Features in Java and Android Runtime SDKs",
+    "speakers": ["Tyler Schiewe"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "7",
+    "description": "The ArcGIS API for JavaScript 4 is one great client API to consume OGC standard compliant services, like WMS, WMTS, KML and I3S. This session will provide an overview of the different layers from the API as well as their best features. Julie Proposal: The ArcGIS API 4.x for JavaScript is a great client API for consuming OGC services such as WMS, WMTS, KML and I3S. This session will provide an overview of the API's OGC layer types and highlight some of their best features. ",
+    "title": "Everything You Need to Know About OGC Layers in the ArcGIS API 4.x for JavaScript",
+    "speakers": ["Yann Cabon", "Noah Sager"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "The world is becoming more instrumented every day with the Internet of Things (IoT). This session will give an overview of IoT, decompose the elements of an IoT solution, discuss IoT deployment patterns including showing how ArcGIS can be used as an IoT platform, and show how ArcGIS can complement another IoT platform. ",
+    "title": "ArcGIS and the Internet of Things (IoT)",
+    "speakers": ["Adam Mollenkopf", "Josh Joyner"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Real-Time GIS"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "In this session we will learn some of the basics of TypeScript and how it can help you as a developer using the ArcGIS API for JavaScript. We will also look at how to set up a development environment and use the provided TypeScript definition files. ",
+    "title": "Using TypeScript with ArcGIS API for JavaScript",
+    "speakers": ["Nick Senger", "Jesse van den Kieboom"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "Solving the complex problems we face in the world today requires bringing together the best available tools and often that means, integrating functionality between platforms. The R-ArcGIS bridge establishes a seamless fuse between the spatial analysis powers of ArcGIS and the thousands of cutting-edge libraries for statistical analysis in the language R. The bridge is more versatile and powerful than ever with the addition of raster/imagery support that broadens the realm of possibilities and extending a connection to Microsoft R Open that provides a robust framework to handle big data analytics. Come see this functionality in action and learn how you can incorporate the most powerful R-ArcGIS bridge to date in your workflows! ",
+    "title": "R for Raster, (B)ridge for Big Data: What's New in R-ArcGIS Bridge?",
+    "speakers": ["Marjean Pobuda", "Orhun Aydin"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "As web security continues to become more strict and ArcGIS Enterprise implementations more distributed, understanding SSL principles and touchpoints within the Esri technology stack is growing area. ArcGIS Enterprise provides the tools and capabilities to establish a secure, trusted environment. This session will cover a quick introduction to SSL, touchpoints within ArcGIS Enterprise, updating SSL certificates and establishing trust, as well as troubleshooting. ",
+    "title": "ArcGIS Enterprise and SSL Considerations",
+    "speakers": ["Bill Major II", "Craig Cleveland"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "The ArcGIS Runtime SDK for .NET contains APIs for UWP, Xamarin.Android, Xamarin.iOS, and Xamarin.Forms that enable you to build native mapping apps and share source code across Windows, Android, and iOS devices. This session introduces the SDK then covers common developer workflows and capabilities you'll use to build your own applications. You'll learn about patterns and practices for building great GIS .NET apps using Xamarin and the resources that are available for your success. ",
+    "title": "ArcGIS Runtime SDK for .NET: Building Xamarin Apps",
+    "speakers": ["Richard Zwaap", "Thaddeus Tilton"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "This lecture covers the Pro application architecture framework and its primary patterns to include context in the UI, DAML, extensibility and the module subsystem, and threading - concurrency, best practices, and cancellation. This lecture is appropriate for Pro application developers who want to learn more about the Pro internals and how to leverage that knowledge in their add-in and configuration designs. ",
+    "title": "ArcGIS Pro SDK for .NET: Pro Application Architecture Overview and API Patterns",
+    "speakers": ["Russell Louks"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "ArcGIS Pro is highly customizable. From an application perspective, .NET can be used to construct buttons, ribbons and tool specific user interfaces. Through the use of Python and Geoprocessing, your desired functionality can run both in demand and interactively with the .NET extension you created. This session introduces the key concepts necessary to get started with extending your ArcGIS Pro Application and provides a clear case study of interactive analytics to show you the power of the strategies outlined. ",
+    "title": "Extending ArcGIS Pro with .NET and Python: Interactive Analytics",
+    "speakers": ["Carlos Osorio-Murillo", "Mark Janikas"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geoprocessing"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "The Python ecosystem is rich with a set of libraries that allow you to dissect and explore your data. Couple that with an interactive environment such as Jupyter notebooks and ArcGIS API for Python, you get yourself a versatile environment to perform exploratory GIS analysis that you can create and drive by little snippets of Python code. Stop by for an interesting talk on how you can use powerful visualization, statistics and ArcGIS to better understand your data. ",
+    "title": "ArcGIS API for Python: Advanced Scripting",
+    "speakers": ["Atma Mani", "Rohit Singh"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "Web GIS has become a ubiquitous and powerful platform for data sharing and information access. Over the past decades, technology has shifted from desktops, to servers, to web, then mobile, and now is time for another paradigm shift: voice. Geographic information can now be integrated with emerging devices for voice and chat interfaces that provide quick and easy access by anyone, anywhere. Additionally, 70% of U.S. adults use social media regularly and 77% own a smartphone. So, we need to consider new experiences for accessing our GIS. In this demo theater, we'll show how you can start building your own chatbots and voice interfaces that integrate directly with ArcGIS. Using Sonar, an opensource library developed by Esri, you can explore how to make your information accessible through these new, ubiquitous technologies. ",
+    "title": "Sonar: Natural language interfaces to GIS",
+    "speakers": ["Andrew Turner"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": [""],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "",
+    "title": "Building Your Own Widget with ArcGIS API for JavaScript",
+    "speakers": ["Matt Driscoll", "Juan Carlos Franco"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "This session will discuss the Route, Closest Facility, and Service Area tasks in online and offline environments using the ArcGIS Runtime API. Basic topics covered will include use patterns for tasks and functionality of the Closest Facility, Service Area, and Route tasks. ",
+    "title": "ArcGIS Runtime: Network Analysis",
+    "speakers": ["Frank Kish", "Doug Sterling II"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "Join this session to learn what is new in Survey123 for ArcGIS: Support for editing, custom reports, integration with external GNSS receivers and sensors such as Spike and much more. ",
+    "title": "What's New in Survey123 for ArcGIS",
+    "speakers": ["Calvin Jung", "Jayson Ward", "James Tedrick"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "7",
+    "description": "The map in most situations plays a central role within your applications. This session will cover the many options available to you to create, style, and share maps within the ArcGIS Platform for use in Runtime. ",
+    "title": "ArcGIS Runtime: Styling Maps",
+    "speakers": ["Mike Wilburn", "Lucas Danzinger"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "7",
+    "description": "This session will focus on creating and publishing python script tools for geoprocessing services and web tools with emphasis on data access on the server and organizing dependent modules. ArcMap and ArcGIS Pro will be demonstrated. ",
+    "title": "Creating Geoprocessing Services with Python Script Tools",
+    "speakers": ["Andrew Ortego"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geoprocessing"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "7",
+    "description": "Esri has created a series of Story Map apps that combine web maps, multimedia content, and engaging user experiences. This session will give you an introduction to what makes a great story map and will demonstrate how to create your own story maps with our most popular apps including Story Map Tour, Map Journal and Map Series. ",
+    "title": "Story Maps: How to Tell Your Story Using Storytelling Apps",
+    "speakers": ["Owen Evans", "Cooper Thomas"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "7",
+    "description": "Addressing complex urban and community problems requires a holistic approach to spatial analysis, planning and policy. ArcGIS Hub organizes these goals into Initiatives that drive data sharing and configurable apps that inform and engage constituents to work together. Transit accessibility, public safety, personal health, and community resilience are just a few of the themes that can be improved with urban analytics. This session will discuss how we can use ArcGIS Hub as a starting point for urban analytics; how open data published from local governments can be applied and analysed to explore the phenomena that surrounds us every day. Using the ArcGIS API for Python and several python libraries, we'll ingest and aggregate data from ArcGIS Hub, perform exploratory and statistical analyses, and use predictive modeling to answer our questions. Finally, we'll show how this kind of work can be shared back with the governing body and give your efforts a voice. ",
+    "title": "Building Urban Analytics for Hub",
+    "speakers": ["Manushi Majumdar", "Courtney Claessens"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": [""],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "ArcGIS GeoEvent Server and ArcGIS GeoAnalytics Server work with real-time and big data through the spatiotemporal big data store available in ArcGIS Data Store. Real-time observational data can come from moving objects, changing attributes of stationary sensors, or both. Learn how the spatiotemporal big data store enables the archival of observation data, sustains high-velocity write throughput, and runs across multiple nodes to enable high-volume storage. Discover how to use GeoAnalytics Server with the spatiotemporal big data store, both as a data source and to store the results of big data analytics. Take an indepth look at how to configure Data Store, write high-velocity data to it, visualize and query high-volume data via map and feature services, and use it for the input or results of distributed analytics. ",
+    "title": "Real-Time and Big Data GIS: Leveraging the Spatiotemporal Big Data Store",
+    "speakers": ["Suzanne Foss", "Ricardo Trujillo"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Geodatabase"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "Join this session to learn how you can download the source code of Survey123 for ArcGIS and extend it with your own functionality, or change its look and feel. We will use AppStudio for ArcGIS and QML to show you how things are done! ",
+    "title": "Extending Survey123 for ArcGIS",
+    "speakers": ["Jayson Ward", "Erwin Soekianto"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "In this session, you will learn how to access thousands of data variables describing demographics, households, consumer behaviors, and businesses using Esri's Data Enrichment service for 130+ countries and add demographic context to your data as easy-to-understand infographics and tabular reports. ",
+    "title": "Use Demographic, Business, and Consumer Information in Your Maps and Apps",
+    "speakers": ["Maxim Sattarov", "Steven Boyd"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "4:30 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "Learn how to quickly and easily find and fix problems in your web mapping applications. You will learn how to setup your dev environment to use plug-ins like linters and beautifiers to write cleaner code. We'll show you how to use the power of browser-based debugging tools to debug, style and optimize your apps. We will also cover how to resolve common issues you may run into when working with the JSAPI. ",
+    "title": "ArcGIS API for JavaScript: Tips and Tricks for Developing and Debugging Apps",
+    "speakers": ["Kelly Hutchins", "Heather Gonzago"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "This session will cover all aspects of analysis in ArcGIS Runtime including geometry operations, geoprocessing, network solvers, raster functions and renderers, and interactive visual analysis tools such as viewshed and line of sight. In addition, analysis capabilities and tools available to ArcGIS Runtime Local Server will be presented and discussed. ",
+    "title": "ArcGIS Runtime: Analysis",
+    "speakers": ["Lucas Danzinger", "Mark Baird", "Mike Branscomb"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "Making the transition from ArcMap to ArcGIS Pro also includes transitioning your workflow for authoring content. This session will cover how to move from publishing GIS services from ArcMap to sharing content as layers from ArcGIS Pro. We will take a deep dive into the archtiecture that supports sharing and cover key concepts that differentiate authoring content in a modern GIS. While this session will focus sharing from Pro to ArcGIS Enterprise, concepts will also be applicable if sharing to ArcGIS Online. ",
+    "title": "Authoring Content for a Modern GIS",
+    "speakers": ["Melanie Summers", "Shannon Kalisky", "Ty Fitzpatrick"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "Learn how you can extend the API with custom layers and display them in 2D's MapView and 3D's SceneView. ",
+    "title": "ArcGIS API for JavaScript: Creating Custom Layers and Layer Views",
+    "speakers": ["Matthew George", "Sarah Bell", "Yann Cabon", "Thomas Other", "Jacob Wasilkowski"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "ArcGIS Indoors is Esri's latest product offering and is a complete system that brings The Science of Where to indoor spaces. Join the ArcGIS Indoors team for an overview of how you can take the geographic approach to problem solving inside your buildings. We'll cover how to assemble indoor data, add business value, and share it with web and mobile clients to support a wide range of workflows. This will be followed by a brief discussion on indoor positioning, complete with context of where it can and should add value. ",
+    "title": "ArcGIS Indoors: An Introduction",
+    "speakers": ["Nitin Bajaj", "Jeff Archer", "Patrick Wallis", "Craig McCabe"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "CSS Frameworks like Bootstrap are great but knowing some basic modern CSS techniques can you be successful in debugging and customizing your applications. Learn the basics of floats, positions, media queries and more to really take control of your applications. ",
+    "title": "CSS for Geographers",
+    "speakers": ["Patrick Arlt", "John Gravois"],
+    "location": "Catalina-Madera",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "The availability and scale of scientific data is increasing exponentially. Fortunately, ArcGIS provides functionality for reading, managing, analyzing and visualizing scientific data stored in three formats widely used in the scientific community ' netCDF, HDF and GRIB. Using satellite and model derived earth science data, this session will present examples of data management, and global scale spatial and temporal analyses in ArcGIS. Finally, the session will discuss and demonstrate how to extend the data management and analytical capabilities of multidimensional data in ArcGIS using python packages. ",
+    "title": "Python: Working with Multidimensional Scientific Data",
+    "speakers": ["Nawajish Noman", "Deng Ding"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "This session focuses on use of Edit Operation and Edit events. We will cover key edit operation capabilities and edit operation usage to include: versioned edits; combine operations to span across multiple datasets; chaining edit operations. We will investigate edit events and row-level events as well as edit Undo/Redo. ",
+    "title": "ArcGIS Pro SDK for .NET: Advanced Editing and Edit Operations",
+    "speakers": ["Charlie Macleod", "Sean Jones"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "In this session you will see how to utilize the ArcGIS Enterprise web-based administration interface to manage aspects like permissions, users, groups, and organization-wide security features. See how to write scripts that interface with the REST API to complete tasks such as adding users in batch mode or monitoring subscription usage. Attend this session to learn how to administer your portal through the online interface and see demonstrations of scripting administrative tasks. Demonstrations of new features and functionality will be included. ",
+    "title": "Administration of ArcGIS Enterprise",
+    "speakers": ["Thomas Edghill", "Marley Geddes"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Enterprise"],
+    "timeTo": "4:30 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "7",
+    "description": "Maximizing the efficiency of your field workforce is key to a successful mobile strategy and with Workforce for ArcGIS now you can plan, monitor and streamline field to office workflows using the ArcGIS platform. Join this demo theatre to learn the basics and how to get started. ",
+    "title": "Introduction to Workforce for ArcGIS",
+    "speakers": ["Neel Chowdhury"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "4:30 pm"
+}, {
+    "timeFrom": "4:30 pm",
+    "date": "7",
+    "description": "Connect and share your ArcGIS Enterprise content across organizations using the power of distributed collaboration. In this demo theater, we will cover different patterns for collaboration, including specific organizational scenarios that benefit from this feature. In addition, we will take you step by step through administrating and using your collaborations: setting up the collaboration & workspace, inviting your participants, sharing your items to groups and monitoring synchronization statuses. ",
+    "title": "Distributed Collaboration: Interconnecting Systems",
+    "speakers": ["Hilary Curtis"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Enterprise"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:30 pm",
+    "date": "7",
+    "description": "Join this demo theatre and learn how to build stunning, effective Dashboards that help your users make decisions at a glance. We will demonstrate some of the many ways that you can configure visualizations and interactivity to make the most of the information products you create. ",
+    "title": "Operations Dashboard Tip and Tricks",
+    "speakers": ["Aaron Pulver", "Dave Nyenhuis"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:30 pm",
+    "date": "7",
+    "description": "Python has a rich ecosystem of packages you can use in your own code, but installation used to be complex. Conda is part of ArcGIS Pro, and allows you to easily install libraries into your Python environment, manage environments, and distribute that code to others. Join us and learn to bend Python to your will. ",
+    "title": "Harnessing the Power of Python in ArcGIS Using Conda Distribution",
+    "speakers": ["Clinton Dow", "Shaun Walbridge"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geoprocessing"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "ArcGIS Indoors is Esri's latest product offering and is a complete system that brings The Science of Where to indoor spaces. This session will focus on how the developer community can build new capabilities around Esri's new product offering. We will provide a working overview of the ArcGIS Indoors system, and how widgets communicate with each and how connectors can extend the system. ",
+    "title": "ArcGIS Indoors: The Developer Story",
+    "speakers": ["Nitin Bajaj", "Jeff Archer", "Patrick Wallis", "Craig McCabe"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "Many developers are looking to migrate their current apps built on ArcGIS Engine to ArcGIS Runtime so that they can take advantage of the new capabilities and faster performance. Attend this session to learn about tips and techniques you'll need to migrate your .Net, Java and C++ applications. This session also covers some of the user workflow changes required when moving your apps to the runtime. ",
+    "title": "ArcGIS Runtime: Migrating from ArcGIS Engine",
+    "speakers": ["Rex Hansen", "Mike Branscomb"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "We cover the new user controls available in the ArcGIS Pro SDK for .NET including Query Builder control, Locator control, and Coordinate Systems picker control. Learn how to integrate these controls into your custom Pro UIs. ",
+    "title": "ArcGIS Pro SDK for .NET: New UI Controls for the SDK",
+    "speakers": ["Narelle Chedzey"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Pro"],
+    "timeTo": "6:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "This session will go into depth and provide you with not only the details but some inspiration as to what can be achieved when you think 3D first as you design and build your runtime apps. ",
+    "title": "ArcGIS Runtime: Building 3D Applications",
+    "speakers": ["Adrien Meriaux", "Rex Hansen"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "Insights for ArcGIS extends the capability for spatial analysis for the ArcGIS Platform. It is designed to simply and quickly ask your data questions; get answers, and visualize that data in a highly interactive workspace. Insights is a fusion of geographic visualization and data analysis that creates a new workflow for doing iterative spatial analysis and knowledge discovery. The ability to share these findings easily with the world, and reuse modeling workflows, further helps a wide range of users take advantage of the ArcGIS platform. This session will show you how Insights unlocks the power of GIS with a modernized user experience. Insights will be demonstrated, working through several workflows, and its functionality. The Insights Extensibility roadmap will be discussed and your feedback will help us with prioritization. ",
+    "title": "Insights for ArcGIS",
+    "speakers": ["Art Haddad", "Linda Beale"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Business Intelligence"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "The Runtime SDK provides an open source toolkit containing high-level components and utilities that simply development of common workflows. Come learn about the toolkit and how you can take advantage of it in your apps. ",
+    "title": "Jump Start Your iOS App with the Toolkit",
+    "speakers": ["Mark Dostal"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "6:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "This fast paced session explores building 2D and 3D mapping apps using a Mobile First approach with the ArcGIS API for JavaScript. Learn about important design and implementation considerations for building successful mobile JavaScript apps. Even though modern smartphones and tablets are powerful, they still aren't as powerful as a laptop. By applying Mobile First development patterns you'll learn how to build highly adaptable and responsive mapping applications that perform seamlessly and fast on a variety of device types and screen sizes. ",
+    "title": "ArcGIS API for JavaScript: Building Mobile Web Apps",
+    "speakers": ["Thomas Other", "Lloyd Heberlie", "Andy Gup"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "Architecting your ArcGIS Enterprise deployment doesn't have to be difficult. This session will cover the fundamentals of architecting the base ArcGIS Enterprise deployment and will lead you through more complex deployment scenarios that include the new capability based ArcGIS Server roles. Full of best practices and helpful tips, this session aims to set you up for success in planning and deploying ArcGIS Enterprise whether you're starting from scratch or upgrading an existing server or Web GIS deployment. ",
+    "title": "ArcGIS Enterprise: Architecting Your Deployment",
+    "speakers": ["Philip Heede"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "Automation is essential in deploying ArcGIS Enterprise because of its efficiency, availability, and repeatability. Come learn how you can automate the deployment and upgrade of your ArcGIS Enterprise using Esri's ArcGIS Cookbook. This approach is based on setting properties rather than writing scripts or code. Knowledge of Chef is not required. We'll provide live demos and share our experiences on how to configure and install ArcGIS Enterprise deployments. ",
+    "title": "Quick Start ArcGIS Enterprise with Automation",
+    "speakers": ["Nikhil Shampur", "Mark Carlson", "Shannon Kalisky", "Cherry Lin"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "Learn how to build great web apps with the ArcGIS API for JavaScript that work effectively with your web GIS. We will cover how to read and discover web maps and scenes, integrate ArcGIS Online content, and work with secured ArcGIS Online items in a JavaScript application. ",
+    "title": "Building Web Apps That Integrate with Your Portal",
+    "speakers": ["Kelly Hutchins", "Heather Gonzago"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "The ArcGIS Platform provides many tools that allow you to administer your enterprise geodatabase. We'll focus on effective patterns that developers who are familiar with Python should utilize to administer the geodatabase effectively. Topics discussed include: the types of administrators and their role in maintaining the geodatabase; making connections to the geodatabase; creating enterprise geodatabases; creating users and roles; managing user privileges on data; reconcile-post-compress; updating statistics and indexes; and managing user connections. ",
+    "title": "Administering Your Enterprise Geodatabase Using Python",
+    "speakers": ["Jillian Penney", "Annie Sasidar"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Geodatabase"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "Learn how to bring in some of the latest features of Survey123 into your forms! ",
+    "title": "Survey123 for ArcGIS: Tips and Tricks",
+    "speakers": ["James Tedrick", "Brandon Armstrong"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "6:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "7",
+    "description": "This session will illustrate how to leverage the new ArcGIS API for JavaScript API to build effective web map apps. This includes taking an inside look at the View and UI framework, the CSS, and the SASS library. Come join us to learn more about how the framework works, how to style widgets, or if you just want to learn a few tips and tricks on how to get things looking just the way you want them to! ",
+    "title": "App Design and CSS Styling with the ArcGIS API for JavaScript v4",
+    "speakers": ["Allan Laframboise", "Juan Carlos Franco"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "6:00 pm",
+    "date": "7",
+    "description": "",
+    "title": "Authentication for iOS Apps Made Easy",
+    "speakers": ["Suganya Baskaran"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "6:00 pm",
+    "date": "7",
+    "description": "We cover use of the Raster API to select and iterate through raster data. The demo will include creating a raster cursor to iterate through raster data and reading and writing pixels from and to a raster dataset using pixel blocks. ",
+    "title": "ArcGIS Pro SDK for .NET: Raster API and Manipulating Pixel Blocks",
+    "speakers": ["Thomas Emge"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Pro"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "6:00 pm",
+    "date": "7",
+    "description": "Survey123 for ArcGIS has an API to enable the printing of records in customized layouts. Learn how to author your templates and use the API with other applications. ",
+    "title": "Using the Survey123 Reporting API to Print Survey Records",
+    "speakers": ["Yue Zhao", "James Tedrick"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "7:30 am",
+    "date": "8",
+    "description": "Esriand IBM have teamed up to deliver ArcGIS on IBM Cloud. Build and deploy your geospatial applications using Watson Data Platform on IBM Cloud. Watson Data Platform enables data scientists and data engineers to discover, refine, analyze and visualize their data, all in one place, without worrying about the infrastructure. IBM has integrated popular open-source tools and libraries such as Python and Jupyter notebook into the platform. ",
+    "title": "IBM Sponsored SIG",
+    "speakers": [],
+    "location": "Primrose A",
+    "keywords": [""],
+    "timeTo": "8:30 am"
+}, {
+    "timeFrom": "8:00 am",
+    "date": "8",
+    "description": "",
+    "title": "Esri Store",
+    "speakers": [],
+    "location": "Primrose Lobby",
+    "keywords": [""],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "This new hands-on training workshop will introduce you to ArcGIS Pro SDK concepts, helpful tips and practical steps to help you get started developing addins to extend ArcGIS Pro. Participants will walk through topics with the workshop instructor and then work through exercises using their own device with the Pro SDK and the Microsoft Visual Studio development environment. Topics will include: \n- Pro SDK overview, online resources and community samples \n- Starting with DAML and UI customization \n- Basic solution configuration development \n- Working with common SDK patterns Prerequisites: This course assumes that participants have basic experience developing Windows applications using Microsoft Visual Studio 2015 or 2017 and .NET, as well as a few months of experience working with ArcGIS Pro. Workshop participants must bring their own device, pre-installed with ArcGIS Pro 2.1 and Microsoft Visual Studio 2015 or 2017. ",
+    "title": "Getting Started with the ArcGIS Pro SDK. for .NET",
+    "speakers": ["Rob Burke"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "The ArcGIS Runtime API is a powerful, modern, scalable, and forward-looking API that is designed to make it easy to build great applications that fully leverage ArcGIS and the device your app is running on. This session will present an introduction to the Runtime SDKs, advantages of using them, and an overview of the API. This session is ideal for developers new to the runtime and managers or program managers evaluating the technology. ",
+    "title": "ArcGIS Runtime: An Introduction to the API and Architecture",
+    "speakers": ["Euan Cameron", "David Cardella"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "What are coordinate systems? What should I know about vertical coordinate systems? Why should I care about geographic (datum) and vertical transformations? The software just handles them automatically, doesn't it? ",
+    "title": "Introducing Coordinate Systems and Transformations",
+    "speakers": ["Bojan Savric", "Robert Juergens"],
+    "location": "Mesquite G-H",
+    "keywords": ["Geoprocessing"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "Discover common implementation patterns for deploying Web AppBuilder applications into complex enterprise environments. Find out what considerations developers should keep in mind as they plan for enterprise logins, forward and reverse proxies, SSL certificates, and other enterprise integration points. ",
+    "title": "Web AppBuilder for ArcGIS: A Deep Dive into Enterprise Deployment",
+    "speakers": ["Nick Brueggemann", "Mark Torrey"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "Have you hesititated to learn how to build 3D apps because it looks complicated or you lack the necessary data? In this session, learn how to build a 3D app using your 2D data and the resources provided out of the box by Esri and the ArcGIS API for JavaScript. Even if your data doesn't contain Z-values, you can build sophisticated 3D apps that leverage modern browser technology to render your 2D features with 3D symbology. ",
+    "title": "Practical Guide for Building a 3D Web App from 2D Data",
+    "speakers": ["Raluca Nicola", "Kristian Ekenes"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "ArcGIS developers build applications that can access and interact with a geodatabase. Learn about key programming techniques and APIs that must be employed when developing high-performance geodatabase applications. This session will focus on issues that will allow developers to be more efficient, write less code, and save time. Explore the correct and effective programming patterns that should be employed when using the geodatabase API. ",
+    "title": "Effective Geodatabase Programming",
+    "speakers": ["Erik Hoel", "Colin Zwicker"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Geodatabase"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "",
+    "title": "Bring Out Your Qt Side: ExeQting Best App Development Patterns",
+    "speakers": ["Michael Tims"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "As browser vendors add support for the Custom Elements and Shadow DOM specification come learn how to build components for your applications that seamlessly integrated across Angular, Ember, and React or used on their own. ",
+    "title": "Custom Elements and Shadow DOM",
+    "speakers": ["Patrick Arlt"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Dev 2 Dev"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "Join us as we discuss working with feature data in ArcGIS using ArcPy and the data access module (arcpy.da). Highlights and demonstrations will include getting the best performance out of cursors, editing data, working with NumPy arrays and 3rd party libraries to extend analysis, and managing geodata. ",
+    "title": "Python: Working with Feature Data",
+    "speakers": ["Jibin Liu", "Ghislain Prince"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "Learn how to quickly and easily find and fix problems in your web mapping applications. You will learn how to setup your dev environment to use plug-ins like linters and beautifiers to write cleaner code. We'll show you how to use the power of browser-based debugging tools to debug, style and optimize your apps. We will also cover how to resolve common issues you may run into when working with the JSAPI. ",
+    "title": "ArcGIS API for JavaScript: Tips and Tricks for Developing and Debugging Apps",
+    "speakers": ["Kelly Hutchins", "Heather Gonzago"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "ArcGIS is a complete platform for data management, visualization and analysis. However, sometimes you need to use data from other platforms, but still want to combine it with spatial data and ArcGIS capabilities. Koop is an open-source Javascript engine that is easily extendable to connect ArcGIS with any API. You can use Insights with data from Microstrategy, or spatial analysis with dynamic data from Salesforce. Using Koop, other platforms become an integrated layer with ArcGIS to build StoryMaps, configure a dashboard, perform analysis or mapping, and share privately or as Open Data. In this session we'll walk through building a new adapter with as little as 30 lines of JavaScript and introduce you to the community of developers building other adapters that you can easily re-use. ",
+    "title": "Integrating ArcGIS with 3rd Party Services with Koop",
+    "speakers": ["Haoliang Yu", "Daniel Fenton"],
+    "location": "Santa Rosa",
+    "keywords": [""],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "The Stream Service capability of GeoEvent Server enables real-time mapping visualizations for web applications. Explore configuring real-time web apps without any application development using Portal for ArcGIS, web application templates, and Web AppBuilder for ArcGIS. Learn about the differences and advantages of using stream services for real-time data, how to publish and configure them, and how to incorporate them in application templates or custom JavaScript applications. ",
+    "title": "Developing Real-Time Web Apps with the ArcGIS API for JavaScript",
+    "speakers": ["Ken Gorton", "Morakot Pilouk"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Professional Services", "Demo Theater Presentation"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "Build apps for everyone. Learn how to evaluate, test, and design products that are accessible for those with disabilities, and how to strategize getting started. ",
+    "title": "DIY Accessibility",
+    "speakers": ["Kelly Hutchins", "Tao Zhang"],
+    "location": "Mesquite B",
+    "keywords": ["UX/UI", "Esri Technical Session"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "This session will introduce you to the distributed analytical capabilities of the ArcGIS Enterprise Image Server. We will discuss the value of distributed analytics, walk through the capabilities, describe the system architecture and concepts, explain deployment options, and articulate how this exciting technology will evolve with future versions of Image Server. In addition, we will cover examples of how this technology can save users significant time when processing large rasters, large images, massive mosaics, and massive collections of imagery. ",
+    "title": "Raster Analysis and Image Processing in ArcGIS Enterprise",
+    "speakers": ["Vinay Viswambharan", "Jie Zhang"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:00 am",
+    "date": "8",
+    "description": "ArcGIS API for Python lets ArcGIS users, developers, and anyone with an ArcGIS Online subscription or a ArcGIS Enterprise, leverage the Python ecosystem to automate their workflows and perform repetitive tasks by writing Python scripts. In this session you will learn how the ArcGIS Python API can help in scripting and automating your Web GIS. It will start with an introduction of the API, who it's for and what it can do. The session will walk through the process of getting the API through Conda and writing scripts using Jupyter Notebook. A brief tour of the API will be followed by a show and tell of some of the powerful capabilities of the API, including using the Map widget to visualize GIS content as well as calling GeoAnalytics and Raster Analysis tools using the API. ",
+    "title": "ArcGIS API for Python: Introduction to Scripting Your Web GIS",
+    "speakers": ["Ben Ramseth", "John Yaist"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:30 am",
+    "date": "8",
+    "description": "The world of web development is constantly changing, and staying abreast of the latest tools like code editors, terminals, linters, and apps is vitally important. Come hear about our favorite tools and how they can help you become a better, more efficient developer. ",
+    "title": "Tools for the Modern Web Developer",
+    "speakers": ["Gavin Rehkemper", "Joshua Peterson"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Dev 2 Dev"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:30 am",
+    "date": "8",
+    "description": "An introduction to the ArcGIS plugin for Adobe's design applications. Learn how to add maps and layers directly into Illustrator and Photoshop as vector artwork or high-resolution rasters. As well as see how to share map assets between designers and GIS analysts using ArcGIS Online. ",
+    "title": "ArcGIS Maps for Adobe Creative Cloud: An Introduction",
+    "speakers": ["Clint Loveman"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Professional Services", "Demo Theater Presentation"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "9:30 am",
+    "date": "8",
+    "description": "",
+    "title": "Real-Time with the Dynamic Situational Awareness App",
+    "speakers": ["Michael Tims", "Kerry Robinson"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "10:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "",
+    "title": "Getting Started with the ArcGIS Pro SDK. for .NET",
+    "speakers": ["Rob Burke"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "Join this session to learn how to build cross-platform native apps with AppStudio for ArcGIS. You will learn the basics for programming with the Qt Creator IDE and QML as well as a complete suite of developer productivity tools for ArcGIS developers. This session targets Javascript and Python developers of all levels who want to learn how to build native mapping applications. ",
+    "title": "Developing Cross-Platform Native Apps with AppStudio for ArcGIS: The Basics",
+    "speakers": ["Tina Jin", "Nakul Manocha", "Chris Lesueur", "Erwin Soekianto"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "This session is for those who are familiar with the arcpy.mapping module used with ArcMap and want to explore this API in ArcGIS Pro. We will identify changes made to the API and discuss what is needed to migrate scripts to ArcGIS Pro. This presentation will also focus on updating data sources, the new symbology API and updates made available with the 2.1 release. ",
+    "title": "Python: Map Automation in ArcGIS Pro",
+    "speakers": ["Jeff Barrette", "Jeff Moulds"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "Are you a web developer that would like to build native apps? This session will show you how your HTML5/CSS/JavaScript skills will help you build native apps that run on smartphones, tablets, and desktops. ",
+    "title": "AppStudio for ArcGIS: Quick Guide for JavaScript Developers",
+    "speakers": ["Loayeh Jumbam", "Erwin Soekianto"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "Visualizing data requires thinking beyond the common types of chart such as bar/ line/pie. Fortunately, numerous developer libraries such as amCharts and D3 make it easy to create interactive, dynamic, and informative graphics for web applications. It's necessary to consider the appropriate methods for data charts in order to make a compelling, and accurate, visualization for people to understand. In this session, we'll cover the principles of data visualization and some useful techniques and methods you can apply to your own work. Also, learn how to use developer libraries like Cedar and D3 with ArcGIS APIs to craft custom data visualizations in your mapping applications and share them with other developers. ",
+    "title": "Charts and Custom Visualizations Beyond the Map",
+    "speakers": ["Flora Vale", "Tom Wayson"],
+    "location": "Primrose C-D",
+    "keywords": [""],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "In this session we will demonstrate how the ArcGIS API for JavaScript can help you build a web app to visualize, interact with and analyze a 3D city from an urban planning point of view. The focus is on learning how you can use Scene Layers, Feature Layers, symbology and other tools to create compelling user experiences with your city features and attributes. ",
+    "title": "Smart 3D City Web Apps with the ArcGIS API for JavaScript",
+    "speakers": ["Pascal Mueller", "Michael Van den Bergh"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "3D"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "This session will discuss the usage of Python API + Jupyter Notebooks with complex transportation analysis powered by ArcGIS Online or your own Portal routing services. We will be using Location-Allocation, Service Area, Vehicle Routing Problem, and Route services to demonstrate how you can efficiently come up with useful informational products, or quickly prototype the flow of a web application. ",
+    "title": "ArcGIS Online: Using the Python API for Transportation Network Analysis",
+    "speakers": ["Deelesh Mandloi", "Dmitry Kudinov"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "ArcGIS Online enables users to create valuable information products that can be easily shared with the public. When creating web maps and apps for public distribution, it is essential to ensure that layers are configured to allow the appropriate access and are optimized for high demand. This session covers best practices for layer configuration, using living atlas content and embedding ArcGIS Online content in websites. ",
+    "title": "Preparing ArcGIS Online Content for Sharing with the Public",
+    "speakers": ["Kelly Gerrow-Wilcox", "Ian Wittenmyer"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "Traditionally, creating high-quality, high-volume cartographic products is a handson, time-intensive process. Learn how Production Mapping for Server can help generate Product on Demand (POD), that is, on-the-fly map and chart generation over the Web. ",
+    "title": "Esri Production Mapping: Generating High Quality Product-On-Demand Maps Over the Web",
+    "speakers": ["Jeremiah Moore"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Professional Services", "Demo Theater Presentation"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "The ArcGIS API 4.x for JavaScript provides a set of APIs allowing you to build powerful interactive 3D mapping applications. In this session, we'll focus on the visualization capabilties specific to 3D views. We'll dive into the various symbol types and visual variables and demonstrate how they interact with renderers. You'll learn catographic techniques unique to 3D and see several demos showing how to thematically visualize 2D features with 3D symbols. We'll also provide an overview of how to visualize data in layers specific to 3D views. ",
+    "title": "3D Visualization with the ArcGIS API for JavaScript",
+    "speakers": ["Raluca Nicola", "Kristian Ekenes"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "Learn how to structure your application to create optimized builds using the Web Optimizer or custom local builds using the Bower release of the ArcGIS API for JavaScript. Other common JavaScript and web application optimization techniques will be discussed. ",
+    "title": "Optimizing Your JavaScript App for Performance",
+    "speakers": ["Rene Rubalcava", "Lloyd Heberlie"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "This session will cover critical security knowledge as it pertains to threat mitigation and prevention within ArcGIS Enterprise. Learn how to protect yourself from common threats and attacks and how to harden your environment using multiple layers of security. This session will cover aspects of the environment including the operating system, accounts, database, the network, and firewalls. Join us to learn about security options in ArcGIS Enterprise that help protect your site from attack. ",
+    "title": "Threat Mitigation and Prevention in ArcGIS Enterprise",
+    "speakers": ["Randall Williams", "Jeff Smith"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "10:30 am",
+    "date": "8",
+    "description": "Join us for an overview on developing with the ArcGIS API for JavaScript. This session will cover the basics of setting up your development environment, fundamental debugging techniques, and tips for using the online SDK. Learn about patterns and practices for integration with ArcGIS Online, ArcGIS Server, working with data and widgets. ",
+    "title": "Getting Started with Web Development and the ArcGIS API for JavaScript",
+    "speakers": ["Heather Gonzago", "Noah Sager"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:00 am",
+    "date": "8",
+    "description": "ArcGIS Online has a powerful sharing model that enables you to share with the public, specific users and users within your organization. Collaboration and sharing private content between organizations makes the sharing experience richer. Come see some practical examples about sharing and collaborating with GIS Content using ArcGIS Online tools ",
+    "title": "Collaboration and Content Sharing with ArcGIS Online",
+    "speakers": ["Paul Barker", "Chris Whitmore"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Online"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:00 am",
+    "date": "8",
+    "description": "Esri Apps like Collector, Survey123, Explorer, Workforce and Navigator all have the ability to communicate with one another via a technology called the app link. This powerful technology addresses many different workflows which involve multiple apps working together in complex real world workflows. 3rd party apps can also make use of this technology to create a whole host of native and web applications that can invoke Esri Native apps within the scope of a larger workflow. This session will focus on explaining this technology and give many examples of how you can augment your apps to call into Esri's native apps like Workforce, Navigator, Collector and Survey123. ",
+    "title": "Remotely Invoking ArcGIS Apps",
+    "speakers": ["James Tedrick", "Joel Whitney"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Apps"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:00 am",
+    "date": "8",
+    "description": "Whether you are new to OpenStreetMap or a seasoned user, we want to meet and collaborate with you. This session will be an interactive dialog on OSM and ArcGIS. We'll provide an overview of the current tools and facilitate a discussion about your current workflows and usage, and brainstorm how you'd like to use it in the future. ",
+    "title": "OpenStreetMap and ArcGIS: Mapping the Future",
+    "speakers": ["Steve Moore"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Professional Services", "Demo Theater Presentation"],
+    "timeTo": "11:30 am"
+}, {
+    "timeFrom": "11:30 am",
+    "date": "8",
+    "description": "Esri and IBM have teamed up to deliver ArcGIS on IBM Cloud. Build and deploy your geospatial applications using Watson Data Platform on IBM Cloud. Watson Data Platform enables data scientists and data engineers to discover, refine, analyze and visualize their data, all in one place, without worrying about the infrastructure. IBM has integrated popular open-source tools and libraries such as Python and Jupyter notebook into the platform. ",
+    "title": "IBM Sponsored SIG",
+    "speakers": [],
+    "location": "Primrose A",
+    "keywords": [""],
+    "timeTo": "12:30 pm"
+}, {
+    "timeFrom": "11:30 am",
+    "date": "8",
+    "description": "",
+    "title": "Hosted Lunch",
+    "speakers": [],
+    "location": "Esplanade",
+    "keywords": [""],
+    "timeTo": "1:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "Learn how to harness the capabilities of ArcGIS Enterprise dynamic map services using the ArcGIS API 4.x for JavaScript. This session will provide an overview of the MapImageLayer class (ArcGISDynamicMapServiceLayer in 3.x), and explore its best features through code examples and demonstrations. ",
+    "title": "Working with Dynamic Map Services in the ArcGIS API 4.x for JavaScript",
+    "speakers": ["Yann Cabon", "Noah Sager"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Web"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "Maximizing the efficiency of your field workforce is key to a successful mobile strategy and with Workforce for ArcGIS now you can plan, monitor and streamline field to office workflows using the ArcGIS platform. Join this workshop to learn about Workforce, see how it integrates and remotely controls other Esri field apps, and discover what's new and where we are headed in 2018. ",
+    "title": "What's New in Workforce for ArcGIS",
+    "speakers": ["Craig Gillgrass", "Jeff Shaner"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "Learn about the fundamentals of unit testing for enterprise scale ArcGIS API for JavaScript applications. This session will teach you the value of unit testing, basic techniques and best practices, as well as how to integrate testing workflows into planning, continuous integration, and source control using modern testing frameworks and tools. ",
+    "title": "Javascript Applications for the Enterprise: Test More, Work Less",
+    "speakers": ["Randy Jones", "George Bochenek"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "Everyone is talking about GitHub, but what is it exactly? In this session we'll explain what makes GitHub such a great collaboration tool and cover the basics of version control (git) using examples that don't require any coding experience. We'll also talk about how Esri uses GitHub and how you can get involved. ",
+    "title": "GitHub for Geographers",
+    "speakers": ["Patrick Arlt", "John Gravois"],
+    "location": "Mesquite G-H",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "ArcGIS Runtime provides core tools to display a map, geocode locations, and calculate routes. But what if you need to take your app offline, and need a locally stored map supporting these core capabilities? StreetMap Premium for ArcGIS Runtime provides a global library of ready-to-use offline maps. See how easy it is to deploy with your Runtime app today, and enable your app to geocode, route, and map all while disconnected. ",
+    "title": "Take Your App Offline with StreetMap Premium for ArcGIS Runtime",
+    "speakers": ["Rex Hansen", "Frank Kish"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "Arcade is a scripting language that may be used to create custom visualizations, popup content, and labeling expressions for apps built on the ArcGIS platform. Sometimes simple calculations can provide more insight instead of field values when creating data-driven visualizations. Arcade allows you to drive visualizations, popup content, and labels by a value returned from an expression rather than a field value. This session will provide an overview of how to navigate the Arcade documenation while highlighting some of the key functions available in Arcade and the ArcGIS API for JavaScript. View examples of how powerful Arcade can be when creating visualizations and labels for a FeatureLayer. Also, observe how the live Arcade editor in ArcGIS Online can be a powerful tool in helping you write, edit, debug, and execute custom expressions. ",
+    "title": "ArcGIS API for JavaScript: Using Arcade with Your Apps",
+    "speakers": ["Kristian Ekenes", "Dave Bayer"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "In this session we will discuss advanced developer techniques with AppStudio for ArcGIS. In particular, we will cover some of the latest enhancements added to AppStudio such as support for high accuracy GNSS receivers, biometric logins, improved data access utilities and more. ",
+    "title": "Developing Cross-Platform Native Apps with AppStudio for ArcGIS: Advanced",
+    "speakers": ["Siddesh Pillai", "Liwei Gao", "Erwin Soekianto"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "ArcGIS Enterprise is ever-evolving and advancing. Join us at this session for details on what's new in the product, including recent developments and enhancements to ArcGIS Enterprise performance and administration, ArcGIS Enterprise portal, GeoAnalytics server and others. Learn how you can harness new capabilties to advance and expand your GIS. ",
+    "title": "What's New in ArcGIS Enterprise",
+    "speakers": ["Hilary Curtis", "Philip Heede"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "ArcGIS developers build rich tools and applications that help solve a wide variety of real-world problems. In this session, learn how to expand your domain of expertise into the world of scientific data analysis. Explore how to ingest, analyze and integrate scientific data into your applications. SciPy is a rich set of Python modules for scientific and technical computing. This session will focus on how you can leverage SciPy to be more efficient, solve challenging scientific problems from within ArcGIS, and build hybrid applications that capitalize on both the strengths of ArcGIS and the Python ecosystem. Using real-world case studies explore best practices and programming patterns for leveraging SciPy. ",
+    "title": "Scientific Programming with the SciPy Stack",
+    "speakers": ["Shaun Walbridge", "Kevin Butler"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "Attend this session to learn about the important concepts that will allow you to build great ArcGIS Runtime apps for the devices that it supports. Get an insight into the cross-platform design process at esri and the techniques we used to redesign the new version of Collector for ArcGIS aka Aurora. ",
+    "title": "ArcGIS Runtime: Building Great User Experiences",
+    "speakers": ["Dawit Elias", "Nick Black"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "",
+    "title": "Make Your iOS Apps Come Alive With Map Animations",
+    "speakers": ["Nicholas Furness"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "1:30 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "",
+    "title": "Getting Started with the ArcGIS Pro SDK. for .NET",
+    "speakers": ["Rob Burke"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "8",
+    "description": "As GIS Developers we often work with huge datasets which are many times larger than available system memory in even the highest-end desktop computers. When crunching that much data, including multiprocessing and parallelization strategies in your tools can have a huge impact on their efficiency and thus the bottom line. Several strategies will be demonstrated to utilize multiprocessing and async/await patterns with both raster and vector data in your ArcPy scripts. ",
+    "title": "Vector and Raster Multiprocessing with ArcPy",
+    "speakers": ["Clinton Dow", "Neeraj Rajasekar"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "8",
+    "description": "",
+    "title": "Preparing Your Data for Offline Use with ArcGIS Runtime",
+    "speakers": ["Justin Colville", "Antti Kajanus"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "8",
+    "description": "With the release of the next generation of the runtime SDK (codename Quartz), GIS developers will be looking for ways in which they stand to benefit from this release. Among the key areas most developers will be concerned with will be bugs fixes, improvement in functionalities or gaps in functionality, support for new and emerging technologies, new or recommended workflows and most importantly any changes in coding paradigm. The first three are typically areas where documentation can be provided to help guide users; however recommended workflows and coding paradigms are areas where it might be prudent to give a demonstration to users in regards to the new release. ",
+    "title": "ArcGIS Runtime SDKs: Key Benefits in Coding Patterns and Workflows in Version 100.x",
+    "speakers": ["Kwasi Asante"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": [""],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:30 pm",
+    "date": "8",
+    "description": "The new sketch tools in the ArcGIS API 4.x for JavaScript provides the building blocks for enabling advanced drawing capabilities. Developers can have complete control to create and modify geometries. These powerful tools are highly customizable, with a focus on a clean user experience across multiple platforms and input devices. This session will highlight some of the best features through code examples and demos. We'll also explore what to expect in future releases of the sketch tools. ",
+    "title": "Sketching with the ArcGIS API for JavaScript",
+    "speakers": ["Bjorn Svensson", "Jonathan Uihlein"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "This session will get you oriented on how to take advantage of the imagery capabilities offered in the ArcGIS Runtime SDK. We'll cover general topics such as working with local imagery and rasters with various formats and projections, accessing ArcGIS Image Services, and working with raster functions for both visualization and analysis. We'll also delve into some new features in the ArcGIS Runtime SDK latest releases. ",
+    "title": "Integrating Imagery into ArcGIS Runtime SDK Applications",
+    "speakers": ["Zhiguang Han", "Jie Zhang"],
+    "location": "Santa Rosa",
+    "keywords": ["Imagery/Raster", "Esri Technical Session"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "Learn how to organize many minds around a common design goal while remaining as efficient as possible. Come learn from Esri designers on the best collaborative brainstorming techniques and approaches in our arsenal. ",
+    "title": "Design: Collaborative Brainstorming",
+    "speakers": ["Mitchel Cox", "Alexander Smailes"],
+    "location": "Mesquite G-H",
+    "keywords": ["UX/UI", "Esri Technical Session"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "This session picks up where the Customizing and Extending Web AppBuilder session leaves off. Learn advanced tools and techniques using modern JavaScript tooling and streamline your Web AppBuilder custom widget and theme development. It includes: ' How to incorporate builds into your development process ' Using the TypeScript transpiler during widget development ' Using the yeoman generator to speed up development pace ' Extending OOTB widgets cleanly ' SASS CSS compiling within WAB development workflows. ",
+    "title": "Web AppBuilder for ArcGIS: Advanced Development Tools and Techniques",
+    "speakers": ["Gavin Rehkemper", "George Bochenek"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "Learn how to integrate your framework of choice with the ArcGIS API for JavaScript! We'll cover various frameworks, how to integrate them, challenges and best practices for you to build awesome apps! ",
+    "title": "Using Frameworks with the ArcGIS API for JavsScript",
+    "speakers": ["Rene Rubalcava", "Tom Wayson"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "There are many benefits of using vector tile layers. Some of these benefits include: (1) The ability to display vector data at the native resolution of your device; (2) a means for developers to simply manage map styles rather than a full tile set; (3) the ability to build interactive apps without compromising performance. In this session, we will take a holistic approach for demonstrating how you can work with vector tile layers from start to finish. We'll author vector tile layers in Pro, publish them to ArcGIS Online and ArcGIS Enterprise, and show how you can have fun with them as a developer with the ArcGIS API for JavaScript. ",
+    "title": "Bringing Your Data to Life in the ArcGIS API for JavaScript: Vector Tiles",
+    "speakers": ["Jeremy Bartley", "Craig Williams"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "The Python ecosystem is rich with a set of libraries that allow you to dissect and explore your data. Couple that with an interactive environment such as Jupyter notebooks and ArcGIS API for Python, you get yourself a versatile environment to perform exploratory GIS analysis that you can create and drive by little snippets of Python code. Stop by for an interesting talk on how you can use powerful visualization, statistics and ArcGIS to better understand your data. ",
+    "title": "ArcGIS API for Python: Mapping, Visualization and Analysis",
+    "speakers": ["Andrew Chapkowski", "Atma Mani"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "ArcGIS Indoors is Esri's latest product offering and is a complete system that brings The Science of Where to indoor spaces. Join the ArcGIS Indoors team for an overview of how you can take the geographic approach to problem solving inside your buildings. We'll cover how to assemble indoor data, add business value, and share it with web and mobile clients to support a wide range of workflows. This will be followed by a brief discussion on indoor positioning, complete with context of where it can and should add value. ",
+    "title": "ArcGIS Indoors: An Introduction",
+    "speakers": ["Nitin Bajaj", "Jeff Archer", "Patrick Wallis", "Craig McCabe"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "You can make decisions at a glance with Operations Dashboard for ArcGIS. Come to this session and learn how you can build stunning, real-time dashboards using the new web experience that is a part of Operations Dashboard. ",
+    "title": "What's New in Operations Dashboard for ArcGIS",
+    "speakers": ["Dave Nyenhuis", "Tif Pun", "Patrick Brennan"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "Come and join the Dev team as they share with you some of the new capabilities we will be releasing this year. ",
+    "title": "ArcGIS Runtime: Road Ahead",
+    "speakers": ["Euan Cameron", "David Cardella"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "",
+    "title": "Getting Started with the ArcGIS Pro SDK. for .NET",
+    "speakers": ["Rob Burke"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "How do I pick the best transformation? What if there's no available transformation? I just upgraded from 10.3 to 10.5.1 and I don't see transformations that I used before. What's going on? How are vertical transformations connected to geographic (datum) transformations? ",
+    "title": "What You Should Know About Geographic (Datum) and Vertical Transformations",
+    "speakers": ["Bojan Savric", "Melita Kennedy"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geoprocessing"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "ArcGIS contains a rich set of experiences for delivering 3D web applications with WebGL from the ArcGIS API for JavaScript to the Scene Viewer and Web AppBuilder. ArcGIS JavaScript capabilities use WebGL to render 3D in the browser with no plug-ins. This session will provide a brief overview of the capabilities and relationships of Esri's JavaScript 3D offerings along with demos and tips showing what can be done with web-based 3D apps. Presenters will also touch on technologies such as Scene Layers, mobile apps, and how they relate to JavaScript experiences. ",
+    "title": "3D with WebGL in ArcGIS",
+    "speakers": ["Chris Andrews", "Javier Gutierrez"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "3D"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "2:30 pm",
+    "date": "8",
+    "description": "",
+    "title": "Turbocharge Feature Display On iOS With Popups",
+    "speakers": ["Suganya Baskaran"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Runtime"],
+    "timeTo": "3:00 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "8",
+    "description": "Solving large network analysis problems can be slow and memory intensive. For example, how do you find the three closest clinics for millions of patients or calculate a drive-time polygon around every store in your chain without waiting forever or running out of memory? This session will discuss methods to solve large network analysis problems efficiently, including ways to split the problem into smaller chunks and parallelize the analysis. ",
+    "title": "Python: Solving Large Network Problems",
+    "speakers": ["Deelesh Mandloi", "Melinda Morang"],
+    "location": "Demo Theater 3 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geoprocessing"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "8",
+    "description": "This session will go into detail on the utility network's tracing framework and its many available configurations for performing advanced tracing operations. ",
+    "title": "Using Geoprocessing for Configuring Advanced Tracing Analytics with the Utility Network",
+    "speakers": ["Rick Anderson", "Tom Brown"],
+    "location": "Demo Theater 2 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "Geodatabase"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "3:00 pm",
+    "date": "8",
+    "description": "As soon as GIS went 3D, uses started experimenting with putting one of the most widely created 3D data types in GIS context, Building Information Modeling (BIM) data. This session will cover the existing capabilities of the ArcGIS platform to consume BIM information. Participants will be given a list of tips for advising customers in better BIM standards for GIS integration. Finally, the talk will cover the future roadmap for BIM-GIS integration with ArcGIS. ",
+    "title": "Roadmap for BIM-GIS Interoperability",
+    "speakers": ["Rafael Fernandes", "Don Kuehne"],
+    "location": "Demo Theater 1 - Oasis 1",
+    "keywords": ["Demo Theater Presentation", "3D"],
+    "timeTo": "3:30 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "This session will provide an update on the development plans and roadmap for Real-Time GIS including ArcGIS GeoEvent Server and the spatiotemporal big data store. ",
+    "title": "Real-Time GIS: Road Ahead",
+    "speakers": ["Adam Mollenkopf", "Suzanne Foss"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Real-Time GIS"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "ArcGIS Pro is the premier desktop GIS for 2D and 3D mapping, analysis and editing. Come and hear from senior members of the ArcGIS Pro team as they discuss ArcGIS Pro's latest capabilities and what's planned for the future. ",
+    "title": "ArcGIS Pro: The Road Ahead",
+    "speakers": ["Stefan Balbo", "Rob Elkins Jr", "Nathan Shephard", "Charlie Macleod", "Jim McKinney", "Craig Williams", "Drew Flater", "David Watkins"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "Building apps that run across devices and on multiple platforms is a common requirement in today's world. However, this can be very costly to implement. Attend this session to learn how technologies like Qt, .NET and Java can help you build apps that run on many platforms. ",
+    "title": "ArcGIS Runtime: Building Cross-Platform Apps",
+    "speakers": ["Morten Nielsen", "Rex Hansen", "Michael Tims", "Mark Baird"],
+    "location": "Primrose C-D",
+    "keywords": ["Runtime"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "Python has positioned itself as a highly suitable programming / scripting language for data exploration and analysis with its rich ecosystem of libraries such as NumPy, SciPy, pandas, maptplolib, scikit-learn, etc. and interactive visualization environments such as Jupyter notebooks. The ArcGIS Python API follows suite in being your library for comprehensive analyses of geospatial data. With an intuitive design and easy to use syntax, the API opens up access to rich geoprocessing services and big data analysis capabilities of your web GIS. Join us at this tech workshop to learn how you can use ArcGIS Python API \n- to tap into the geospatial component of your big data datasets and discern meaningful patterns \n- to analyze and visualize spatial patterns in interactive Jupyter notebooks \n- with other data analysis libraries to solve real world problems ",
+    "title": "ArcGIS API for Python for Analysts and Data Scientists",
+    "speakers": ["Andrew Chapkowski", "Rohit Singh"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "Learn how to build 3D representations of open spaces, parks and streetscapes using Esri's CityEngine technology. First, this session will explore using open data sources to rapidly create 3D scenes from neighborhoods to whole cities. By using procedural rules, the presenters will then show how to efficiently distribute 3D vegetation models, place street furniture, generate street geometries, and modify the terrain. Also, web scene publication workflows will be explained. Finally, an overview of the new planning features in CityEngine 2018 will be given. ",
+    "title": "Building 3D Streets, Parks and Open Spaces with CityEngine",
+    "speakers": ["Pascal Mueller", "Eric Wittner"],
+    "location": "San Jacinto",
+    "keywords": ["3D"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "This session will cover a broad spectrum of topics as it relates to ArcGIS Enterprise operations in the cloud, with a focus on Amazon Web Services (AWS). Learn operational best practices, from automation to monitoring, patching and upgrades. In addition, topics will cover managing costs, sizing and performance. This session is a must for anyone interested in cloud operations. ",
+    "title": "ArcGIS Enterprise: Cloud Operations Using Amazon Web Services",
+    "speakers": ["Derrick Burke", "Mark Carlson", "Cherry Lin"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "Ember is a popular framework for creating \"ambitious web applications\". This session will review how leverage the ArcGIS Platform from within an Ember 2.x application. We will cover authentication (OAuth), interacting with the Portal Services (Items/Groups/Users) as well as working with the JS API itself. We will also cover how you can use the many open-source Ember Addons that Esri has created for use in our products. ",
+    "title": "Audacious Enterprise GIS Apps with EmberJs",
+    "speakers": ["Mike Juniper", "David Bouwman"],
+    "location": "Catalina-Madera",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "In this session, we'll cover how you can customize widgets in the ArcGIS API 4.x for JavaScript. You'll learn about widget view-models and how they make it easy to rewrite a widget's UI. We'll also cover using out-of-the-box themes, as well as creating custom themes using Sass. ",
+    "title": "Customizing the ArcGIS API for JavaScript Widgets",
+    "speakers": ["Alan Sangma", "Matt Driscoll", "Juan Carlos Franco"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "This session will include tips and tricks about how to get the most performance out of your batch geocoding jobs across the ArcGIS platform. We will discuss how to optimize locators and job properties to speed up batch geocoding in ArcGIS Desktop and ArcGIS Enterprise. ",
+    "title": "High Performance Batch Geocoding with ArcGIS",
+    "speakers": ["Bruce Harold", "Victor Bhattacharyya"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Geoprocessing"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "4:00 pm",
+    "date": "8",
+    "description": "This session delves into the ArcGIS API for JavaScript GeometryEngine and demonstrates a few of the powerful UX capabilities it can bring to web applications. We'll review how GeometryEngine can be used to customize editing applications, providing instant feedback to the user. It allows you to control a user's editing operations before they push final edits to the server. Also, come to learn about how the measurement and overlay methods of GeometryEngine can be used to enhance your apps. This session will inspire you to explore other GeometryEngine methods and create complex apps with capabilities that would otherwise not be possible without client-side geometry operations. ",
+    "title": "Building Interactive Web Apps Using the ArcGIS API for JavaScript Geometry Engine",
+    "speakers": ["Kristian Ekenes", "Dave Bayer"],
+    "location": "Smoketree A-E",
+    "keywords": ["Web"],
+    "timeTo": "5:00 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "This session will cover a broad spectrum of topics as it relates to ArcGIS Enterprise operations in the cloud, with a focus on Microsoft Azure. Learn operational best practices, from automation to monitoring and patching. In addition, topics will cover managing costs, sizing and performance. This session is a must for anyone interested in cloud operations. ",
+    "title": "ArcGIS Enterprise: Cloud Operations Using Microsoft Azure",
+    "speakers": ["Nikhil Shampur"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "This technical session will teach Web GIS administrators how to use the ArcGIS Python API to automate most of their repetitive tasks and use scripts instead of using the UI and clicking their way through. It will demonstrate scripting of common administrative tasks such as setting up a Portal and populating it with users, groups and content, migrating GIS resources from staging to production, checking credit consumption and usage statistics of GIS resources and content validation workflows. It will also cover strategies for scheduling these scripts to run at periodic intervals. ",
+    "title": "ArcGIS API for Python: Administering Your Web GIS",
+    "speakers": ["Bill Major II", "Andrew Chapkowski"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "You already know about projections, datums, and when not to choropleth, come see how the other nerd-half live and learn the basics of the building web applications with JavaScript. We will cover essential JavaScript concepts you will need to know when working with the ArcGIS API for JavaScript. We will also talk about the best way to learn JavaScript moving forward, how to keep your skills up to date, when (and how) to integrate new tools and frameworks into your projects, and how to navigate the exploding JavaScript ecosystem. ",
+    "title": "JavaScript for Geographers",
+    "speakers": ["Patrick Arlt", "John Gravois"],
+    "location": "Primrose A",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "Editing data in the field or the office is a common requirement for many organizations. This session will present the capabilities and patterns for editing data whether you have a network connection or if it is slow or non-existent. ",
+    "title": "ArcGIS Runtime: Editing Your Data Online and Offline",
+    "speakers": ["Euan Cameron", "Justin Colville", "Antti Kajanus"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "",
+    "title": "ArcGIS Mobile Apps: The Road Ahead",
+    "speakers": ["Jeff Shaner", "Ismael Chivite", "Jeff Jackson"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "Interactive experiences, whether on the screen or in VR/AR, are the next big step in 3D GIS. In this session, you will get an introductory guide to Unity and Unreal, the leading game engines. You will learn to build 3D experiences that allow you to walk through realistically rendered city models or to explore interactive storytelling of your 3D project. We will also demonstrate how to import, create and prepare 3D data in CityEngine and export it efficiently into the game engines. Finally, an overview of the new interoperability features in CityEngine 2018 will be given. ",
+    "title": "High-End 3D Visualization with CityEngine, Unity and Unreal",
+    "speakers": ["Stefan Arisona", "Pascal Mueller", "Eric Wittner"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "3D"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "Learn how you can leverage the WebGL capabilities of your browser with the JavaScript API to build stunning 3D web applications. This session will focus on more advanced aspects like: camera operations, atmosphere and lighting and performance. Also learn how to extend the API using custom WebGL code to create custom visualizations and integrate it with libraries such as Three.js. ",
+    "title": "Advanced 3D Features in the ArcGIS API for JavaScript",
+    "speakers": ["Thomas Other", "Jesse van den Kieboom"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "Learn how to prepare your enterprise-scale ArcGIS API JavaScript applications for production. In this session, you'll learn best practices for creating productionready applications, focusing on development techniques and automated build processes. We'll walk through building a sample applications, as well as applying these techniques to the ArcGIS Web AppBuilder. ",
+    "title": "Javascript Applications for the Enterprise: Building for Production",
+    "speakers": ["Randy Jones", "George Bochenek"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "Learn how to use the ArcGIS Pro SDK with Imagery and Raster data to create compelling add-ins. Developers can use the ArcGIS Pro SDK to control how their imagery and raster data is displayed, read/write pixels and properties and control how data is processed. ",
+    "title": "ArcGIS Pro SDK for .NET: Working with Rasters and Imagery",
+    "speakers": ["Prashant Mangtani", "Ling Tang"],
+    "location": "Santa Rosa",
+    "keywords": ["Imagery/Raster", "Esri Technical Session"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "5:30 pm",
+    "date": "8",
+    "description": "Calcite Maps is a new map app development framework built on top of Calcite and Bootstrap. Join us to learn what the framework is and how you can leverage it to quickly develop custom web and mobile mapping apps. Key map app design concepts stemming from the Calcite project, the new Styler app template, and the ArcGIS JavaScript 4.x API will also be covered. ",
+    "title": "Designing Apps with Calcite Maps",
+    "speakers": ["Allan Laframboise"],
+    "location": "Mesquite G-H",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "6:30 pm"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "Workforce for ArcGIS helps you visualize you workforce in the field and send them assignments of tasks to complete. Attend the session to learn how to use Python to automate creating and assigning tasks in Workforce for ArcGIS. ",
+    "title": "Automating Workforce for ArcGIS with Python",
+    "speakers": ["Aaron Pulver"],
+    "location": "San Jacinto",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "This session will provide an overview of the utility network .NET API in ArcGIS Pro to create custom tools and applications for electric, gas, waster and waste water utilities. ",
+    "title": "ArcGIS Pro SDK for .NET: An Overview of the Utility Network Management API",
+    "speakers": ["Rich Ruh", "David Crawford"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Geodatabase"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "This is a YOU session. The content comes from you, the audience. The first part of this session is spent collecting and recording as many questions as possible, as quickly as possible, no answers are given during this time. The rest of the session is about answering each question. The questions are handled one-by-one by a panel made up of Esri developers from the ArcGIS Runtime team. It's that simple! No question is out of bounds, no question is 'dumb', no question is too technical, no judgments are made. Just an informative time of interaction between you, the developer, and the ArcGIS Runtime development team! ",
+    "title": "ArcGIS Runtime: Everything (or Anything) You Wanted to Know About the ArcGIS Runtime SDKs but Were Afraid to Ask",
+    "speakers": ["Morten Nielsen", "Euan Cameron", "Rex Hansen", "Justin Colville"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "ArcGIS Enterprise brings powerful mapping and spatial reasoning to your infrastructure. This session will offer a sneak peek at capabilities planned for upcoming releases, as well as a view into some of the research and development projects currently underway for the product. ",
+    "title": "ArcGIS Enterprise: The Road Ahead",
+    "speakers": ["Jay Theodore", "Philip Heede"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "Learn how to build lightweight mapping applications with Leaflet and open source Esri Leaflet plugins. These tools allow you to access key capabilities of the ArcGIS platform like basemaps, feature services, and map services. We'll combine these tools with other plugins from the Leaflet community and dig into a few sample applications together. ",
+    "title": "Building Apps with Leaflet and the Esri Leaflet Project",
+    "speakers": ["John Gravois"],
+    "location": "Primrose A",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "Learn how to build powerful imagery applications using the out-of-the-box features built into the ArcGIS API for JavaScript (3.x and 4.x) and Web AppBuilder. This session covers a wide range of development patterns along with a full API review of server side dynamic processing, as well as responsive client side pixel filtering using JavaScript and WebGL. Publicly accessible imagery applications, widgets, and Github repos are also covered. ",
+    "title": "Developing Imagery Apps Using the ArcGIS API for JavaScript and WebApp Builder",
+    "speakers": ["Chayanika Khatua", "Naila Khan"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Imagery/Raster", "Esri Technical Session"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "Leveraging components of the ArcGIS Platform including ArcGIS Enterprise, Portal for ArcGIS, Geoprocesing and Pipeline Referencing to enable linear referencing as apps and services across the entire organization. In this presentation you will learn to publish linear referenced data as REST services that can be consumed by Esri and custom developed apps through Portal for ArcGIS. ",
+    "title": "ArcGIS Pipeline Referencing: Leveraging the ArcGIS Platform for Linear Referencing within the Enterprise",
+    "speakers": ["Anjali Bhangay"],
+    "location": "Santa Rosa",
+    "keywords": ["Professional Services", "Esri Technical Session"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "Learn how to build 3D interactive web applications using the 4 version of the ArCGIS API for JavaScript and ArCGIS Online/Portal for ArcGIS webscenes. Using webscenes in your applications minimizes the amount of code needed to build interactive web applications. The webscene author creates the scene, adds layers, configures an attractive popup and styles the scene to bring the data to life. Once the webscene is ready the developer can use it to quickly build attractive interactive apps. ",
+    "title": "A Holistic Approach to Building 3D Web Apps",
+    "speakers": ["Raluca Nicola", "Russell Roberts"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "Smart Mapping allows experts and novices alike to explore and understand their data faster, making better maps with more confidence and less effort. Attend this session to see how exploring your data in Online not only improves your web maps, but also inspires ideas for custom map styles and custom apps. Learn about the exciting new enhancements behind our ongoing Smart Maps initiative for ArcGIS Online. See how we've re-envisioned mapping through datadriven workflows, intelligent defaults, coordinated styling, automated scale ranges, new thematic renderers, and streamlined interfaces. ",
+    "title": "Data Exploration with Smart Mapping in Online",
+    "speakers": ["Jim Herries", "Jennifer Bell"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "The release of the 4.x series of the ArcGIS API for JavaScript not only provided developers with a reimagined and improved 2D API, but it also introduced powerful 3D visualization capabilities that allow developers to create stunning 3D experiences. This presentation will demonstrate how to combine the capabilities of the ArcGIS 4.x API with the Angular CLI (Command Line Interface), to quickly stand up sophisticated GIS web apps. We will walk through setting up the development environment, review best practices for integrating these two technologies, and see how to quickly build reusable mapping components that communicate effectively with your audience. ",
+    "title": "Rapid Application Development with ArcGIS API for JavaScript 4.x and Angular CLI",
+    "speakers": ["Sean Olson"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "WebOps"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "Learn the basics of web accessibility and implementation using the ArcGIS API for JavaScript from a developer's perspective. We will provide an overview of the Web Content Accessibility Guidelines (WCAG). We will then introduce the core knowledge and techniques for implementing accessible web components, including managing keyboard focus, writing semantic HTML, and applying WAIARIA for custom widgets. We will also discuss approaches to map accessibility and automated testing. ",
+    "title": "Accessible Web Mapping Apps: ARIA, WCAG and 508 Compliance",
+    "speakers": ["Kelly Hutchins", "Tao Zhang"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "8:30 am",
+    "date": "9",
+    "description": "GeoEvent Server expands the capabilities of ArcGIS Enterprise enabling organizations to connect with virtually any type of streaming data and perform continuous analytics on data as it is received to alert personnel when specified conditions occur, all in real time. This session will introduce how you can not only configure additional connectors and processors in GeoEvent but also walk through the GeoEvent SDK so that you can develop fully customized components. You will learn how to add your own Connector to bring in and send new streams of information. You will also learn how to add your own Processor that can be used to perform new kinds of continuous analysis on events as they are received. The GeoEvent SDK is based on Java so a basic knowledge of Java will be helpful for this session. ",
+    "title": "GeoEvent Server: Creating Connectors and Processors Using the GeoEvent SDK",
+    "speakers": ["Javier Delgadillo", "Ming Zhao"],
+    "location": "Mesquite B",
+    "keywords": ["Esri Technical Session", "Real-Time GIS"],
+    "timeTo": "9:30 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "ArcGIS Hub builds smart communities for close collaboration with governments and citizens that are driven by focused initiatives. Developers can discover, create, and share data-driven applications that improve collaboration through analytics-based decision making. Hub-Ready Apps extend WebGIS so that solutions built by the community are deeply integrated with an organization's Hub. These capabilities include adopting brand guidelines with shared themes, seamless connection to live data through indicator awareness, and meeting the organization's requirements such as data citation and accessibility consideration. When an app is Hub-Ready it can be easily reused and shared across many municipalities by many developers. ",
+    "title": "Building Hub-Ready Apps for Consituent Engagement",
+    "speakers": ["John Gravois", "Tom Wayson"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": [""],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "In this session, product managers and development leads will discuss the road map for the future for the ArcGIS API for JavaScript, as well as Web AppBuilder for ArcGIS, and configurable web application templates and more. ",
+    "title": "Web Development: The Road Ahead",
+    "speakers": ["Jianxia Song", "Andy Gup"],
+    "location": "Primrose B",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "ArcGIS Maps for SharePoint is an integrated application that enables the use of Esri's ArcGIS Platform. You can quickly create dynamic, interactive maps of your SharePoint data and start exploring your data in a whole new way. You can also provide a set of interactive and configurable mapping components for use with existing Microsoft SharePoint sites using the ArcGIS for JavaScript API. This workshop will demonstrate the value of the product using a number of use case scenarios as well as the key new features of the latest releases. ",
+    "title": "Extending ArcGIS Maps for Sharepoint",
+    "speakers": ["Scott Ball", "Quan Tang"],
+    "location": "Santa Rosa",
+    "keywords": ["Esri Technical Session", "Apps"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "This session will focus on creating polished, well-designed and useful geoprocessing tools with Python. We'll discuss validation in more depth, cover debugging script tools with emphasis on the new experience in ArcGIS Pro. We'll also focus on strategies for organizing and distributing your toolbox code, and creating tools that behave well as geoprocessing services. ",
+    "title": "Building Geoprocessing Tools with Python: Beyond the Basics",
+    "speakers": ["David Wynne"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Geoprocessing"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Stop guessing and start learning. Join Esri designers and user-researchers for a workshop that introduces the basics of usability testing and how to do it yourself. ",
+    "title": "DIY Usability Testing",
+    "speakers": ["Richard Caballero", "Erich Rainville", "Andy Eveland", "Kyle Jones"],
+    "location": "Smoketree A-E",
+    "keywords": ["UX/UI", "Esri Technical Session"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Learn how to customize and extend ArcGIS Pro with its .NET SDK. We'll show you how you can get up and running quickly with the Add-in and Configuration customization patterns, declarative programming with DAML, and asynchronous programming with ArcGIS Pro's QueuedTask. ",
+    "title": "ArcGIS Pro SDK for .NET: Beginning Pro Customization and Extensibility",
+    "speakers": ["Wolf Kaiser", "Uma Harano"],
+    "location": "Primrose A",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Learn how to extend ArcGIS Enterprise using its server-side development model. We'll cover how you can use Server Object Extensions (SOEs) and Server Object Interceptors (SOIs) to provide custom functionality, improved performance, and finer-grained control to your web and mobile applications. Note, it is recommended for attendees to have experience with ArcObjects development in .NET or Java. ",
+    "title": "Extending ArcGIS Enterprise",
+    "speakers": ["Shreyas Shinde", "Carsten Piepel"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Many developers are looking to migrate their current apps built on ArcGIS Engine to ArcGIS Runtime so that they can take advantage of the new capabilities and faster performance. Attend this session to learn about tips and techniques you'll need to migrate your .Net, Java and C++ applications. This session also covers some of the user workflow changes required when moving your apps to the runtime. ",
+    "title": "ArcGIS Runtime: Migrating from ArcGIS Engine",
+    "speakers": ["Rex Hansen", "Mike Branscomb"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Esri Geoportal Server is a free, open source product that enables discovery and use of geospatial resources including datasets, rasters, and Web services. It helps organizations manage and publish metadata for their geospatial resources to let users discover and connect to those resources. The Geoportal Server also provides extensions to ArcGIS that enable use of ArcGIS in heterogeneous data sharing environments. ",
+    "title": "Esri's Open Source GeoPortal Server: Building Discovery Solutions",
+    "speakers": ["Marten Hogeweg"],
+    "location": "Primrose C-D",
+    "keywords": ["Professional Services", "Esri Technical Session"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Distributed analysis is a new capability introduced at ArcGIS Enterprise 10.5. This session will explain the concept of distributed analysis in ArcGIS as it relates to imagery and GIS rasters. The session will also cover how to deploy this capability in your Enterprise GIS, the applications and user experiences used to interact with his capability, and the APIs you can use to develop your own applications that take advantage of distributed analysis. ",
+    "title": "Distributed Image Analysis Using the ArcGIS API for Python",
+    "speakers": ["Elizabeth Graham", "Jie Zhang"],
+    "location": "San Jacinto",
+    "keywords": ["Imagery/Raster", "Esri Technical Session"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Learn about Esri's new utility network technology designed to provide utility customers the ability to model, edit, and analyze complex networks of facility infrastructure using all Esri platform clients ",
+    "title": "Insight into the ArcGIS Utility Network Management Extension",
+    "speakers": ["Erik Hoel", "Rick Anderson", "Tom Brown", "Larry Young"],
+    "location": "Mesquite B",
+    "keywords": ["Esri Technical Session", "Geodatabase"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "10:00 am",
+    "date": "9",
+    "description": "Python has positioned itself as a highly suitable programming / scripting language for data exploration and analysis with its rich ecosystem of libraries such as NumPy, SciPy, pandas, maptplolib, scikit-learn, etc. and interactive visualization environments such as Jupyter notebooks. The ArcGIS Python API follows suite in being your library for comprehensive analyses of geospatial data. With an intuitive design and easy to use syntax, the API opens up access to rich geoprocessing services and big data analysis capabilities of your web GIS. Join us at this tech workshop to learn how you can use ArcGIS Python API \n- to tap into the geospatial component of your big data datasets and discern meaningful patterns \n- to analyze and visualize spatial patterns in interactive Jupyter notebooks \n- with other data analysis libraries to solve real world problems ",
+    "title": "ArcGIS API for Python for Analysts and Data Scientists",
+    "speakers": ["Andrew Chapkowski", "Rohit Singh"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "11:00 am"
+}, {
+    "timeFrom": "11:00 am",
+    "date": "9",
+    "description": "",
+    "title": "Developer Summit Closing Session and Hosted Lunch",
+    "speakers": [],
+    "location": "Oasis 3-4",
+    "keywords": [""],
+    "timeTo": "1:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "GeoAnalytics Server performs scalable and distributed batch analysis on feature and tabular data that has both spatial (location) and temporal (time) components. With over a dozen analytical tools, GeoAnalytics provides the framework you need to summarize, visualize and analyze patterns within large volumes of data. At this session, we will discuss the available analytical tools, how these analytics take advantage of the processing power of multiple machines in ArcGIS Enterprise, and the supported data formats for analysis. We will present real world examples and discuss integrated technology such as the underlying storage and framework. ",
+    "title": "Introduction to GeoAnalytics Server",
+    "speakers": ["Sarah Ambrose", "Noah Slocum"],
+    "location": "Mojave Learning Center",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "In this session we cover advanced customization patterns including custom project and application properties, command filtering, UI customization across multiple add-in solutions, plug and play UI extensibility with embeddable controls and DAML categories. ",
+    "title": "ArcGIS Pro SDK for .NET: Advanced Pro Customization and Extensibility",
+    "speakers": ["Charlie Macleod", "Steve Van Esch"],
+    "location": "Mesquite G-H",
+    "keywords": ["Esri Technical Session", "Pro"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "In this session we will learn some of the basics of TypeScript and how it can help you as a developer using the ArcGIS API for JavaScript. We will also look at how to set up a development environment and use the provided TypeScript definition files. ",
+    "title": "Using TypeScript with ArcGIS API for JavaScript",
+    "speakers": ["Nick Senger", "Jesse van den Kieboom"],
+    "location": "Smoketree A-E",
+    "keywords": ["Esri Technical Session", "Web"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "The Python ecosystem is rich with a set of libraries that allow you to dissect and explore your data. Couple that with an interactive environment such as Jupyter notebooks and ArcGIS API for Python, you get yourself a versatile environment to perform exploratory GIS analysis that you can create and drive by little snippets of Python code. Stop by for an interesting talk on how you can use powerful visualization, statistics and ArcGIS to better understand your data. ",
+    "title": "ArcGIS API for Python: Advanced Scripting",
+    "speakers": ["Atma Mani", "Rohit Singh"],
+    "location": "Mesquite B",
+    "keywords": ["Esri Technical Session", "Online"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "Users want apps that work connected and disconnected from the internet. This session will go into the details on what you need to do as a developer to build apps that work well no matter the internet connection status. ",
+    "title": "ArcGIS Runtime: Working with Maps Online and Offline",
+    "speakers": ["Euan Cameron", "Justin Colville", "Antti Kajanus"],
+    "location": "Mesquite C",
+    "keywords": ["Esri Technical Session", "Runtime"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "Get an overview of the state of the art in VR/AR and learn how to create VR/AR experiences with Esri technology. First, we will present the ArcGIS 360 VR app, a mobile solution to quickly review design scenarios and 3D layers. Next, we will go through the process of bringing 3D GIS data via CityEngine into Unity, the industry standard to create immersive experiences for HTC Vive, Oculus Rift or Microsoft Hololens. Finally, we will present how AR/VR apps can be developed with the ArcGIS Runtime, allowing for example the streaming of hosted 3D content directly into the AR/VR experiences. ",
+    "title": "Virtual Reality (VR) and Augmented Reality (AR) with ArcGIS",
+    "speakers": ["Pascal Mueller", "Adrien Meriaux", "Eric Wittner", "Rex Hansen"],
+    "location": "Primrose C-D",
+    "keywords": ["Esri Technical Session", "3D"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "You already know about projections, datums, and when not to choropleth, come see how the other nerd-half live and learn the basics of the building web applications with JavaScript. We will cover essential JavaScript concepts you will need to know when working with the ArcGIS API for JavaScript. We will also talk about the best way to learn JavaScript moving forward, how to keep your skills up to date, when (and how) to integrate new tools and frameworks into your projects, and how to navigate the exploding JavaScript ecosystem. ",
+    "title": "JavaScript for Geographers",
+    "speakers": ["Patrick Arlt", "John Gravois"],
+    "location": "Primrose A",
+    "keywords": ["Dev 2 Dev", "Esri Technical Session"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "The future of geospatial technology is built upon Web GIS. Covering both ArcGIS Enterprise and ArcGIS Online, this session will be a crash course in Web GIS concepts, technology and implementation options. Whether you are a desktop analyst or a geodeveloper, knowing the basics of Web GIS will help you futureproof your organization's GIS investment and development plans. ",
+    "title": "Web GIS: A Crash Course",
+    "speakers": ["Kelly Gerrow-Wilcox", "Shannon Kalisky"],
+    "location": "Pasadena-Sierra-Ventura",
+    "keywords": ["Esri Technical Session", "Enterprise"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "This session will walk through intermediate and advanced topics of deploying a real-time GIS using ArcGIS GeoEvent Server and the spatiotemporal big data store including: reliability, scalability, how to optimize real-time analytics, and how to avoid common 'gotchas'. ",
+    "title": "Real-Time and Big Data GIS: Best Practices",
+    "speakers": ["Adam Mollenkopf", "Josh Joyner"],
+    "location": "Catalina-Madera",
+    "keywords": ["Esri Technical Session", "Real-Time GIS"],
+    "timeTo": "2:00 pm"
+}, {
+    "timeFrom": "1:00 pm",
+    "date": "9",
+    "description": "In this session, you'll learn the basics of the ArcGIS API 4.x for JavaScript, including the fundamentals of watching for property changes, autocasting, working with Collections, and lazy-loading data in your applications! You'll learn more details about maps, webmaps, layers, 2D and 3D views, UI, and widgets! This is a key session for developers new to the 4.x version of the API. ",
+    "title": "ArcGIS API 4.x for JavaScript: Programming Patterns and API Fundamentals",
+    "speakers": ["Rene Rubalcava", "Matt Driscoll"],
+    "location": "Primrose B",
+    "keywords": ["Web"],
+    "timeTo": "2:00 pm"
+}]

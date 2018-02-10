@@ -1,0 +1,263 @@
+body,
+html {
+    height: 100%;
+    overflow: auto;
+    overflow: initial;
+}
+
+.maincontainer {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+.side {
+    height: 50%;
+    width: 100%;
+    background-color: white;
+    font-family: "Avenir Next W01", "Avenir Next W00", "Avenir Next", "Avenir", "Helvetica Neue", sans-serif;
+}
+
+.header {
+    background-image: url("https://developers.arcgis.com/javascript/latest/assets/img/background-banners/purple-blue.png");
+    background-position-x: 12%;
+    color: white;
+}
+
+.header .title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    font-size: 1.5em;
+}
+
+a {
+    cursor: pointer;
+}
+
+.navigator {
+    position: relative;
+    bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 17px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 0px;
+    vertical-align: middle;
+}
+
+.navigator .tab {
+    background-color: rgba(0, 0, 0, 0.4);
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-top: solid 1px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    display: inline-block;
+}
+
+.navigator .tab:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-top: solid 1px white;
+}
+
+.navigator .active,
+.navigator .active:hover {
+    background-color: white;
+    color: black;
+    border-top: solid 1px white;
+}
+
+.main {
+    height: 50%;
+    width: 100%;
+    z-index: 0;
+}
+
+input[type=date]::-webkit-inner-spin-button,
+input[type=date]::-webkit-outer-spin-button,
+input[type=time]::-webkit-inner-spin-button,
+input[type=time]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=date]::-webkit-calendar-picker-indicator {
+    background-color: transparent;
+}
+
+input[type="date"]::-webkit-clear-button,
+input[type="time"]::-webkit-clear-button {
+    -webkit-appearance: none;
+    display: none;
+}
+
+input[type=date]::-webkit-calendar-picker-indicator:hover,
+input[type=date]::-webkit-calendar-picker-indicator:active {
+    background-color: transparent;
+}
+.content {
+    overflow: auto;
+}
+
+.filters {
+    position: absolute;
+    width: 100%;
+    border-bottom: solid 1px #432580;
+    height: fit-content;
+    color: black;
+    background-color: white;
+    z-index: 1000;
+}
+
+.filters.hidden{
+    visibility: hidden;
+}
+
+.filtersContent {
+    width: 100%;
+    transition-property: height;
+    transition-duration: 1s;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.showHide {
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    height: 20px;
+    cursor: pointer;
+    background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/427199-200.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    transition-property: transform;
+    transition-duration: 1s;
+    z-index: 1;
+}
+
+.filtersContent.filters-open{
+    height: fit-content;
+}
+
+.filtersContent.filters-closed{
+    height: 0px;
+}
+
+.filtersContent.filters-closed * {
+    visibility: hidden;
+}
+
+.showHide.filters-open{
+    margin-top: 5px;
+    transform: rotateX(0deg);
+}
+
+.showHide.filters-closed{
+    transform: rotateX(180deg);
+}
+
+.my-card {
+    border-color:#432580;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+    box-shadow: 3px 3px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+.my-card.selected {
+    border-width: 3px;
+}
+
+.my-card .title {
+    font-size: 1.1em;
+    color: #432580;
+}
+
+.esri-popup .fa,
+.my-card .fa {
+    margin-right: 5px;
+}
+
+.esri-popup .p,
+.my-card p {
+    margin-bottom: 4px;
+}
+
+.period {
+    color: grey;
+}
+
+.location {
+    color: darkorange;
+}
+
+.speakers {    
+    color: green;
+}
+
+.keywords {
+    color: cornflowerblue;
+}
+
+.description {
+    word-wrap: normal;
+    text-align: justify;
+}
+
+.filtersTable label {
+    margin-top: 3px;
+}
+
+.dateTimeFieldContainer {
+    padding-right: 0px;
+}
+
+.fullwidth {
+    width: 100%;
+}
+
+.cardContainer {
+    position: relative;
+    top: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+@media (min-width: 768px) {
+    .side {
+        height: 100%;
+        width: 33.33% !important;
+    }
+    .main {
+        height: 100%;
+        width: 66.67% !important;
+        position: absolute;
+        top: 0;
+        left: 33.33%;
+    }
+    .header .title {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-bottom: 0px;
+        font-size: 2.5em !important;
+    }
+    .my-card {
+        padding: 10px;
+    }
+    .my-card .title {
+        font-size: 1.3em;
+    }
+    .dateTimeFieldContainer {
+        padding-right: 15px;
+    }
+
+}

@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://js.arcgis.com/4.6/esri/css/main.css">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+
+    <title>DevSummit Map</title>
+</head>
+
+<body>
+    <script>
+        var dojoConfig = {
+            aliases: [
+                ['jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'],
+                ['bootstrap', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'],
+                ['selectpicker',
+                    'https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js'
+                ]
+            ]
+        };
+    </script>
+    <script src="https://js.arcgis.com/4.6/"></script>
+    <script src="js/main.js"></script>
+
+    <div class="row maincontainer">
+        <div class="col-md-4 side" id="navDiv">
+            <div class="row header" id="headerDiv">
+                <div class="col-md-12">
+                    <p class="title">DevSummit Map</p>
+                </div>
+                <div class="col-md-12 navigator row" id="navigator">
+                    <div class="tab active" id="nowtab">
+                        Ongoing
+                    </div>
+                    <div class="tab" id="filterstab">
+                        Full Schedule
+                    </div>
+                </div>
+            </div>
+            <div class="row content" id="contentDiv">
+                <div class="filters" id="filters">
+                    <div class="filtersContent filters-open" id="filtersContent">
+                        <table width="100%;" class="filtersTable">
+                            <tr id="betweenLabelRow" class="hidden">
+                                <td>
+                                </td>
+                                <td>
+                                    <label>Between</label>
+                                </td>
+                            </tr>
+                            <tr id="betweenFieldsRow" class="hidden">
+                                <td>
+
+                                </td>
+                                <td width="99%">
+                                    <div class="row fullwidth">
+                                        <div class="col-lg-6 dateTimeFieldContainer">
+                                            <div class="input-group">
+                                                <span class="input-group-addon">
+                                                    <span class="fa fa-calendar"></span>
+                                                </span>
+                                                <input type="date" class="form-control" id="startingDateField" value="2018-03-05">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 dateTimeFieldContainer">
+                                            <div class="input-group">
+                                                <span class="input-group-addon">
+                                                    <span class="fa fa-sm fa-clock"></span>
+                                                </span>
+                                                <input type="time" class="form-control" id="startingTimeField" value="06:00">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row fullwidth">
+                                        <div class="col-lg-6 dateTimeFieldContainer">
+                                            <div class="input-group">
+                                                <span class="input-group-addon">
+                                                    <span class="fa fa-calendar"></span>
+                                                </span>
+                                                <input type="date" class="form-control" id="endingDateField" value="2018-03-09">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 dateTimeFieldContainer">
+                                            <div class="input-group">
+                                                <span class="input-group-addon">
+                                                    <span class="fa fa-sm fa-clock"></span>
+                                                </span>
+                                                <input type="time" class="form-control" id="endingTimeField" value="20:00">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="checkbox" id="tagscheckbox" style="margin-right:5px;">
+                                </td>
+                                <td style="width:99%;">
+                                    <label>Tags</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+
+                                </td>
+                                <td>
+                                    <select class="selectpicker" id="tagsField" multiple data-live-search="true" data-actions-box="true">
+                                        <option>3D</option>
+                                        <option>APL</option>
+                                        <option>Apps</option>
+                                        <option>Business Intelligence</option>
+                                        <option>Conference Services/Activities</option>
+                                        <option>Demo Theater Presentation</option>
+                                        <option>Dev 2 Dev</option>
+                                        <option>Enterprise</option>
+                                        <option>Esri Technical Session</option>
+                                        <option>Geodatabase</option>
+                                        <option>Geoprocessing</option>
+                                        <option>Imagery/Raster</option>
+                                        <option>Online</option>
+                                        <option>Pro</option>
+                                        <option>Professional Services</option>
+                                        <option>Real-Time GIS</option>
+                                        <option>Runtime</option>
+                                        <option>UX/UI</option>
+                                        <option>Web</option>
+                                        <option>WebOps</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="checkbox" id="speakerscheckbox">
+                                </td>
+                                <td>
+                                    <label>Speakers</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+
+                                </td>
+                                <td>
+                                    <select class="selectpicker" id="speakersField" multiple data-live-search="true" data-actions-box="true">
+                                        <option>Aaron Pulver</option>
+                                        <option>Adam Mollenkopf</option>
+                                        <option>Adrien Meriaux</option>
+                                        <option>Alan Sangma</option>
+                                        <option>Albert Pascual</option>
+                                        <option>Alex Harris</option>
+                                        <option>Alexander Smailes</option>
+                                        <option>Alison Sizer</option>
+                                        <option>Allan Laframboise</option>
+                                        <option>Amit Kesarwani</option>
+                                        <option>Andrea Rosso</option>
+                                        <option>Andrew Chapkowski</option>
+                                        <option>Andrew Ortego</option>
+                                        <option>Andrew Sakowicz</option>
+                                        <option>Andrew Turner</option>
+                                        <option>Andy Eveland</option>
+                                        <option>Andy Gup</option>
+                                        <option>Anjali Bhangay</option>
+                                        <option>Annie Sasidar</option>
+                                        <option>Antti Kajanus</option>
+                                        <option>Art Haddad</option>
+                                        <option>Atma Mani</option>
+                                        <option>Ben Ramseth</option>
+                                        <option>Bern Szukalski</option>
+                                        <option>Bill Major II</option>
+                                        <option>Bjorn Svensson</option>
+                                        <option>Bob Gerlt</option>
+                                        <option>Bojan Savric</option>
+                                        <option>Brad Niemand</option>
+                                        <option>Brandon Armstrong</option>
+                                        <option>Brent Pierce</option>
+                                        <option>Brooks Robertson</option>
+                                        <option>Bruce Harold</option>
+                                        <option>Calvin Jung</option>
+                                        <option>Carlos Osorio-Murillo</option>
+                                        <option>Carol Sousa</option>
+                                        <option>Carsten Piepel</option>
+                                        <option>Charlie Macleod</option>
+                                        <option>Chayanika Khatua</option>
+                                        <option>Cherry Lin</option>
+                                        <option>Chris Andrews</option>
+                                        <option>Chris Lesueur</option>
+                                        <option>Chris Whitmore</option>
+                                        <option>Christopher Zent</option>
+                                        <option>Clint Loveman</option>
+                                        <option>Clinton Dow</option>
+                                        <option>Cody Benkelman</option>
+                                        <option>Colin Zwicker</option>
+                                        <option>Cooper Thomas</option>
+                                        <option>Courtney Claessens</option>
+                                        <option>Craig Cleveland</option>
+                                        <option>Craig Gillgrass</option>
+                                        <option>Craig McCabe</option>
+                                        <option>Craig Williams</option>
+                                        <option>Daniel Fenton</option>
+                                        <option>Dave Bayer</option>
+                                        <option>Dave Johnson</option>
+                                        <option>Dave Nyenhuis</option>
+                                        <option>David Bouwman</option>
+                                        <option>David Cardella</option>
+                                        <option>David Crawford</option>
+                                        <option>David Martinez</option>
+                                        <option>David Sousa</option>
+                                        <option>David Vitale</option>
+                                        <option>David Watkins</option>
+                                        <option>David Wynne</option>
+                                        <option>Dawit Elias</option>
+                                        <option>Deelesh Mandloi</option>
+                                        <option>Deng Ding</option>
+                                        <option>Derek Law</option>
+                                        <option>Derrick Burke</option>
+                                        <option>Divesh Goyal</option>
+                                        <option>Dmitry Kudinov</option>
+                                        <option>Don Kuehne</option>
+                                        <option>Doug Morgenthaler</option>
+                                        <option>Doug Sterling II</option>
+                                        <option>Drew Flater</option>
+                                        <option>Elizabeth Graham</option>
+                                        <option>Eric Wittner</option>
+                                        <option>Erich Rainville</option>
+                                        <option>Erik Hoel</option>
+                                        <option>Erwin Soekianto</option>
+                                        <option>Euan Cameron</option>
+                                        <option>Flora Vale</option>
+                                        <option>Frank Kish</option>
+                                        <option>Garry Burgess</option>
+                                        <option>Gary MacDougall</option>
+                                        <option>Gavin Rehkemper</option>
+                                        <option>George Bochenek</option>
+                                        <option>Ghislain Prince</option>
+                                        <option>Graham Hudgins</option>
+                                        <option>Haoliang Yu</option>
+                                        <option>Heather Gonzago</option>
+                                        <option>Heather McCracken</option>
+                                        <option>Hilary Curtis</option>
+                                        <option>Hugh Keegan</option>
+                                        <option>Ian Wittenmyer</option>
+                                        <option>Idi Eradiri</option>
+                                        <option>Ismael Chivite</option>
+                                        <option>Jacob Wasilkowski</option>
+                                        <option>James Tedrick</option>
+                                        <option>Jamie Drisdelle</option>
+                                        <option>Javier Delgadillo</option>
+                                        <option>Javier Gutierrez</option>
+                                        <option>Jay Theodore</option>
+                                        <option>Jayson Ward</option>
+                                        <option>Jeff Archer</option>
+                                        <option>Jeff Barrette</option>
+                                        <option>Jeff Jackson</option>
+                                        <option>Jeff Moulds</option>
+                                        <option>Jeff Rogers</option>
+                                        <option>Jeff Shaner</option>
+                                        <option>Jeff Smith</option>
+                                        <option>Jennifer Bell</option>
+                                        <option>Jeremiah Moore</option>
+                                        <option>Jeremy Bartley</option>
+                                        <option>Jeremy Schneider</option>
+                                        <option>Jesse van den Kieboom</option>
+                                        <option>Jianxia Song</option>
+                                        <option>Jibin Liu</option>
+                                        <option>Jie Zhang</option>
+                                        <option>Jillian Penney</option>
+                                        <option>Jim Herries</option>
+                                        <option>Jim McKinney</option>
+                                        <option>Joel Whitney</option>
+                                        <option>John Gravois</option>
+                                        <option>John Grayson</option>
+                                        <option>John Yaist</option>
+                                        <option>Jonathan Quinn</option>
+                                        <option>Jonathan Uihlein</option>
+                                        <option>Josh Joyner</option>
+                                        <option>Joshua Peterson</option>
+                                        <option>Juan Carlos Franco</option>
+                                        <option>Julia Yunzhu Shi</option>
+                                        <option>Justin Colville</option>
+                                        <option>Karl Frantz</option>
+                                        <option>Kelly Gerrow-Wilcox</option>
+                                        <option>Kelly Hutchins</option>
+                                        <option>Ken Gorton</option>
+                                        <option>Kerry Robinson</option>
+                                        <option>Kevin Burke</option>
+                                        <option>Kevin Butler</option>
+                                        <option>Kevin Gao</option>
+                                        <option>Kevin J Butler</option>
+                                        <option>Koushik Hajra</option>
+                                        <option>Kristian Ekenes</option>
+                                        <option>Kwasi Asante</option>
+                                        <option>Kyle Jones</option>
+                                        <option>Lalaine Lam</option>
+                                        <option>Lance Shipman</option>
+                                        <option>Larry Young</option>
+                                        <option>Lemao Wu</option>
+                                        <option>Linda Beale</option>
+                                        <option>Ling Tang</option>
+                                        <option>Ling Zhang</option>
+                                        <option>Liwei Gao</option>
+                                        <option>Lloyd Heberlie</option>
+                                        <option>Loayeh Jumbam</option>
+                                        <option>Lucas Danzinger</option>
+                                        <option>Manushi Majumdar</option>
+                                        <option>Mara Stoica</option>
+                                        <option>Marjean Pobuda</option>
+                                        <option>Mark Baird</option>
+                                        <option>Mark Carlson</option>
+                                        <option>Mark Deaton</option>
+                                        <option>Mark Dostal</option>
+                                        <option>Mark Janikas</option>
+                                        <option>Mark Smith</option>
+                                        <option>Mark Torrey</option>
+                                        <option>Markham Shofner</option>
+                                        <option>Marley Geddes</option>
+                                        <option>Marten Hogeweg</option>
+                                        <option>Matt Driscoll</option>
+                                        <option>Matt Palmer</option>
+                                        <option>Matthew George</option>
+                                        <option>Maxim Sattarov</option>
+                                        <option>Melanie Summers</option>
+                                        <option>Melinda Morang</option>
+                                        <option>Melita Kennedy</option>
+                                        <option>Michael Tims</option>
+                                        <option>Michael Van den Bergh</option>
+                                        <option>Mike Branscomb</option>
+                                        <option>Mike Gaigg</option>
+                                        <option>Mike Juniper</option>
+                                        <option>Mike Wilburn</option>
+                                        <option>Ming Zhao</option>
+                                        <option>Mitchel Cox</option>
+                                        <option>Mohini Todkari</option>
+                                        <option>Morakot Pilouk</option>
+                                        <option>Morten Nielsen</option>
+                                        <option>Moxie Zhang</option>
+                                        <option>Naila Khan</option>
+                                        <option>Nakul Manocha</option>
+                                        <option>Narelle Chedzey</option>
+                                        <option>Nathan Castle</option>
+                                        <option>Nathan Shephard</option>
+                                        <option>Nawajish Noman</option>
+                                        <option>Neel Chowdhury</option>
+                                        <option>Neeraj Rajasekar</option>
+                                        <option>Nghiep Quang</option>
+                                        <option>Nicholas Furness</option>
+                                        <option>Nick Black</option>
+                                        <option>Nick Brueggemann</option>
+                                        <option>Nick Patel</option>
+                                        <option>Nick Senger</option>
+                                        <option>Nikhil Shampur</option>
+                                        <option>Nitin Bajaj</option>
+                                        <option>Noah Sager</option>
+                                        <option>Noah Slocum</option>
+                                        <option>Orhun Aydin</option>
+                                        <option>Owen Evans</option>
+                                        <option>Pascal Mueller</option>
+                                        <option>Patrick Arlt</option>
+                                        <option>Patrick Brennan</option>
+                                        <option>Patrick Wallis</option>
+                                        <option>Paul Barker</option>
+                                        <option>Paul Ross</option>
+                                        <option>Philip Heede</option>
+                                        <option>Pranav Kulkarni</option>
+                                        <option>Prashant Mangtani</option>
+                                        <option>Quan Tang</option>
+                                        <option>RJ Sunderman Jr</option>
+                                        <option>Rafael Fernandes</option>
+                                        <option>Raluca Nicola</option>
+                                        <option>Rama Chintapalli</option>
+                                        <option>Randall Williams</option>
+                                        <option>Randy Jones</option>
+                                        <option>Rene Rubalcava</option>
+                                        <option>Rex Hansen</option>
+                                        <option>Ricardo Trujillo</option>
+                                        <option>Rich Ruh</option>
+                                        <option>Richard Caballero</option>
+                                        <option>Richard Zwaap</option>
+                                        <option>Richie Carmichael</option>
+                                        <option>Rick Anderson</option>
+                                        <option>Rob Burke</option>
+                                        <option>Rob Elkins Jr</option>
+                                        <option>Robert Juergens</option>
+                                        <option>Rohit Singh</option>
+                                        <option>Russell Louks</option>
+                                        <option>Russell Roberts</option>
+                                        <option>Said Parirokh</option>
+                                        <option>Sam Hunter</option>
+                                        <option>Sandie Peters</option>
+                                        <option>Sarah Ambrose</option>
+                                        <option>Sarah Bell</option>
+                                        <option>Scott Ball</option>
+                                        <option>Sean Jones</option>
+                                        <option>Sean Olson</option>
+                                        <option>Shankar Chandrasekaran</option>
+                                        <option>Shannon Kalisky</option>
+                                        <option>Shannon Shields</option>
+                                        <option>Shaun Walbridge</option>
+                                        <option>Shreyas Shinde</option>
+                                        <option>Siddesh Pillai</option>
+                                        <option>Stefan Arisona</option>
+                                        <option>Stefan Balbo</option>
+                                        <option>Steve Moore</option>
+                                        <option>Steve Van Esch</option>
+                                        <option>Steven Boyd</option>
+                                        <option>Steven Kitterman</option>
+                                        <option>Suganya Baskaran</option>
+                                        <option>Suzanne Foss</option>
+                                        <option>Tamrat Belayneh</option>
+                                        <option>Tanu Hoque</option>
+                                        <option>Tao Zhang</option>
+                                        <option>Thaddeus Tilton</option>
+                                        <option>Thomas Dunn</option>
+                                        <option>Thomas Edghill</option>
+                                        <option>Thomas Emge</option>
+                                        <option>Thomas Other</option>
+                                        <option>Tif Pun</option>
+                                        <option>Tina Jin</option>
+                                        <option>Tom Brown</option>
+                                        <option>Tom Wayson</option>
+                                        <option>Ty Fitzpatrick</option>
+                                        <option>Tyler Schiewe</option>
+                                        <option>Uma Harano</option>
+                                        <option>Victor Bhattacharyya</option>
+                                        <option>Vijay Gandhi</option>
+                                        <option>Vinay Viswambharan</option>
+                                        <option>Witold Fraczek</option>
+                                        <option>Wolf Kaiser</option>
+                                        <option>Xueming Wu</option>
+                                        <option>Yann Cabon</option>
+                                        <option>Yiwei Ma</option>
+                                        <option>Yue Zhao</option>
+                                        <option>Zhiguang Han</option>
+                                        <option>Zoey Zou</option>
+                                    </select>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="showHide filters-open" id="showHideFilters"></div>
+                </div>
+                <div class="cardContainer" id="cardContainer">
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8 main" id="mapDiv">
+
+        </div>
+    </div>
+</body>
+
+</html>
