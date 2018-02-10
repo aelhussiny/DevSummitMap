@@ -1,6 +1,6 @@
 var config;
 require([
-    "./js/Map.js",
+    "./js/map.js",
     "dojo/text!./config.json",
     "dojo/text!./sessions.json",
     "dojo/on",
