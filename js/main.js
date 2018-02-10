@@ -21,6 +21,11 @@ require([
             session["timeTo"] = endDateTime;
         }
         config.width = $(window).width();
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            $('.selectpicker').selectpicker('mobile');
+        } else {
+            $('.selectpicker').selectpicker();
+        }
         $("#nowtab").click(function (e) {
             setAppState("now");
         });
@@ -278,27 +283,27 @@ require([
             });
             mymap.updateFeatures(filteredSessions);
             setClicks();
-            mymap.on("featureselected", function(feature){
-                if(feature!=null) {
+            mymap.on("featureselected", function (feature) {
+                if (feature != null) {
                     setSelectedCard(feature.attributes.TITLE, feature.attributes.TIMEFROM);
                 }
             });
-            mymap.on("popupClosed", function() {
+            mymap.on("popupClosed", function () {
                 $(".my-card").removeClass("selected");
             });
         }
 
         function setSelectedCard(title, timeFrom) {
             $(".my-card").removeClass("selected");
-            $.each($(".my-card"), function() {
-                if($(this).prop('data-card-title') == title && $(this).prop('data-card-timeFrom') == timeFrom) {
+            $.each($(".my-card"), function () {
+                if ($(this).prop('data-card-title') == title && $(this).prop('data-card-timeFrom') == timeFrom) {
                     $(this).addClass("selected");
                 }
             });
         }
 
         function setClicks() {
-            $(".my-card").click(function(){
+            $(".my-card").click(function () {
                 $(".my-card").removeClass("selected");
                 $(this).addClass("selected");
                 mymap.setSelectedFeature($(this).prop('data-card-title'), $(this).prop('data-card-timeFrom'));
